@@ -9,8 +9,16 @@ const HeaderContainer = styled.header`
 `;
 
 const HeaderTitle = styled.h1`
-  font-size: 6vw;  /* Adjust the value to make it responsive */
+  font-size: 2.5rem; /* Default size */
   margin-bottom: 10px;
+
+  @media (max-width: 768px) {
+    font-size: 2rem; /* Smaller devices */
+  }
+
+  @media (max-width: 480px) {
+    font-size: 1.5rem; /* Even smaller devices */
+  }
 `;
 
 const SubTitle = styled.p`

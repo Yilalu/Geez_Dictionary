@@ -14,7 +14,7 @@ const LinkedInButton = styled.a`
   position: absolute;
   top: 3px;
   right: 5px;
-  padding: 4px 8px;
+  padding: 1px 8px;
   background-color: #0077b5;
   color: white;
   text-decoration: none;
