@@ -1,4 +1,3 @@
-// Header.js
 import React from 'react';
 import styled from 'styled-components';
 
@@ -10,7 +9,7 @@ const HeaderContainer = styled.header`
 `;
 
 const HeaderTitle = styled.h1`
-  font-size: 2.5rem;
+  font-size: 6vw;  /* Adjust the value to make it responsive */
   margin-bottom: 10px;
 `;
 
