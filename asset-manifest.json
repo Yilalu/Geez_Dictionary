@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yilalu/Geez_Dictionary/static/css/main.e6c13ad2.css",
+    "main.js": "/Yilalu/Geez_Dictionary/static/js/main.1e176852.js",
+    "static/js/453.14f435a1.chunk.js": "/Yilalu/Geez_Dictionary/static/js/453.14f435a1.chunk.js",
+    "index.html": "/Yilalu/Geez_Dictionary/index.html",
+    "main.e6c13ad2.css.map": "/Yilalu/Geez_Dictionary/static/css/main.e6c13ad2.css.map",
+    "main.1e176852.js.map": "/Yilalu/Geez_Dictionary/static/js/main.1e176852.js.map",
+    "453.14f435a1.chunk.js.map": "/Yilalu/Geez_Dictionary/static/js/453.14f435a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1e176852.js"
+  ]
+}
