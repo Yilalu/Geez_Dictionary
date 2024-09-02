@@ -1,0 +1,7536 @@
+{
+    "ሀልሀ/ሃልሀ": {
+        "Amharic": "ባረከ ፣ ወደረ (የከብት፡-አሰረ)",
+        "English": "give blessing, tie,",
+        "Voice": "voice_halha.m4a",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ለሕሐ": {
+        "Amharic": "ቀዳ (የውሃ የመጽሐፍ)",
+        "English": "fatch,copy",
+        "Voice": "voice_leheha.m4a",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ላህልሀ": {
+        "Amharic": "ራሰ",
+        "English": "soaked, got wet",
+        "Voice": "voice_lehlha.m4a",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ለቅሐ": {
+        "Amharic": "አበደረ",
+        "English": "borrow, gave loan, lend, loan",
+        "Voice": "voice_lekha.m4a",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ለብሐ": {
+        "Amharic": "ሠራ (የሸክላ ብቻ)",
+        "English": "make( clay, potter)",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ለትሐ": {
+        "Amharic": "ተጎነጨ (የመጠጥ)",
+        "English": "drink",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሎሐ": {
+        "Amharic": "ጻፈ",
+        "English": "write, buffet",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ለጥሐ": {
+        "Amharic": "ገበረ",
+        "English": "pay(tax)",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ማሕምሐ": {
+        "Amharic": "አፈረሰ",
+        "English": "destroy, destroy, dissolve, elide,",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "መልኀ": {
+        "Amharic": "መዘዘ",
+        "English": "pull",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "መልሐ": {
+        "Amharic": "መዘዘ ፣ አጣፈጠ",
+        "English": " drew, drawn, sweet, sweetened, flavoured,",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "መስሐ": {
+        "Amharic": "ምሳ አደረገ",
+        "English": "lunch",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "መርሐ": {
+        "Amharic": "መራ",
+        "English": "lead, directed (a show, presentation,",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሞርቅሐ": {
+        "Amharic": "ላጠ",
+        "English": "peal",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሞቅሐ": {
+        "Amharic": "አሰረ (የሰው ብቻ)",
+        "English": "tie",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "መትሀ": {
+        "Amharic": "ሣሣ፣ቀጠነ (የመርቀቅ)",
+        "English": "thin",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "መንዝሐ": {
+        "Amharic": "ተደላደለ",
+        "English": "comfortable",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "መድሐ": {
+        "Amharic": "ፈጨ",
+        "English": "mill, milled flour, ground, crushed,",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሞጥሐ": {
+        "Amharic": "ለበሰ",
+        "English": "wear",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሰርሐ": {
+        "Amharic": "ሠራ",
+        "English": "do,make",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሠርሐ": {
+        "Amharic": "አቅናና፣አከናወነ",
+        "English": "finish,comoleted",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሣርኀ": {
+        "Amharic": "አበራ",
+        "English": "shine",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሰብሐ": {
+        "Amharic": "አመሰገነ",
+        "English": "glorify",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሠብሐ": {
+        "Amharic": "ስብ ሆነ (የከብት)",
+        "English": "fat",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሰንሐ": {
+        "Amharic": "በራ ሆነ",
+        "English": "bold",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሰይሐ": {
+        "Amharic": "ታመመ",
+        "English": "sick, ill",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሴሐ": {
+        "Amharic": "ወገጠ",
+        "English": "grind",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሰጥሐ": {
+        "Amharic": "አሰጣ፣ ዘረጋ",
+        "English": "spread out",
+        "Details": {
+            "Halafi": "",
+            "Tinbit": "",
+            "Zend": "",
+            "Tizaz": "",
+            "Nues": "",
+            "Sals":"",
+            "Anstay": "",
+            "BaIed": "",
+            "Boze":  "",
+            "Zemed": ""
+        }
+    },
+    "ሰፍሐ": {
+        "Amharic": "ሰፋ (ሰፊ ሆነ)",
+        "English": "wide"
+    },
+    "ረምሐ": {
+        "Amharic": "ወጋ (የጦር)",
+        "English": "pencture ,stab"
+    },
+    "ረስሐ": {
+        "Amharic": "ጎሰቆለ",
+        "English": "was wretched, was in a miserable"
+    },
+    "ረቅሐ": {
+        "Amharic": "ጋረጠ (የጋሬጣ)",
+        "English": ""
+    },
+    "ረብሐ": {
+        "Amharic": "ረባ",
+        "English": "important ,usefull"
+    },
+    "ረውሐ": {
+        "Amharic": "ቀደደ",
+        "English": "tear"
+    },
+    "ቀሕቅሐ": {
+        "Amharic": "ተንቆራቆሰ፣አሰምቶ ተናገረ",
+        "English": "spoke loud"
+    },
+    "ቈልሐ": {
+        "Amharic": "ፍሬ ያዘ",
+        "English": "seed"
+    },
+    "ቀምሐ": {
+        "Amharic": "አፈራ",
+        "English": "seed, bear fruit, make made, win"
+    },
+    "ቀርሐ": {
+        "Amharic": "ጨለጠ",
+        "English": "finished( drinking)"
+    },
+    "ቃርሐ": {
+        "Amharic": "ተኰሰ",
+        "English": ""
+    },
+    "ቄሐ": {
+        "Amharic": "ቀላ (የመቅላት)",
+        "English": "reddish"
+    },
+    "በኅብኀ": {
+        "Amharic": "ከረፋ፣ቀረና",
+        "English": "bad smell, foul smelling"
+    },
+    "በኍበኈ": {
+        "Amharic": "ሸተተ፣ በሰበሰ",
+        "English": "bad smell, foul smelling"
+    },
+    "በልሐ": {
+        "Amharic": "ተሳለ፣ስለት ሆነ",
+        "English": "sharp"
+    },
+    "ባልሐ": {
+        "Amharic": "አዳነ",
+        "English": "heal"
+    },
+    "በርሀ": {
+        "Amharic": "ብርሃን ሆነ",
+        "English": "bright"
+    },
+    "በርሐ": {
+        "Amharic": "በራ ሆነ",
+        "English": "bold"
+    },
+    "በዝኀ": {
+        "Amharic": "በዛ",
+        "English": "excess, a lot , so many"
+    },
+    "በጥሐ": {
+        "Amharic": "በጣ",
+        "English": "cut, incise"
+    },
+    "በጽሐ": {
+        "Amharic": "ደረሰ",
+        "English": "reach,"
+    },
+    "ታሕትሐ": {
+        "Amharic": "ፈላ",
+        "English": "boil"
+    },
+    "ተመክሐ": {
+        "Amharic": "ተመካ",
+        "English": "proud"
+    },
+    "ቶስሐ": {
+        "Amharic": "ጨመረ",
+        "English": "add, pour"
+    },
+    "ተራኅርኀ": {
+        "Amharic": "ቸር ሆነ፣ራራ",
+        "English": "generous, kind"
+    },
+    "ተበውሐ": {
+        "Amharic": "ሠለጠነ፣ፈቃድ ተቀበለ",
+        "English": "trained,"
+    },
+    "ተንሀ": {
+        "Amharic": "አገመ",
+        "English": "cup"
+    },
+    "ተዋህውሀ": {
+        "Amharic": "ተመላለሰ",
+        "English": "ply"
+    },
+    "ተየውሃ": {
+        "Amharic": "የዋህ ሆነ፣ ተሞኘ፣ ገራም ሆነ",
+        "English": "ingenous,fool"
+    },
+    "ተጋህግሀ": {
+        "Amharic": "ክፍት ክፍት አለ",
+        "English": "open"
+    },
+    "ተጋውሐ": {
+        "Amharic": "ጎረቤት ሆነ",
+        "English": "neighbor"
+    },
+    "ተግሀ": {
+        "Amharic": "ተጋ",
+        "English": "diligent ,assiduous"
+    },
+    "ተጻብሐ": {
+        "Amharic": "እንዴት አድርህ ተባባለ",
+        "English": "greet each other"
+    },
+    "ተፈሥሐ": {
+        "Amharic": "ደስ ተሰኘ",
+        "English": "happy"
+    },
+    "ናሕንሐ": {
+        "Amharic": "ትርፍርፍ አለ",
+        "English": "excess"
+    },
+    "ነስሐ": {
+        "Amharic": "ተጸጸተ",
+        "English": "regret"
+    },
+    "ነስኀ": {
+        "Amharic": "ሸተተ፣ከረፋ",
+        "English": "bad smell, foul smelling"
+    },
+    "ነቅሀ": {
+        "Amharic": "ነቃ",
+        "English": "awake"
+    },
+    "ነብሐ": {
+        "Amharic": "ጮኽ (የውሻ፣የሰው፣የንብ)",
+        "English": "shout"
+    },
+    "ኖኀ": {
+        "Amharic": "ረዘመ",
+        "English": "tall"
+    },
+    "ነዝሀ": {
+        "Amharic": "ረጨ",
+        "English": "emit,slop,spatter"
+    },
+    "ነድሐ": {
+        "Amharic": "ነዳ",
+        "English": "drive"
+    },
+    "ነግሀ": {
+        "Amharic": "ነጋ",
+        "English": "morning"
+    },
+    "ነጽሐ": {
+        "Amharic": "ንጹሕ ሆነ፣ነጻ",
+        "English": "clean, clear"
+    },
+    "ነፍኀ": {
+        "Amharic": "ነፋ፣ቀበተተ",
+        "English": "bloat"
+    },
+    "አምኀ": {
+        "Amharic": "እጅ ነሣ",
+        "English": "bow"
+    },
+    "አመልትሐ": {
+        "Amharic": "አመሳቀለ",
+        "English": "rummage"
+    },
+    "አመርግሐ": {
+        "Amharic": "አንከባለለ",
+        "English": "roll, precipitate"
+    },
+    "አመድቅሐ": {
+        "Amharic": "ሠራ (የቤት)",
+        "English": "build"
+    },
+    "አስተማዝሐ": {
+        "Amharic": "አቀበጠ አቀማጠለ",
+        "English": "leviate,levity"
+    },
+    "አርሳሕስሐ": {
+        "Amharic": "አረሳሳ፣አስነወረ",
+        "English": "disappointed,forget"
+    },
+    "አቅያሕይሐ": {
+        "Amharic": "አቅላላ",
+        "English": "got reddish"
+    },
+    "አብሐ": {
+        "Amharic": "አሰናበተ",
+        "English": "dismissed"
+    },
+    "አንሳሕስሐ": {
+        "Amharic": "አነሳሳ ተነሳሳ",
+        "English": "encourage"
+    },
+    "አንባሕብሐ": {
+        "Amharic": "ዱብ ዱብ አደረገ",
+        "English": "fall down"
+    },
+    "አንግሀ": {
+        "Amharic": "ማለደ",
+        "English": "early morning"
+    },
+    "ኤኀ": {
+        "Amharic": "ጠፋ",
+        "English": "canceled, lost"
+    },
+    "አጸንሕሐ": {
+        "Amharic": "አሻተተ",
+        "English": "need, want,search"
+    },
+    "ከልሐ": {
+        "Amharic": "ጮኽ (የሰው የከብት)",
+        "English": "shout"
+    },
+    "ከልትሐ": {
+        "Amharic": "አሰረ (የነዶ)",
+        "English": "tie"
+    },
+    "ኰርሀ": {
+        "Amharic": "ግድ አለ",
+        "English": "obligate"
+    },
+    "ወክሐ": {
+        "Amharic": "ደነፋ፣ ፎከረ",
+        "English": "bluster"
+    },
+    "ወጥሐ": {
+        "Amharic": "ከመረ፣ ደረደረ",
+        "English": "aline"
+    },
+    "ዛሕዝሐ": {
+        "Amharic": "ትርፍርፍ አለ",
+        "English": "abandunt,excess"
+    },
+    "ዘልሐ": {
+        "Amharic": "ጠመቀ (የጠላ)",
+        "English": "ferment"
+    },
+    "ዘብሐ": {
+        "Amharic": "አረደ",
+        "English": "slaughter"
+    },
+    "ዘግሐ": {
+        "Amharic": "ዘጋ",
+        "English": "close"
+    },
+    "የውሀ": {
+        "Amharic": "አታለለ",
+        "English": "deceive"
+    },
+    "ደኅኀ": {
+        "Amharic": "ጸና",
+        "English": "stay unchanged"
+    },
+    "ደምሐ": {
+        "Amharic": "ጠለቀ",
+        "English": "plunge"
+    },
+    "ደርግሐ": {
+        "Amharic": "ደረተ፣ሰፋ",
+        "English": "sewing"
+    },
+    "ደቅሐ": {
+        "Amharic": "ደቃ፣ቀጠቀጠ",
+        "English": "hammer"
+    },
+    "ገህሀ": {
+        "Amharic": "አበራ",
+        "English": "shine"
+    },
+    "ጋህግሀ": {
+        "Amharic": "ክፍት ክፍት አደረገ (የመስኮት)",
+        "English": "open"
+    },
+    "ገርሀ": {
+        "Amharic": "ገራ፣ግር ሆነ (የጠባይ የእርሻ)",
+        "English": "corrected,"
+    },
+    "ጎርሐ": {
+        "Amharic": "ተተነኳኮለ",
+        "English": "crafty"
+    },
+    "ገንሐ": {
+        "Amharic": "ተቆጣ",
+        "English": "angry , you be angry, be angry,"
+    },
+    "ጎሐ": {
+        "Amharic": "ጠባ፣ነጋ",
+        "English": "morning"
+    },
+    "ጠብሐ": {
+        "Amharic": "አረደ",
+        "English": "slaughter"
+    },
+    "ጠፋልሐ": {
+        "Amharic": "መዘነ",
+        "English": "weight, balance"
+    },
+    "ጠፍሐ": {
+        "Amharic": "አጨበጨበ",
+        "English": "clap"
+    },
+    "ጻሕጽሐ": {
+        "Amharic": "አጎረፈ",
+        "English": "flood"
+    },
+    "ጸርሐ": {
+        "Amharic": "ጮኸ",
+        "English": "shout"
+    },
+    "ጸብሐ": {
+        "Amharic": "ገበረ",
+        "English": "pay(tax)"
+    },
+    "ጸንሐ": {
+        "Amharic": "ቆየ",
+        "English": "stay"
+    },
+    "ጼሐ": {
+        "Amharic": "ጠረገ",
+        "English": "clear, erase,sweep"
+    },
+    "ጸፍሐ": {
+        "Amharic": "ገለበጠ፣ለመጠ",
+        "English": "over,"
+    },
+    "ፈልሐ": {
+        "Amharic": "ፈላ",
+        "English": "boil, simmered, boiled, bubbled, was"
+    },
+    "ፈርሀ": {
+        "Amharic": "ፈራ",
+        "English": "fear"
+    },
+    "ፈትሐ": {
+        "Amharic": "ፈታ፣ፈረደ",
+        "English": "justified, justice"
+    },
+    "ፎሐ": {
+        "Amharic": "ገመሰ",
+        "English": "half"
+    },
+    "ፈጽሐ": {
+        "Amharic": "ገመሰ፣ሰነጠቀ፣ፈነቀለ",
+        "English": "half,crack, to uplift"
+    },
+    "ሐለለ": {
+        "Amharic": "አረረ፣በራ፣ተቃጠለ",
+        "English": "be on fire, be"
+    },
+    "ሐመለ": {
+        "Amharic": "ለቀመ፣ቀነጠሰ",
+        "English": "reaped, picked up, picked,"
+    },
+    "ሐሰለ": {
+        "Amharic": "ለበበ (የልጓም)",
+        "English": "put a rope or leather"
+    },
+    "ሐቀለ": {
+        "Amharic": "ቀማ",
+        "English": "took by force, grabbed, bereave,"
+    },
+    "ኀበለ": {
+        "Amharic": "ተደፋፈረ",
+        "English": "was brave, daring, gallant,"
+    },
+    "ሐበለ": {
+        "Amharic": "ታታ",
+        "English": "intertwined, interlaced"
+    },
+    "ሐብለ": {
+        "Amharic": "ዋሸ",
+        "English": "told lies, denied, sham,"
+    },
+    "ሐንበለ": {
+        "Amharic": "ጫነ (የኰረቻ)",
+        "English": "loaded, charge, freight,"
+    },
+    "ሖለ": {
+        "Amharic": "ቀላቀለ፣አደባለቀ",
+        "English": "blend, combine, intermix,"
+    },
+    "ሐዘለ": {
+        "Amharic": "አዘለ",
+        "English": "Carry (carried), Carry on the back,"
+    },
+    "ኀየለ": {
+        "Amharic": "በረታ",
+        "English": "recovered, gained strength"
+    },
+    "ኄለ": {
+        "Amharic": "መነጨ",
+        "English": "sprang out, sprang from the"
+    },
+    "ሀጕለ": {
+        "Amharic": "ጠፋ",
+        "English": "vanished, gone astray, missing,"
+    },
+    "መሐለ": {
+        "Amharic": "ማለ",
+        "English": "wore, vow, swear"
+    },
+    "መለለ": {
+        "Amharic": "ላገ፣ጠረበ፣አለሰለሰ (የእንጨት)",
+        "English": "was made"
+    },
+    "መምዔለ": {
+        "Amharic": "ወነጀለ",
+        "English": "incriminated, accused of"
+    },
+    "መሰለ": {
+        "Amharic": "መሰለ",
+        "English": "resemble, spoke in parables,"
+    },
+    "መበለ": {
+        "Amharic": "ብልጭ አለ",
+        "English": "gleamed, sparkled, shone"
+    },
+    "መከለ": {
+        "Amharic": "ቆረጠ",
+        "English": "cut, he reaps"
+    },
+    "ሞጽበለ": {
+        "Amharic": "ሞረደ",
+        "English": "sharpener, device for honing"
+    },
+    "ሰሐለ": {
+        "Amharic": "ሳለ (የብረት)",
+        "English": "whet, sharpen, grind,"
+    },
+    "ሳሕለለ": {
+        "Amharic": "ደረቀ",
+        "English": "was stubborn, was stiffened,"
+    },
+    "ሰመለ": {
+        "Amharic": "አለዘበ (የጠባይ የእንጨት)",
+        "English": "smoothed,"
+    },
+    "ሰሰለ": {
+        "Amharic": "ወገደ",
+        "English": "- cleared up, avoid,  overcome"
+    },
+    "ሰቀለ": {
+        "Amharic": "ሰቀለ",
+        "English": "hanged, crucify, hang, hung,"
+    },
+    "ሰብለ": {
+        "Amharic": "ዘረዘረ",
+        "English": "itemized, enumerated,"
+    },
+    "ሰንሰለ": {
+        "Amharic": "አያያዘ፣አቆራኘ",
+        "English": "united, kindled, joined"
+    },
+    "ሰአለ": {
+        "Amharic": "ለመነ",
+        "English": "cry for, beseech or besought,"
+    },
+    "ሰከለ": {
+        "Amharic": "አፈራ",
+        "English": "produced fruit, bore fruit, form,"
+    },
+    "ሶለ": {
+        "Amharic": "ሸተ፣ጮረቃ",
+        "English": "became somewhat ready to"
+    },
+    "ሰደለ": {
+        "Amharic": "መዘነ",
+        "English": "measure out, criticize, weigh"
+    },
+    "ሰገለ": {
+        "Amharic": "ጠነቆለ",
+        "English": "was a soothsayer, pricked"
+    },
+    "ረመለ": {
+        "Amharic": "ጠነቆለ",
+        "English": "was a soothsayer, pricked"
+    },
+    "ሮለ": {
+        "Amharic": "በሳ፣ቀደደ",
+        "English": "made a hole drilled, bored,"
+    },
+    "ረገለ": {
+        "Amharic": "ቀዘፈ",
+        "English": "rowed, oar, paddle, steer, row"
+    },
+    "ቀለ": {
+        "Amharic": "ቀለለ",
+        "English": "lost weight, became light, act"
+    },
+    "ቈልቈለ": {
+        "Amharic": "ዘቀዘቀ",
+        "English": "turned up-side-down"
+    },
+    "ቈስለ": {
+        "Amharic": "ቆሰለ",
+        "English": "be linjured, be wounded, have a"
+    },
+    "ቀበለ": {
+        "Amharic": "ሸኘ",
+        "English": "accompany, see off, send off"
+    },
+    "ቀብለ": {
+        "Amharic": "ጎደለ፣አነሰ",
+        "English": "fail, miss, want"
+    },
+    "ቀተለ": {
+        "Amharic": "ገደለ",
+        "English": "put to death, murdered,",
+        "Voice": "voice_ketele.m4a"
+    },
+    "ቀፈለ": {
+        "Amharic": "ለበጠ፣ሸለመ",
+        "English": "covered with cloth, case,"
+    },
+    "ብህለ": {
+        "Amharic": "አለ",
+        "English": "said, spoke,"
+    },
+    "በልበለ": {
+        "Amharic": "አረጀ፣አለቀ (የልብስ)",
+        "English": "be worn, look"
+    },
+    "በሰለ": {
+        "Amharic": "በሰለ",
+        "English": "was ripe, was mature, was"
+    },
+    "በቈለ": {
+        "Amharic": "በቀለ",
+        "English": "pouted, grows, germinate, grow,"
+    },
+    "ብዕለ": {
+        "Amharic": "ባዕለጸጋ ሆነ",
+        "English": "precious, was honoured,"
+    },
+    "ቤዐለ": {
+        "Amharic": "ወደደ",
+        "English": "was in love with, loved, liked,"
+    },
+    "በአለ": {
+        "Amharic": "እንቢ አለ",
+        "English": "refused"
+    },
+    "ቤወለ": {
+        "Amharic": "ወደደ",
+        "English": "was in love with, loved, liked,"
+    },
+    "በጠለ": {
+        "Amharic": "ጠፋ",
+        "English": "vanished, gone astray, missing,"
+    },
+    "በጸለ": {
+        "Amharic": "ቦጨቀ",
+        "English": "tore off, rip, tatter, tear, burst,"
+    },
+    "ትሕለ": {
+        "Amharic": "ቀላወጠ",
+        "English": "cadged, whistled for, got off"
+    },
+    "ተልዕለ": {
+        "Amharic": "ከፍ ከፍ አለ",
+        "English": "became lifted up, lofty,"
+    },
+    "ተመዝጎለ": {
+        "Amharic": "ተከራከረ",
+        "English": "debated contended,"
+    },
+    "ተሠሀለ": {
+        "Amharic": "ይቅር አለ",
+        "English": "apology, act of contrition,"
+    },
+    "ተሰአለ": {
+        "Amharic": "ተጠያየቀ፣ጠየቀ",
+        "English": "sought information ,"
+    },
+    "ተሰነአለ": {
+        "Amharic": "ተስማማ",
+        "English": "agree, agreed, reach an"
+    },
+    "ተቀበለ": {
+        "Amharic": "ተቀበለ",
+        "English": "absorb, accede, endure,"
+    },
+    "ተቀጸለ": {
+        "Amharic": "ተቀዳጀ",
+        "English": "was crowned ,achieved ,"
+    },
+    "ተበቀለ": {
+        "Amharic": "ቂም ያዘ፣ተበቀለ",
+        "English": ""
+    },
+    "ተንበለ": {
+        "Amharic": "ለመነ",
+        "English": ""
+    },
+    "ተአንተለ": {
+        "Amharic": "ቸል ቸል አለ",
+        "English": "ignored, paid no"
+    },
+    "ተዐገለ": {
+        "Amharic": "ቀማ",
+        "English": "took by force, grabbed, bereave,"
+    },
+    "ተከለ": {
+        "Amharic": "ተከለ",
+        "English": "forced into ground, embebed,"
+    },
+    "ተኬወለ": {
+        "Amharic": "ወደኋላ አላ",
+        "English": "left behind,"
+    },
+    "ተወከለ": {
+        "Amharic": "ታመነ",
+        "English": "was trustworthy, was"
+    },
+    "ተድሕለ": {
+        "Amharic": "ኮበለለ",
+        "English": "ran way, eloped, deserted"
+    },
+    "ተደንገለ": {
+        "Amharic": "ተጠበቀ፣ድንግል ሆነ",
+        "English": "was taken care"
+    },
+    "ተዳወለ": {
+        "Amharic": "ተዳካ፣ተዋሰነ",
+        "English": "quarreled with, fought"
+    },
+    "ተጋደለ": {
+        "Amharic": "ተጋደለ",
+        "English": "killed one another, fought,"
+    },
+    "ተፋወለ": {
+        "Amharic": "አሟረተ",
+        "English": "foretold disaster"
+    },
+    "ንኅለ": {
+        "Amharic": "ፈረሰ",
+        "English": "tumble down, be in ruins"
+    },
+    "ነቀለ": {
+        "Amharic": "ነቀለ",
+        "English": "dig up, disconnect, pluck"
+    },
+    "ነዐለ": {
+        "Amharic": "ተጫማ",
+        "English": "put shoes on, put on shoes"
+    },
+    "ነደለ": {
+        "Amharic": "በሳ",
+        "English": "made a hole drilled, bored, stave,"
+    },
+    "ነጸለ": {
+        "Amharic": "ለየ፣ነጠለ",
+        "English": "identified, divided,"
+    },
+    "አሕመልመለ": {
+        "Amharic": "ለመለመ፣አለመለመ",
+        "English": "rendered"
+    },
+    "ዐለለ": {
+        "Amharic": "ጎለተ፣ርስት ጉልት አደረገ",
+        "English": "possessed"
+    },
+    "አመስቀለ": {
+        "Amharic": "አመሳቀለ",
+        "English": "threw into disorder,"
+    },
+    "አማዕቀለ": {
+        "Amharic": "ጥልቅ አደረገ",
+        "English": "convene, cumulate,"
+    },
+    "አማዕበለ": {
+        "Amharic": "ማዕበል አደረገ",
+        "English": "tempest, gale,"
+    },
+    "አማእከለ": {
+        "Amharic": "መካከል አደረገ",
+        "English": "medial, mid,"
+    },
+    "አመድበለ": {
+        "Amharic": "አከማቸ",
+        "English": "harvested, gathered,"
+    },
+    "አስተሰነአለ": {
+        "Amharic": "አስማማ፣ተስማማ፣ ተሰነባበተ",
+        "English": ""
+    },
+    "አቍጸለ": {
+        "Amharic": "ለመለመ፣አለመለመ",
+        "English": "rendered verdant,"
+    },
+    "አብዐለ": {
+        "Amharic": "አከበረ",
+        "English": "venerated, honoured, gave"
+    },
+    "ዐበለ": {
+        "Amharic": "አሰኘ",
+        "English": "there is, allege, acquiesce,"
+    },
+    "አንቀልቀለ": {
+        "Amharic": "ተነዋወጠ፣አነዋወጠ",
+        "English": "disrupt,"
+    },
+    "አንበልበለ": {
+        "Amharic": "ነበልባል አደረገ",
+        "English": "blazed, flared up,"
+    },
+    "አንኮለለ": {
+        "Amharic": "ዱብ ዱብ አደረገ",
+        "English": "dripped, oozed,"
+    },
+    "አንጦለለ": {
+        "Amharic": "ለየ",
+        "English": "extend, sprawl ,was taken,"
+    },
+    "አከለ": {
+        "Amharic": "በቃ፣ልክ ሆነ",
+        "English": "be enough, have about"
+    },
+    "ዐዘለ": {
+        "Amharic": "በረታ",
+        "English": "pitch in , was in good shape,"
+    },
+    "ዔለ": {
+        "Amharic": "ዞረ፣ተንከረተተ",
+        "English": "went around, turned"
+    },
+    "ዐገለ": {
+        "Amharic": "አቆመ፣በገረ፣አስበገረ፣ ደረደረ",
+        "English": "halted,"
+    },
+    "አገንጰለ": {
+        "Amharic": "ጻፈ፣ገለበጠ",
+        "English": ""
+    },
+    "አጰንገለ": {
+        "Amharic": "ተረጎመ፣ጻፈ",
+        "English": "wrote, buffet, write,"
+    },
+    "አጽለለ": {
+        "Amharic": "አረፈ፣አሳረፈ",
+        "English": "paused, landed, had"
+    },
+    "አጽደልደለ": {
+        "Amharic": "አበራ",
+        "English": "lit, flash, elucidate,"
+    },
+    "ክህለ": {
+        "Amharic": "ቻለ",
+        "English": "was able, capable, defray, can,"
+    },
+    "ኵሕለ": {
+        "Amharic": "ኳለ",
+        "English": "made up one's eyelashes with"
+    },
+    "ከለለ": {
+        "Amharic": "ጋረደ",
+        "English": "veiled, screened, curtained off,"
+    },
+    "ከፈለ": {
+        "Amharic": "ከፈለ",
+        "English": "paid out, divided, proprate,"
+    },
+    "ወዐለ": {
+        "Amharic": "ዋለ",
+        "English": "spent the day, passed, did a"
+    },
+    "ዝሕለ": {
+        "Amharic": "ዛገ፣አደፈ፣ሻገተ (የወርቅ የብረት)",
+        "English": ""
+    },
+    "ዘለለ": {
+        "Amharic": "ጠመቀ፣ዘለለ (የጠላ)",
+        "English": "immersed in"
+    },
+    "ዘበለ": {
+        "Amharic": "ተናጻ",
+        "English": "emptied the bowels in great"
+    },
+    "ዘወለ": {
+        "Amharic": "አቀለመ፣አጠቆረ",
+        "English": "painted, colored,"
+    },
+    "ደለለ": {
+        "Amharic": "ከፈከፈ፣ደለለ (የቤት የሰው)",
+        "English": "wrapped up,"
+    },
+    "ደበለ": {
+        "Amharic": "ሰበሰበ፣አከማቸ",
+        "English": "convene, cumulate,"
+    },
+    "ገልገለ": {
+        "Amharic": "ገላገለ",
+        "English": "rob, robbed ,ransacked,"
+    },
+    "ገንጰለ": {
+        "Amharic": "ገለበጠ",
+        "English": "turned upside-down, turned"
+    },
+    "ገደለ": {
+        "Amharic": "ጣለ (የጥንብ)",
+        "English": "smell horrible, reeked,"
+    },
+    "ጥሕለ": {
+        "Amharic": "አተለ (የሚያትል ሁሉ)",
+        "English": "identified,"
+    },
+    "ጠለ": {
+        "Amharic": "ለመለመ",
+        "English": "send forth leaves, be green"
+    },
+    "ጠቀለ": {
+        "Amharic": "በነገር ነካ",
+        "English": "he break one's words,"
+    },
+    "ጤቀለ": {
+        "Amharic": "ጻፈ",
+        "English": "wrote, buffet, write"
+    },
+    "ጠብለለ": {
+        "Amharic": "ጠቀለለ",
+        "English": "wrapped up, wrapped,"
+    },
+    "ጸሐለ": {
+        "Amharic": "ሠራ (የብረት)",
+        "English": "ironsmith, metal"
+    },
+    "ጸለለ": {
+        "Amharic": "ተንኳፈፈ",
+        "English": ""
+    },
+    "ጸበለ": {
+        "Amharic": "ትቢያ ሆነ",
+        "English": "soil, dust, grime, soot,"
+    },
+    "ጸንጸለ": {
+        "Amharic": "መታ",
+        "English": "rang, click ,Clink ,chimed,"
+    },
+    "ጸዐለ": {
+        "Amharic": "ሰደበ",
+        "English": "called by insulting names,"
+    },
+    "ጽእለ": {
+        "Amharic": "ቆሰለ",
+        "English": "be linjured, be wounded, have"
+    },
+    "ጸደለ": {
+        "Amharic": "በራ",
+        "English": "sparkled, reflected, glistened,"
+    },
+    "ፈሐለ": {
+        "Amharic": "ቁንጥር ቁንጥር አለ",
+        "English": "was over-cooked,"
+    },
+    "ፈልፈለ": {
+        "Amharic": "መነጨ",
+        "English": "sprang out, sprang from"
+    },
+    "ፈተለ": {
+        "Amharic": "ፈተለ",
+        "English": "spun, spin ,twisted together"
+    },
+    "ፈደለ": {
+        "Amharic": "ጻፈ",
+        "English": "wrote, buffet, write"
+    },
+    "ሐለመ": {
+        "Amharic": "አለመ (የሕልም)",
+        "English": "dream, quicken,"
+    },
+    "ሐመ": {
+        "Amharic": "ታመመ",
+        "English": "be affected, be sick, take sick,"
+    },
+    "ሐመመ": {
+        "Amharic": "ተመቀኘ",
+        "English": "be jealous ,grudge"
+    },
+    "ሐሠመ": {
+        "Amharic": "ከፋ",
+        "English": "wicked, became worse, became"
+    },
+    "ሐረመ": {
+        "Amharic": "ተወ",
+        "English": "left off, cede, concede, desert,"
+    },
+    "ሐርተመ": {
+        "Amharic": "ጎሰቆለ",
+        "English": "was wretched, was in a"
+    },
+    "ኀተመ": {
+        "Amharic": "አተመ",
+        "English": "stamped, printed, imprint, mint,"
+    },
+    "ሐከመ": {
+        "Amharic": "አከመ",
+        "English": "be general practitioner, medical"
+    },
+    "ሀደመ": {
+        "Amharic": "አንቀላፋ",
+        "English": "fell asleep, sleep, slumber"
+    },
+    "ሐደመ": {
+        "Amharic": "አወጋ፣ተረተ",
+        "English": "told tales"
+    },
+    "ልሕመ": {
+        "Amharic": "ላመ",
+        "English": "worsened, was aggravated,"
+    },
+    "ለምለመ": {
+        "Amharic": "ለመለመ",
+        "English": "stripped leaves, became"
+    },
+    "ለተመ": {
+        "Amharic": "አሸ፣ፈተገ፣ወገጠ፣ ልጦ ጉርድ አወጣ",
+        "English": "lead"
+    },
+    "ለጎመ": {
+        "Amharic": "ለጎመ፣ገታ",
+        "English": "obstructed, closed, blocked"
+    },
+    "ሰለመ": {
+        "Amharic": "ፈታ",
+        "English": "untied unfastened, released,"
+    },
+    "ሠረመ": {
+        "Amharic": "አጠለቀ፣አሰጠመ",
+        "English": "wore, dive, fathom,"
+    },
+    "ሶርየመ/ሶርዔመ": {
+        "Amharic": "ለምድ አወጣ",
+        "English": "vitiligo ,stained"
+    },
+    "ሰቀመ": {
+        "Amharic": "ማረከ",
+        "English": "absorb, appelal, arrest, attract,"
+    },
+    "ሰተመ": {
+        "Amharic": "ደረሰ",
+        "English": "undergo, underwent, untangle,"
+    },
+    "ሰዐመ": {
+        "Amharic": "ሳመ",
+        "English": "give a kiss"
+    },
+    "ሰከመ": {
+        "Amharic": "ተሸከመ",
+        "English": "uphold, upheld ,carry,"
+    },
+    "ሤመ": {
+        "Amharic": "ሾመ",
+        "English": "has done, act, appoint,"
+    },
+    "ሰገመ": {
+        "Amharic": "አሰረ",
+        "English": "fasten, lock in, bundle, lace"
+    },
+    "ረመ": {
+        "Amharic": "ራመመ (የብራና)",
+        "English": ""
+    },
+    "ረመመ": {
+        "Amharic": "ጻፈ",
+        "English": "wrote, buffet, write"
+    },
+    "ረቀመ": {
+        "Amharic": "ረጨ (የቀለም)",
+        "English": "sprinkled, spray,"
+    },
+    "ረዐመ": {
+        "Amharic": "ጮኽ",
+        "English": "shouted in a loud voice,"
+    },
+    "ሬመ": {
+        "Amharic": "ከፍ ከፍ አለ፣ወጣ (የሰማይ የደርብ)",
+        "English": ""
+    },
+    "ረገመ": {
+        "Amharic": "ረገመ",
+        "English": "accurse, anathematize, curse,"
+    },
+    "ቀለመ": {
+        "Amharic": "ጻፈ",
+        "English": "wrote, buffet, write"
+    },
+    "ቀሠመ": {
+        "Amharic": "ለቀመ",
+        "English": "glean ,reaped, picked up,"
+    },
+    "ቀሰመ": {
+        "Amharic": "አጣፈጠ",
+        "English": "sweetened, flavoured, flavor"
+    },
+    "ቀረመ": {
+        "Amharic": "ለቀመ",
+        "English": "reaped, picked up, picked,"
+    },
+    "ቆመ": {
+        "Amharic": "ቆመ",
+        "English": "was under way, stopped, stood"
+    },
+    "ቀደመ": {
+        "Amharic": "ቀደመ",
+        "English": "go ahead, draw ahead of, be"
+    },
+    "ብህመ": {
+        "Amharic": "ዲዳ ሆነ",
+        "English": "dysphonic, tongue-tied,"
+    },
+    "በለመ": {
+        "Amharic": "ጻፈ",
+        "English": "wrote, buffet, write"
+    },
+    "ተለመ": {
+        "Amharic": "ተለመ (የእርሻ)",
+        "English": "channeled, rut,"
+    },
+    "ተሳለመ": {
+        "Amharic": "ተፈቃቀረ",
+        "English": "loved one another"
+    },
+    "ተሰዐመ": {
+        "Amharic": "ተስማማ",
+        "English": "agree, agreed, reach an"
+    },
+    "ተሰጥመ": {
+        "Amharic": "ተሰጠመ",
+        "English": "go under, bog down ,sank,"
+    },
+    "ተርጎመ": {
+        "Amharic": "ተረጎመ",
+        "English": "render, translate ,construe,"
+    },
+    "ተቃወመ": {
+        "Amharic": "ተከራከረ",
+        "English": "debated contended,"
+    },
+    "ተቀየመ": {
+        "Amharic": "ቂም ያዘ",
+        "English": "held a feeling of"
+    },
+    "ተነወመ": {
+        "Amharic": "አለመ",
+        "English": "abide, ascend, lie, lay, lain,"
+    },
+    "ተደመ": {
+        "Amharic": "ተደነቀ",
+        "English": "be amazed, be awestruck, be"
+    },
+    "ተጽመመ": {
+        "Amharic": "ቸል ቸል አለ",
+        "English": "ignored, paid no"
+    },
+    "ተፍእመ": {
+        "Amharic": "ጎረሰ",
+        "English": "was loaded, took a mouthful"
+    },
+    "ንእመ": {
+        "Amharic": "አክ አለ",
+        "English": "emptied one's esophagus,"
+    },
+    "ኖመ": {
+        "Amharic": "ተኛ",
+        "English": "fell asleep, sleep, slumber, slept,"
+    },
+    "ዐለመ": {
+        "Amharic": "ፈጠረ",
+        "English": "give rise to ,invented, devised,"
+    },
+    "አስተሐመመ": {
+        "Amharic": "አስተጋ፣ተጋ",
+        "English": "was diligent,"
+    },
+    "አስተቃሰመ": {
+        "Amharic": "አሟረተ",
+        "English": "fell asleep, sleep,"
+    },
+    "አርመመ": {
+        "Amharic": "ዝም አለ",
+        "English": "stayed silent, became"
+    },
+    "አልኰመ": {
+        "Amharic": "አስነካ (የነገር፣የመንካ፣የከንፈር)",
+        "English": "had"
+    },
+    "ዐቀመ": {
+        "Amharic": "ቆረጠ (የነገር)",
+        "English": "decreed by-law, made a"
+    },
+    "ዐተመ": {
+        "Amharic": "ተቆጣ",
+        "English": "be angry"
+    },
+    "አነመ": {
+        "Amharic": "ሠራ (የልብስ)",
+        "English": "rig up, operated,"
+    },
+    "ዔመ": {
+        "Amharic": "መሰገ፣ሰበሰበ",
+        "English": "put in a fold, packed into"
+    },
+    "አደመ": {
+        "Amharic": "አማረ",
+        "English": "look good, bloom, look well, be"
+    },
+    "አግደምደመ": {
+        "Amharic": "አግደመደመ (የእግር)",
+        "English": ""
+    },
+    "ከመመ": {
+        "Amharic": "ቆረጠ፣አስተካከለ",
+        "English": "truncate, hew down,"
+    },
+    "ከረመ": {
+        "Amharic": "የወይን ጠጅ አደረገ",
+        "English": ""
+    },
+    "ከርመ": {
+        "Amharic": "ከረመ",
+        "English": "spent the year, spent the rainy"
+    },
+    "ከተመ": {
+        "Amharic": "ጫፍ ሆነ",
+        "English": "stamped, printed, imprint,"
+    },
+    "ወስከመ": {
+        "Amharic": "ሰነገ፣አሰረ፣ጠለፈ (የማነቂያ)",
+        "English": "stuffed"
+    },
+    "ዝሕመ": {
+        "Amharic": "ሞቀ",
+        "English": "got hot, became warm, heat ,"
+    },
+    "ዘመመ": {
+        "Amharic": "አሰረ፣ ለጎመ፣ አፈነ፣ ዘመመ፣ ለበበ",
+        "English": "tied"
+    },
+    "ዘንመ": {
+        "Amharic": "ዘነበ",
+        "English": "rained, rain"
+    },
+    "ዳሕመመ": {
+        "Amharic": "አፈረሰ፣ናደ",
+        "English": "demolished, broke up,"
+    },
+    "ደምደመ": {
+        "Amharic": "አጎተነ፣አጎፈረ (የጸጉር)",
+        "English": "grew large"
+    },
+    "ደክተመ": {
+        "Amharic": "ድኻ አደግ ሆነ",
+        "English": "was hard-up,"
+    },
+    "ደክመ": {
+        "Amharic": "ደከመ",
+        "English": "be helplesswas , weak, strove,"
+    },
+    "ደገመ": {
+        "Amharic": "ደገመ",
+        "English": "repeated, recited, plowed a"
+    },
+    "ገረመ": {
+        "Amharic": "ተፈራ፣አስፈራ",
+        "English": "accurse, anathematize,"
+    },
+    "ጎርየመ/ጎርዔመ": {
+        "Amharic": "አገመ",
+        "English": "cup, cupped, bleed,"
+    },
+    "ገዘመ": {
+        "Amharic": "ቆረጠ",
+        "English": "truncate, hew down, make a"
+    },
+    "ገደመ": {
+        "Amharic": "አገደመ፣ገደመ (የነገር የመንገድ የገዳም)",
+        "English": ""
+    },
+    "ጠለመ": {
+        "Amharic": "ከዳ፣ሸፈተ",
+        "English": "denied, betrayed, jilt,"
+    },
+    "ጠመ": {
+        "Amharic": "ጠመመ",
+        "English": "was stubborn, was crooked,"
+    },
+    "ጠቀመ": {
+        "Amharic": "ሠራ፣አደሰ (የግንብ)",
+        "English": "dilate, sew up, sit"
+    },
+    "ጥዕመ": {
+        "Amharic": "ቀመሰ",
+        "English": "was tasty, was sweet, was"
+    },
+    "ጦመ": {
+        "Amharic": "ጠቀለለ፣ጠመጠመ፣አጠፈ",
+        "English": "wrapped,"
+    },
+    "ጽሕመ": {
+        "Amharic": "በቀለ",
+        "English": "be up to, pouted, grows,"
+    },
+    "ጸልመ": {
+        "Amharic": "ጠቆረ",
+        "English": "grew black, became dark, dim,"
+    },
+    "ጸመ": {
+        "Amharic": "ደነቆረ",
+        "English": "was stupid, was deaf"
+    },
+    "ፀመ": {
+        "Amharic": "ደረቀ",
+        "English": "was stubborn, was stiffened,"
+    },
+    "ጸምጸመ": {
+        "Amharic": "ሠራ፣ጨመጨመ (የቤት)",
+        "English": ""
+    },
+    "ጸተመ": {
+        "Amharic": "ደረሰ",
+        "English": "undercut, shatter, break down,"
+    },
+    "ጾትኤመ/ጾትየመ/ጾተመ": {
+        "Amharic": "የወይን ጠጅ አደረገ",
+        "English": ""
+    },
+    "ጾመ": {
+        "Amharic": "ጾመ",
+        "English": "fasted"
+    },
+    "ፀገመ": {
+        "Amharic": "ጠመመ",
+        "English": "became crooked, perverse,"
+    },
+    "ፍሕመ": {
+        "Amharic": "ፋመ፣ሞገደ",
+        "English": "flaming, searing, blazing,"
+    },
+    "ፈለመ": {
+        "Amharic": "ጀመረ",
+        "English": "undertake, undertook, started,"
+    },
+    "ፈፀመ": {
+        "Amharic": "ነጨ (የፊት)",
+        "English": "plucked out by the roots,"
+    },
+    "ፈጸመ": {
+        "Amharic": "ጨረሰ",
+        "English": "used up, finished completed,"
+    },
+    "ኀመሰ": {
+        "Amharic": "አምስት አደረገ",
+        "English": "make five"
+    },
+    "ኀሠሠ": {
+        "Amharic": "ፈለገ",
+        "English": "wished, was interested in,"
+    },
+    "ኈሠሠ": {
+        "Amharic": "ጠረገ",
+        "English": "wiped, swept, shine, mopped,"
+    },
+    "ሐረሰ": {
+        "Amharic": "አረሰ",
+        "English": "culture, farm, plough, plow"
+    },
+    "ኀበሰ": {
+        "Amharic": "ጋገረ",
+        "English": "baked bread, bake"
+    },
+    "ሐንከሰ": {
+        "Amharic": "አነከሰ",
+        "English": "limped, cripple, founder, halt,"
+    },
+    "ሖሰ": {
+        "Amharic": "ነቀነቀ፣አንቀሳቀሰ",
+        "English": "quake, totter, toss,"
+    },
+    "ኄሰ": {
+        "Amharic": "ተሻለ",
+        "English": "feel better, have the better of one,"
+    },
+    "ሔሰ": {
+        "Amharic": "ነቀፈ፣ሰደበ",
+        "English": "disapprove, be criticla of,"
+    },
+    "ሐደሰ": {
+        "Amharic": "አዲስ አደረገ",
+        "English": "renew, keep in repair,"
+    },
+    "ሐፈሠ": {
+        "Amharic": "ዘገነ",
+        "English": "took a handful, took a fistful"
+    },
+    "ላቀሰ": {
+        "Amharic": "አለቀሰ",
+        "English": "wept, bemoan, bewail, cry,"
+    },
+    "ለብሰ": {
+        "Amharic": "ለበሰ",
+        "English": "put on clothes, dressed, clad,"
+    },
+    "ለንጰሰ": {
+        "Amharic": "ሠራ (የልብስ)፣ ተንቦገቦገ (የብርሃን)",
+        "English": ""
+    },
+    "ሎሰ": {
+        "Amharic": "ለወሰ",
+        "English": "knead, mix, pressed and stretched"
+    },
+    "መሐሰ": {
+        "Amharic": "ቆፈረ",
+        "English": "excavate, dig up, dig, dug, bore,"
+    },
+    "መለሰ": {
+        "Amharic": "መለሰ",
+        "English": "translated, returned back,"
+    },
+    "መረሰ": {
+        "Amharic": "ነከረ፣ዘፈቀ",
+        "English": "dip, drench, gild, imbrue,"
+    },
+    "መርሰሰ": {
+        "Amharic": "ዳሰሰ፣ነካ",
+        "English": "touched, felt with the"
+    },
+    "መቈሰ": {
+        "Amharic": "አጠፋ",
+        "English": "abolish, abrade, abuse, turn"
+    },
+    "መንኰሰ": {
+        "Amharic": "መነኮሰ",
+        "English": "become monk"
+    },
+    "ሜሰ": {
+        "Amharic": "አደለ፣አሳለፈ",
+        "English": "had good luck,"
+    },
+    "ሠለሰ": {
+        "Amharic": "ሦስት አደረገ",
+        "English": "Make three"
+    },
+    "ሰንኰረሰ": {
+        "Amharic": "አስተማረ",
+        "English": "educate, hold class,"
+    },
+    "ሰኰሰ": {
+        "Amharic": "ጠረገ",
+        "English": "wiped, swept, shine, mopped,"
+    },
+    "ሰደሰ": {
+        "Amharic": "ስድስት አደረገ",
+        "English": "make six"
+    },
+    "ርሕሰ": {
+        "Amharic": "ራሰ፣ረጠበ",
+        "English": "soaked, got wet"
+    },
+    "ረምሰ": {
+        "Amharic": "ጋለ",
+        "English": "became red as a result of high"
+    },
+    "ረመሰ": {
+        "Amharic": "ዘፈቀ፣ነከረ፣ዘፈዘፈ",
+        "English": "dipped soaked,"
+    },
+    "ርእሰ": {
+        "Amharic": "አለቃ ሆነ",
+        "English": "chief,"
+    },
+    "ረኵሰ": {
+        "Amharic": "ረከሰ",
+        "English": "wasimpfure, was defiled, was"
+    },
+    "ሮሰ": {
+        "Amharic": "ወለደ",
+        "English": "gave birth to, delivered, bear,"
+    },
+    "ቆመሰ": {
+        "Amharic": "ቆሞስ ሆነ",
+        "English": ""
+    },
+    "ቀሰ": {
+        "Amharic": "አገለገለ",
+        "English": "become a priest, took vow as a"
+    },
+    "ቀደሰ": {
+        "Amharic": "አመሰገነ",
+        "English": "identified, divided,"
+    },
+    "በስበሰ": {
+        "Amharic": "አረጀ፣በሰበሰ",
+        "English": ""
+    },
+    "ብእሰ": {
+        "Amharic": "ባሰ፣ከፋ",
+        "English": "become heavier, worsened,"
+    },
+    "ተሞገሰ": {
+        "Amharic": "ባለሟል ሆነ፣ተወደደ",
+        "English": ""
+    },
+    "ተቃለሰ": {
+        "Amharic": "ታገለ",
+        "English": "insist on, strove, wrestled with,"
+    },
+    "ተበአሰ": {
+        "Amharic": "ተጣላ",
+        "English": "quarreled with, fought with,"
+    },
+    "ተተረአሰ": {
+        "Amharic": "ተንተራሰ",
+        "English": "sleep on a pillow"
+    },
+    "ተአንሰሰ": {
+        "Amharic": "እንስሳ ሆነ፣ተሞኘ",
+        "English": "the state of being"
+    },
+    "ተዐገሠ": {
+        "Amharic": "ቻለ፣ታገሠ",
+        "English": "hang on, feel up to, resist,"
+    },
+    "ተከነሰ": {
+        "Amharic": "አንድ ሆነ፣ተቀላቀለ",
+        "English": "was mixed, joined"
+    },
+    "ተከውሰ": {
+        "Amharic": "ተነቃነቀ",
+        "English": "be troubled, be rough, was"
+    },
+    "ተኬሰ": {
+        "Amharic": "መታ፣ጠመጠመ፣ መነጨ",
+        "English": "inflict a blow,"
+    },
+    "ተውሕሰ": {
+        "Amharic": "ዋስ ሆነ፣ተዋሰ",
+        "English": "warrantor,"
+    },
+    "ተግሕሠ": {
+        "Amharic": "ወገደ፣ሸሸ",
+        "English": "ran away, flee (fled),"
+    },
+    "ተጰጰሰ": {
+        "Amharic": "ጳጳስ ሆነ",
+        "English": ""
+    },
+    "ተጸነሰ": {
+        "Amharic": "ተቸገረ",
+        "English": "trouble oneself, go to any"
+    },
+    "ተፈርነሰ": {
+        "Amharic": "ተደሰተ፣ተፈረነሰ",
+        "English": "be excited, be glad,"
+    },
+    "ተፋሰሰ": {
+        "Amharic": "እጣ ተጣጣለ",
+        "English": "make lottery , chance,"
+    },
+    "ነሐሰ": {
+        "Amharic": "ሠራ (የቤት፣የመዳብ)",
+        "English": "operated,"
+    },
+    "ነስነሰ": {
+        "Amharic": "ጎዘጎዘ፣ነሰነሰ",
+        "English": "swished, spread about,"
+    },
+    "ንእሰ": {
+        "Amharic": "አነሰ",
+        "English": "get low, decrease, be less, be"
+    },
+    "ነግሠ": {
+        "Amharic": "ነገሠ",
+        "English": "be invested, become king,"
+    },
+    "ነፍሰ": {
+        "Amharic": "ነፈሰ",
+        "English": "blow, float, Circulate, sweep,"
+    },
+    "አልኈሰሰ": {
+        "Amharic": "ሹክ ሹክ አለ",
+        "English": "tip"
+    },
+    "አመርሰሰ": {
+        "Amharic": "ጸጥ አደረገ",
+        "English": "keep silent, quite"
+    },
+    "አስተንፈሰ": {
+        "Amharic": "አሻተተ",
+        "English": "wished, was interested in,"
+    },
+    "አርመስመሰ": {
+        "Amharic": "አጥመሰመሰ፣ አንኮሻኮሸ፣ አርመሰመሰ",
+        "English": ""
+    },
+    "አበሰ": {
+        "Amharic": "በደለ",
+        "English": "treated ill, mistreated, did"
+    },
+    "አነሰ": {
+        "Amharic": "አነሰ፣ሰው ሆነ",
+        "English": "get low, decrease, be less,"
+    },
+    "አንበስበሰ": {
+        "Amharic": "ተገለባበጠ፣ አገለባበጠ",
+        "English": "turned over,"
+    },
+    "አክሞሰሰ": {
+        "Amharic": "ፍግግ ፍግግ አለ",
+        "English": "jeer, laugh, taunt"
+    },
+    "አኮሰ": {
+        "Amharic": "አቅባባ፣አዋሐደ፣ አገናኘ፣ አማሰለ",
+        "English": "agitate,"
+    },
+    "ዔሰ": {
+        "Amharic": "ዞረ፣ዛበረ",
+        "English": "went around, turned around,"
+    },
+    "ዐጠሰ": {
+        "Amharic": "አነጠሰ",
+        "English": "sneezed, made a sudden noisy"
+    },
+    "አጽሐሰ": {
+        "Amharic": "አሸበሸበ",
+        "English": "applaud, beat time with"
+    },
+    "አፅበሰ": {
+        "Amharic": "ልምሾ አደረገ",
+        "English": "crippled, limp, hobbled,"
+    },
+    "ኵሕሰ": {
+        "Amharic": "ተናጻ",
+        "English": "excreted"
+    },
+    "ከልሰሰ": {
+        "Amharic": "አሰረ (የነዶ)",
+        "English": "tied up, tied, bind, jail,"
+    },
+    "ኰስኰሰ": {
+        "Amharic": "ተዝጎረጎረ",
+        "English": "multicoloured, became"
+    },
+    "ከበሰ": {
+        "Amharic": "ጠመጠመ",
+        "English": "wrapped, wound, coil, lap,"
+    },
+    "ወረሰ": {
+        "Amharic": "ወረሰ",
+        "English": "inherited, confiscated,"
+    },
+    "ወቀሠ": {
+        "Amharic": "ወቀሠ",
+        "English": "take floor, enunciate, let on,"
+    },
+    "ወደሰ": {
+        "Amharic": "አመሰገነ",
+        "English": "appreciate, bive cradit for,"
+    },
+    "ወጠሰ": {
+        "Amharic": "አቃጠለ፣ተቃጠለ",
+        "English": "lit, burned, inflame,"
+    },
+    "ዘልገሰ": {
+        "Amharic": "ታመመ፣ቆሰለ፣አበጠ",
+        "English": "be linjured, be"
+    },
+    "የብሰ": {
+        "Amharic": "ደረቀ",
+        "English": "persistent, obstinate, got"
+    },
+    "ደሐሰ": {
+        "Amharic": "ሠራ (የዳስ)",
+        "English": "hut usually oval,"
+    },
+    "ደመሰ": {
+        "Amharic": "ጨለመ",
+        "English": "got dim, dark, murky,"
+    },
+    "ደምሰሰ": {
+        "Amharic": "አጠፋ፣ደመሰሰ",
+        "English": "stamped out,"
+    },
+    "ደረሰ": {
+        "Amharic": "ደረሰ (የድርሰት)",
+        "English": "Wrote story, treatise,"
+    },
+    "ደቀሰ": {
+        "Amharic": "ተኛ፣አንቀላፋ",
+        "English": "slept, sleep, turn in,"
+    },
+    "ደነሰ": {
+        "Amharic": "ኃጢአት ሠራ",
+        "English": "crime, evil, immorality,"
+    },
+    "ደጎሰ": {
+        "Amharic": "ደጎሰ",
+        "English": "decorated the cover of a book"
+    },
+    "ግሕሰ": {
+        "Amharic": "ወገደ",
+        "English": "took far away, removed,"
+    },
+    "ገመሰ": {
+        "Amharic": "ገመሰ",
+        "English": "had someone shared into equal"
+    },
+    "ገሰሰ": {
+        "Amharic": "ዳሰሰ",
+        "English": "lay a hand on, happen,, infringe"
+    },
+    "ገረሠ": {
+        "Amharic": "ሠራ (የወርቅ)",
+        "English": "operated, manufactured,"
+    },
+    "ገብሰሰ": {
+        "Amharic": "አረጀ",
+        "English": "be worn, look worn, be old ma,"
+    },
+    "ጌሠ": {
+        "Amharic": "ገሠገሠ",
+        "English": "walked rapidly, walked fast,"
+    },
+    "ጠረሰ": {
+        "Amharic": "አፋጨ",
+        "English": "dulled (edge of a blade, razor)"
+    },
+    "ጠበሰ": {
+        "Amharic": "ጠበሰ",
+        "English": "scroched, roasted, grilled, fried,"
+    },
+    "ጤሰ": {
+        "Amharic": "ጤሰ",
+        "English": "smoked, smoldered, burned, was"
+    },
+    "ፀረሰ": {
+        "Amharic": "በለዘ",
+        "English": "stained, discolored"
+    },
+    "ፀበሰ": {
+        "Amharic": "ልምሾ ሆነ",
+        "English": "was thin, lame, became"
+    },
+    "ፀንሰ": {
+        "Amharic": "ፀነሰ",
+        "English": "teem ,get pregnant"
+    },
+    "ፀወሰ": {
+        "Amharic": "ሰለለ (የሕማም)",
+        "English": "was thin, lame, became"
+    },
+    "ፈሐሰ": {
+        "Amharic": "ፈተለ (የፈትል)፣ አበበ (የአበባ)",
+        "English": "spun,"
+    },
+    "ፈለሰ": {
+        "Amharic": "ተሰደደ",
+        "English": "was exiled, emigrate"
+    },
+    "ፈወሰ": {
+        "Amharic": "አዳነ",
+        "English": "saved, rescued, healed, deliver,"
+    },
+    "ፈደሰ": {
+        "Amharic": "ቆራ (የሳዱላ)",
+        "English": "made a groove, made a"
+    },
+    "ኀስረ": {
+        "Amharic": "ጎሰቆለ",
+        "English": "was wretched, was in a"
+    },
+    "ሐረረ": {
+        "Amharic": "አረረ፣ተኮሰ፣ሞቀ",
+        "English": "burnt black, broil, fry,"
+    },
+    "ሐብረ": {
+        "Amharic": "አንድ ሆነ፣ተባበረ",
+        "English": "was united, joined"
+    },
+    "ኆበረ": {
+        "Amharic": "ሸለመ",
+        "English": "decorate, gave present to,"
+    },
+    "ሐንገረ": {
+        "Amharic": "እሽኮኮ አለ",
+        "English": ""
+    },
+    "ሖረ": {
+        "Amharic": "ሔደ",
+        "English": "went, comport, creep, depart,"
+    },
+    "ኀደረ": {
+        "Amharic": "አደረ",
+        "English": "so something, all night long, lay"
+    },
+    "ሐጸረ": {
+        "Amharic": "አጠረ",
+        "English": "enclose, be low on, be short of,"
+    },
+    "ኀጽረ": {
+        "Amharic": "አጭር ሆነ፣አጠረ (የቁመት፣ የጊዜ)",
+        "English": "short of"
+    },
+    "ኀፈረ": {
+        "Amharic": "ወደደ",
+        "English": "was in love with, loved, liked,"
+    },
+    "ኀፍረ": {
+        "Amharic": "አፈረ",
+        "English": "feel like a fool, be embarrassed,"
+    },
+    "ሎረ": {
+        "Amharic": "በሳ",
+        "English": "made a hole drilled, bored, stave,"
+    },
+    "ለጠረ": {
+        "Amharic": "መዘነ",
+        "English": "weighed, criticize (criticise),"
+    },
+    "መሀረ": {
+        "Amharic": "አስተማረ",
+        "English": "educate, hold class, instruct,"
+    },
+    "መረ": {
+        "Amharic": "መረረ",
+        "English": "taste bitter, be sour"
+    },
+    "መተረ": {
+        "Amharic": "ቆረጠ",
+        "English": "abbreviate, appoint, bite,"
+    },
+    "መከረ": {
+        "Amharic": "ጠበሰ",
+        "English": "scroched, roasted, grilled, fried,"
+    },
+    "መዘረ": {
+        "Amharic": "ጠመቀ፣ዘለለ (የጠላ)",
+        "English": "soaked, brewed"
+    },
+    "መዝበረ": {
+        "Amharic": "ፈረሰ፣ተናደ፣ተበተነ",
+        "English": "tumble down, be"
+    },
+    "መደረ": {
+        "Amharic": "ጸና",
+        "English": "endure, insist, maintain,"
+    },
+    "መጸረ": {
+        "Amharic": "አመሰኳ",
+        "English": "chewed, ruminate"
+    },
+    "መቈረ": {
+        "Amharic": "አጣፈጠ",
+        "English": "sweetened, flavoured, flavor"
+    },
+    "ሠምረ": {
+        "Amharic": "ወደደ",
+        "English": "was in love with, loved, liked,"
+    },
+    "ሰረረ": {
+        "Amharic": "ወጣ",
+        "English": "went up, climbed, ascended,"
+    },
+    "ሣረረ": {
+        "Amharic": "ሠራ (የቤት)",
+        "English": "operated, manufactured,"
+    },
+    "ሰቈረ": {
+        "Amharic": "በሳ",
+        "English": "made a hole drilled, bored, stave,"
+    },
+    "ሰበረ": {
+        "Amharic": "ሰበረ",
+        "English": "shatter, break down, chap,"
+    },
+    "ሰተረ": {
+        "Amharic": "ቀደደ",
+        "English": "tore, cut out, lacerate,"
+    },
+    "ሰዐረ": {
+        "Amharic": "ሻረ",
+        "English": "abolish, abrogate, undo, undid,"
+    },
+    "ሥዕረ": {
+        "Amharic": "ለመለመ",
+        "English": "stripped leaves, became"
+    },
+    "ሰክረ": {
+        "Amharic": "ሰከረ",
+        "English": "get drunk, be drunk, become"
+    },
+    "ሰወረ": {
+        "Amharic": "ሸሸገ",
+        "English": "hid, closet, conceal, hoodwink,"
+    },
+    "ሰዘረ": {
+        "Amharic": "ሰነዘረ",
+        "English": "stretched out one's arm,"
+    },
+    "ሠገረ": {
+        "Amharic": "ተራመደ",
+        "English": "walked, stepped forward,"
+    },
+    "ሠጸረ": {
+        "Amharic": "ሰነጠቀ፣ፈለጠ",
+        "English": "split splintered, cracked,"
+    },
+    "ሰፈረ": {
+        "Amharic": "ለካ፣ሰፈረ",
+        "English": "measured, fornication,"
+    },
+    "ቀሐረ": {
+        "Amharic": "ተኰሰ (የሕማም)",
+        "English": "fire, iron, press,"
+    },
+    "ቀመረ": {
+        "Amharic": "ቆጠረ",
+        "English": "consider, count, employ,"
+    },
+    "ቈረ": {
+        "Amharic": "ቀዘቀዘ",
+        "English": "was lifeless, got cool, dropped"
+    },
+    "ቀበረ": {
+        "Amharic": "ቀበረ",
+        "English": "oppressed, entombed, buried,"
+    },
+    "ቆበረ": {
+        "Amharic": "ጭጋግ ሆነ",
+        "English": "thin mist, fog, haze"
+    },
+    "ቀተረ": {
+        "Amharic": "ሳበ",
+        "English": "lead, attracted, attract, draw,"
+    },
+    "ቀትረ": {
+        "Amharic": "ቀትር ሆነ",
+        "English": "midday, noon"
+    },
+    "ቈጰረ": {
+        "Amharic": "ቆረጠመ",
+        "English": "crunch, munch, crunched"
+    },
+    "ቀጸረ": {
+        "Amharic": "ከበበ፣ቀጠረ፣አጠረ (የአጥር)",
+        "English": "encircle,"
+    },
+    "ቈጸረ": {
+        "Amharic": "ቋጠረ",
+        "English": "swelled with pus, stowed away,"
+    },
+    "ቀፈረ": {
+        "Amharic": "ለካ፣ሳበ፣ገተረ (የጦር የደጋን)",
+        "English": "stretched"
+    },
+    "በረ": {
+        "Amharic": "በረረ፣ሮጠ",
+        "English": "glide, glide past, gain time,"
+    },
+    "በርበረ": {
+        "Amharic": "በረበረ፣ዘረፈ፣በዘበዘ",
+        "English": "despoil, make an"
+    },
+    "በኰረ": {
+        "Amharic": "ታጎለ",
+        "English": "hinder, interrupt, be"
+    },
+    "በደረ": {
+        "Amharic": "ቀደመ",
+        "English": "go ahead, draw ahead of, be"
+    },
+    "ተበኵረ": {
+        "Amharic": "አለቃ ሆነ፣በኵር ሆነ",
+        "English": "first born, oldest"
+    },
+    "ተዐወረ": {
+        "Amharic": "ቸል ቸል አለ",
+        "English": "ignored, paid no"
+    },
+    "ተዐዝረ": {
+        "Amharic": "ጭልጥ ብሎ ሄደ",
+        "English": "get ahead, get by,"
+    },
+    "ተዐየረ": {
+        "Amharic": "ተመጻደቀ፣ተሳደበ",
+        "English": "behaved"
+    },
+    "ተከወረ": {
+        "Amharic": "ነዳ፣ቀዘፈ",
+        "English": "rowed, oar, paddle, steer,"
+    },
+    "ተወዐረ": {
+        "Amharic": "አደነቀ",
+        "English": "wondered, admired, admire,"
+    },
+    "ተዘከረ": {
+        "Amharic": "አሰበ",
+        "English": "entertain, look after, look out,"
+    },
+    "ተዝኅረ": {
+        "Amharic": "ኰራ፣ታጀረ፣ተጀነነ (የአካሄድ የአለባበስ)",
+        "English": ""
+    },
+    "ተድኅረ": {
+        "Amharic": "ወደኋላ ሆነ",
+        "English": "returned, be at the back"
+    },
+    "ተደረ": {
+        "Amharic": "በላ፣ተመገበ (የራት)",
+        "English": "won, sting, itched,"
+    },
+    "ተደብተረ": {
+        "Amharic": "ሰፋ (የድንኳን)",
+        "English": ""
+    },
+    "ተገበረ": {
+        "Amharic": "አረሰ",
+        "English": "culture, farm, plough, plow"
+    },
+    "ተገረ": {
+        "Amharic": "ተክለ (የካስማ የድንኳን)",
+        "English": ""
+    },
+    "ተጋወረ": {
+        "Amharic": "ጎረቤት ሆነ፣ተጎራበተ",
+        "English": "be neighbors,"
+    },
+    "ተገየረ": {
+        "Amharic": "መጻተኛ ሆነ",
+        "English": "guest, sojourner,"
+    },
+    "ተጠየረ": {
+        "Amharic": "አሟረተ፣ጠነቆለ",
+        "English": "was a soothsayer,"
+    },
+    "ተፃመረ": {
+        "Amharic": "አንድ ሆነ",
+        "English": "got united, combined,"
+    },
+    "ተፃረረ": {
+        "Amharic": "ተጣላ",
+        "English": "tussle, quarreled with, fought"
+    },
+    "ተጽዕረ": {
+        "Amharic": "ተጨነቀ",
+        "English": "was in a dilemma, was"
+    },
+    "ንኅረ": {
+        "Amharic": "አኮረፈ (የሰው የውሃ)",
+        "English": "sulk, sulky, get,"
+    },
+    "ነሰረ": {
+        "Amharic": "በረረ፣ዱብ ዱብ አለ (የደም የአሞራ)",
+        "English": ""
+    },
+    "ነቈረ": {
+        "Amharic": "አንድ ዓይና ሆነ",
+        "English": "pulled off an eye"
+    },
+    "ነበረ": {
+        "Amharic": "ተቀመጠ",
+        "English": "abide, ascend, lie, lay, lain,"
+    },
+    "ነከረ": {
+        "Amharic": "ለየ",
+        "English": "alienated, estranged, separated,"
+    },
+    "ነዘረ": {
+        "Amharic": "ወጋ፣ነከሰ (የአውሬ)",
+        "English": "grit (gritted), bite,"
+    },
+    "ነገረ": {
+        "Amharic": "ነገረ",
+        "English": "give the idea, impart, inform,"
+    },
+    "ነጠረ": {
+        "Amharic": "ብልጭ አለ (የብልጭታ)",
+        "English": "gleamed,"
+    },
+    "ነጸረ": {
+        "Amharic": "አየ",
+        "English": "behold, experience, eye, notice,"
+    },
+    "ነፀረ": {
+        "Amharic": "ለየ፣ሰነጠቀ፣ከፈለ",
+        "English": "abstract, assort,"
+    },
+    "ነጽረረ": {
+        "Amharic": "ከበደ",
+        "English": "be over one's head, be heavy,"
+    },
+    "አኀረ": {
+        "Amharic": "አንድ አደረገ",
+        "English": "combined"
+    },
+    "አኅሰርሰረ": {
+        "Amharic": "አቅባባ፣ቀባ (የውርደት ስም)",
+        "English": "anoint,"
+    },
+    "አመረ": {
+        "Amharic": "አመለከተ፣ተመለከተ",
+        "English": "add up to, give"
+    },
+    "አማኅበረ": {
+        "Amharic": "ማኅበር አደረገ፣ ሰበሰበ፣ ሸነጓ",
+        "English": ""
+    },
+    "አመስጠረ": {
+        "Amharic": "አራቀቀ፣ አመሰጠረ",
+        "English": "was subtle, was"
+    },
+    "አምረረ": {
+        "Amharic": "አሳዘነ",
+        "English": "embitter, depress, sadden,"
+    },
+    "አመንዘረ": {
+        "Amharic": "አመነዘረ",
+        "English": "committed adultery, had"
+    },
+    "አመዐርዐረ": {
+        "Amharic": "አጣፈጠ",
+        "English": "sweetened, flavoured,"
+    },
+    "አመዝበረ": {
+        "Amharic": "አፈረሰ፣ናደ",
+        "English": "demolished, broke up,"
+    },
+    "አማዕረረ": {
+        "Amharic": "ማረረ",
+        "English": "picked up, gleaned, collected,"
+    },
+    "አማዕዘረ": {
+        "Amharic": "አበራ፣አፍለቀለቀ፣ አንጽባረቀ",
+        "English": "sparkled,"
+    },
+    "አምዘረ": {
+        "Amharic": "ጠመቀ (የጠላ ብቻ)",
+        "English": "brewed beer"
+    },
+    "አምደረ": {
+        "Amharic": "አጸና",
+        "English": "ratified, affix, cherish, confirm,"
+    },
+    "አሥመረ": {
+        "Amharic": "አገለገለ",
+        "English": "be usable, be in use, be"
+    },
+    "አሰረ": {
+        "Amharic": "አሰረ",
+        "English": "fasten, lock in, bundle, lace"
+    },
+    "ዐሠረ": {
+        "Amharic": "ዐሥር አደረገ",
+        "English": "make it ten"
+    },
+    "አስቈረረ": {
+        "Amharic": "ተጸየፈ፣አጸየፈ",
+        "English": "loathed, abhorred,"
+    },
+    "አስተሐቀረ": {
+        "Amharic": "አቃለለ",
+        "English": "over-simplified, made"
+    },
+    "አስተመሐረ": {
+        "Amharic": "አማለደ፣ማለደ",
+        "English": "intercede,"
+    },
+    "አስተናበረ": {
+        "Amharic": "አዘጋጀ",
+        "English": "prepared, dit, concoct, fit,"
+    },
+    "አስተደኀረ": {
+        "Amharic": "ወደኋላ አለ፣ አከታተለ",
+        "English": "caused to"
+    },
+    "አስተፃመረ": {
+        "Amharic": "አንድ አደረገ",
+        "English": "combined"
+    },
+    "አስተፃረረ": {
+        "Amharic": "አጣላ",
+        "English": "accuse, set two people at"
+    },
+    "አሥገረ": {
+        "Amharic": "አጠመደ",
+        "English": "entrap, hearken, lure, net,"
+    },
+    "አረረ": {
+        "Amharic": "ለቀመ (የአዝመራ)",
+        "English": "reaped, picked up,"
+    },
+    "ዐቈረ": {
+        "Amharic": "ቋጠረ",
+        "English": "make a knot, tie a knot, swelled"
+    },
+    "ዐበረ": {
+        "Amharic": "ድርቅ ሆነ፣ደረቀ",
+        "English": "got desiccated,"
+    },
+    "አብሠረ": {
+        "Amharic": "ነገረ (የምሥራች)",
+        "English": "apprise, mention,"
+    },
+    "አብደረ": {
+        "Amharic": "መረጠ",
+        "English": "elect, have a disposition for,"
+    },
+    "አንከረ": {
+        "Amharic": "አደነቀ",
+        "English": "wondered, admired, admire,"
+    },
+    "አንኰርኰረ": {
+        "Amharic": "ተገለባበጠ፣ አገለባበጠ",
+        "English": "turned"
+    },
+    "አንወረ": {
+        "Amharic": "አነወረ፣ነቀፈ፣ሰደበ",
+        "English": "abuse, Call (one)"
+    },
+    "አንዘረ": {
+        "Amharic": "መታ (የዘፈን የአዝማሪ)",
+        "English": ""
+    },
+    "": {
+        "Amharic": "ጩርቅ ጩርቅ አለ፣ተጨነቀ",
+        "English": ""
+    },
+    "አንገርገረ": {
+        "Amharic": "ጣለ፣አፍገመገመ፣ ተፍገመገመ (የጋኔን)",
+        "English": ""
+    },
+    "አንጸረ": {
+        "Amharic": "ተመላከተ፣ አመለከተ፣ አሳየ",
+        "English": "reveal,"
+    },
+    "አእመረ": {
+        "Amharic": "አወቀ",
+        "English": "acknowledge, discover,"
+    },
+    "ዖረ": {
+        "Amharic": "ታወረ",
+        "English": "went blind, blind, turned"
+    },
+    "አውተረ": {
+        "Amharic": "አዘወተረ",
+        "English": "frequented, did regularly,"
+    },
+    "ዐየረ": {
+        "Amharic": "አሳልፎ ሰጠ",
+        "English": ""
+    },
+    "አገረ": {
+        "Amharic": "ወታደር ሆነ፣ተራመደ",
+        "English": "walked, stepped"
+    },
+    "አግመረ": {
+        "Amharic": "ቻለ",
+        "English": "was able, capable, defray, can,"
+    },
+    "አግረረ": {
+        "Amharic": "ገዛ፣አስገዛ",
+        "English": "retain, purchased,"
+    },
+    "አገበረ": {
+        "Amharic": "ግድ አለ",
+        "English": "exact, demand, impel,"
+    },
+    "ዐጸረ": {
+        "Amharic": "ጠመቀ (የጠላ)",
+        "English": "brewed beer"
+    },
+    "አፅረረ": {
+        "Amharic": "ሸፈተ",
+        "English": "rebelled, changed the taste,"
+    },
+    "አጽበረ": {
+        "Amharic": "ጭቃ አደረገ",
+        "English": "soft wet earth, dirt,"
+    },
+    "አፍቀረ": {
+        "Amharic": "ወደደ",
+        "English": "dear, cherished, enamored,"
+    },
+    "ኰስተረ": {
+        "Amharic": "ጠረገ",
+        "English": "wiped, swept, shine,"
+    },
+    "ከብረ": {
+        "Amharic": "ከበረ",
+        "English": "get rich, was precious, was"
+    },
+    "ከተረ": {
+        "Amharic": "ከበበ፣ጋረደ",
+        "English": "surrounded, encircled,"
+    },
+    "ከፈረ": {
+        "Amharic": "ለካ (የስፍር)",
+        "English": "measured, fornication,"
+    },
+    "ወሠረ": {
+        "Amharic": "ገዘገዘ፣ሰነጠቀ",
+        "English": "split splintered,"
+    },
+    "ወቀረ": {
+        "Amharic": "ወቀረ፣አለዘበ",
+        "English": "smoothed, rehearsed,"
+    },
+    "ወተረ": {
+        "Amharic": "ሳበ፣ገተረ፣ዘረጋ (የደጋን)",
+        "English": "stretched tight,"
+    },
+    "ወዘረ": {
+        "Amharic": "ሸለመ፣ለበጠ፣አስጌጠ (የሕንጻ)",
+        "English": "covered"
+    },
+    "ወገረ": {
+        "Amharic": "ወገረ፣መታ፣ደበደበ",
+        "English": "hammer on, rough"
+    },
+    "ወፈረ": {
+        "Amharic": "ተሰማራ",
+        "English": "angage, graze"
+    },
+    "ዘመረ": {
+        "Amharic": "አመሰገነ",
+        "English": "thanked was grateful,"
+    },
+    "ዘርዘረ": {
+        "Amharic": "በተነ",
+        "English": "dispersed, cast about, broke"
+    },
+    "ዘከረ": {
+        "Amharic": "ስም ጠራ",
+        "English": "named, mentioned"
+    },
+    "ዞረ": {
+        "Amharic": "ዞረ፣ከበበ",
+        "English": "surrounded, encircled,"
+    },
+    "ዘፈረ": {
+        "Amharic": "ጫፍ ሆነ (የልብስ)",
+        "English": "edge, highest"
+    },
+    "ደኀረ": {
+        "Amharic": "አጨ",
+        "English": "be engaged, be affianced,"
+    },
+    "ደመረ": {
+        "Amharic": "ጨመረ",
+        "English": "put, gave, added, spurt,"
+    },
+    "ደበረ": {
+        "Amharic": "ደበረ፣ገዳም አደረገ",
+        "English": "abbe, cloister,"
+    },
+    "ደጎረ": {
+        "Amharic": "በሳ፣ቀደደ",
+        "English": "tore, cut out, lacerate,"
+    },
+    "ደፈረ": {
+        "Amharic": "ደፈረ",
+        "English": "was disrespectful, was"
+    },
+    "ገብረ": {
+        "Amharic": "አደረገ",
+        "English": "achieve, arrange, fix, ensure,"
+    },
+    "ገረረ": {
+        "Amharic": "ተገዛ",
+        "English": "be subject to, was subdued, was"
+    },
+    "ገዐረ": {
+        "Amharic": "ጮኽ፣ተጨነቀ",
+        "English": "showed worry, concern,"
+    },
+    "ገዘረ": {
+        "Amharic": "ገረዘ",
+        "English": "pruned, grafted, circumcised,"
+    },
+    "ገየረ": {
+        "Amharic": "ቀባ፣ለሰነ፣ለቀለቀ",
+        "English": "plastered, besmear,"
+    },
+    "ጎጽፈረ": {
+        "Amharic": "አከከ",
+        "English": "scratched with the nails, itch,"
+    },
+    "ጥህረ": {
+        "Amharic": "ጮኽ",
+        "English": "shouted, bellowed, yelled,"
+    },
+    "ጦመረ": {
+        "Amharic": "ጻፈ",
+        "English": "wrote, buffet, write"
+    },
+    "ጠፈረ": {
+        "Amharic": "ታታ",
+        "English": "intertwined, interlaced"
+    },
+    "ፀመረ": {
+        "Amharic": "አንድ አደረገ",
+        "English": "combined"
+    },
+    "ጸበረ": {
+        "Amharic": "ጭቃ አደረገ",
+        "English": "soft wet earth, dirt,"
+    },
+    "ጽዕረ": {
+        "Amharic": "ተጨነቀ",
+        "English": "feel uneasy, was in a"
+    },
+    "ጾረ": {
+        "Amharic": "ተሸከመ",
+        "English": "uphold, upheld"
+    },
+    "ጸጎረ": {
+        "Amharic": "ጨጎራም ሆነ",
+        "English": ""
+    },
+    "ፀፈረ": {
+        "Amharic": "ታታ፣ጠለፈ (የባጥ)",
+        "English": "intertwined,"
+    },
+    "ፈኀረ": {
+        "Amharic": "አጨ",
+        "English": "be engaged, be affianced,"
+    },
+    "ፈርፈረ": {
+        "Amharic": "ቆረሰ (የመቆራረስ)",
+        "English": "cut (usually big"
+    },
+    "ፈከረ": {
+        "Amharic": "ተረጎመ",
+        "English": "render, translate, construe,"
+    },
+    "ፈጠረ": {
+        "Amharic": "ፈጠረ",
+        "English": "give rise to, invented,"
+    },
+    "ኀልቀ": {
+        "Amharic": "አለቀ",
+        "English": "be up to, be all used up, be off one's"
+    },
+    "ኈለቈ": {
+        "Amharic": "ቆጠረ",
+        "English": "truncate, hew, hew down, make a"
+    },
+    "ሐመቀ": {
+        "Amharic": "ብላሽ ሆነ",
+        "English": ""
+    },
+    "ሐብቀቀ": {
+        "Amharic": "አረከሰ፣አበላሸ",
+        "English": "abuse, debase, desecrate,"
+    },
+    "ሐብቈቈ": {
+        "Amharic": "ሣሣ",
+        "English": "be threadbare , thin, thinned"
+    },
+    "ሐነቀ": {
+        "Amharic": "አነቀ",
+        "English": "suffocated, strangled, killed by"
+    },
+    "ሐንቀቀ": {
+        "Amharic": "ተድላ ደስታ አደረገ",
+        "English": "enjoy life abundantly,"
+    },
+    "ልህቀ": {
+        "Amharic": "አደገ",
+        "English": "be worn, look worn, be old ma,"
+    },
+    "ሌቀ": {
+        "Amharic": "አለቃ ሆነ",
+        "English": "Chief, leader, arch, a person in"
+    },
+    "ለጸቀ": {
+        "Amharic": "አንድ ሆነ፣ ተጣበቀ",
+        "English": "adhere, be locked, Cling"
+    },
+    "ለፈቀ": {
+        "Amharic": "አጥብቆ ያዘ",
+        "English": "emphatically, with vigor,"
+    },
+    "መቀቀ": {
+        "Amharic": "አንጣጣ",
+        "English": "snapped, caused to fizzle splutter"
+    },
+    "መተቀ": {
+        "Amharic": "ጣፈጠ፣ማር ማር አለ",
+        "English": "was flavorful, mouth-"
+    },
+    "ሞቀ": {
+        "Amharic": "ሞቀ",
+        "English": "got hot, became warm, heat came to"
+    },
+    "መጠቀ": {
+        "Amharic": "ረዘመ",
+        "English": "lengthened out, became extended,"
+    },
+    "ሠሀቀ": {
+        "Amharic": "ሳቀ",
+        "English": "jeer, laugh, taunt"
+    },
+    "ሰረቀ": {
+        "Amharic": "ሰረቀ",
+        "English": "steal, stole, pilfer, purloin, steal,"
+    },
+    "ሠቅሠቀ": {
+        "Amharic": "ከፈለ፣ለየ",
+        "English": "alienated, estranged, separated,"
+    },
+    "ሰበቀ": {
+        "Amharic": "ሰበቀ፣መታ (የማርስ)",
+        "English": "minced, milled,"
+    },
+    "ሠነቀ": {
+        "Amharic": "ስንቅ ያዘ",
+        "English": "prepared provisions for travel"
+    },
+    "ሶቀ": {
+        "Amharic": "ደገፈ (የሚያዝ ነገር ሁሉ)",
+        "English": "supported,"
+    },
+    "ሰደቀ": {
+        "Amharic": "ዘረጋ (የሰዴቃ)",
+        "English": "covered with a lid, cover,"
+    },
+    "ሠጠቀ": {
+        "Amharic": "ሰነጠቀ፣ፈለጠ፣ተረተረ",
+        "English": "split splintered,"
+    },
+    "ርሕቀ": {
+        "Amharic": "ራቀ",
+        "English": "be far, go far, deviate, be distant,"
+    },
+    "ረቀ": {
+        "Amharic": "ረቀቀ",
+        "English": "was drafted, grew thin"
+    },
+    "ረቀቀ": {
+        "Amharic": "ጻፈ",
+        "English": "wrote, buffet, write"
+    },
+    "ረፈቀ": {
+        "Amharic": "ተቀመጠ",
+        "English": "sat in a meeting, sat down,"
+    },
+    "በረቀ": {
+        "Amharic": "ብልጭ አለ",
+        "English": "blasted, blew up, went off,"
+    },
+    "ቤደቀ": {
+        "Amharic": "ሠራ (የቤት)",
+        "English": "did, built, construct,"
+    },
+    "ተላጸቀ": {
+        "Amharic": "አንድ ሆነ",
+        "English": "combined"
+    },
+    "ተስቈቈ": {
+        "Amharic": "ሣሣ፣ነፈገ",
+        "English": "deny, denied, was miserly,"
+    },
+    "ተሣለቀ": {
+        "Amharic": "ተዘባበተ፣ተሣለቀ",
+        "English": "laughed scornfully at"
+    },
+    "ተዐረቀ": {
+        "Amharic": "ተራረቀ፣ታረቀ",
+        "English": "make up with, be"
+    },
+    "ተዐርቀ": {
+        "Amharic": "ተራቆተ",
+        "English": "look bare, nude, became very"
+    },
+    "ተዳደቀ": {
+        "Amharic": "ተጣላ",
+        "English": "had a fight, came to blows, fell"
+    },
+    "ተጠውቀ": {
+        "Amharic": "ተከፋ፣አስከፋ",
+        "English": "was hurt, sad, became"
+    },
+    "ተጽዕቀ": {
+        "Amharic": "ተጨነቀ",
+        "English": "showed worry, concern,"
+    },
+    "ተጸደቀ": {
+        "Amharic": "ተመጻደቀ",
+        "English": "talked big, bragged, conducted"
+    },
+    "ነሰቀ": {
+        "Amharic": "ሰደረ፣ደረደረ (የደንጊያ)",
+        "English": "set in rows,"
+    },
+    "ነደቀ": {
+        "Amharic": "ሠራ (የቤት)",
+        "English": "built , construct"
+    },
+    "ነፈቀ": {
+        "Amharic": "ከፈለ",
+        "English": "paid out, divided, proprate, disburse,"
+    },
+    "ናፈቀ": {
+        "Amharic": "ተጠራጠረ",
+        "English": "distrust, be distrustful of, be"
+    },
+    "አልጸቀ": {
+        "Amharic": "ደረሰ",
+        "English": "was ready, reached, happened,"
+    },
+    "ዐመቀ": {
+        "Amharic": "ጥልቅ ሆነ፣ጎደጎደ",
+        "English": "sank in, deep, became"
+    },
+    "ዐሰቀ": {
+        "Amharic": "አሸበ ሠራ (በልብስ ላይ ወርቅ የማፍሰስ)",
+        "English": ""
+    },
+    "ዐረቀ": {
+        "Amharic": "አስታረቀ",
+        "English": "appease, conciliate, mollify,"
+    },
+    "ዐርቀ": {
+        "Amharic": "ተራቆተ",
+        "English": "nude, became very poor, became"
+    },
+    "አበቀ": {
+        "Amharic": "ታመመ",
+        "English": "be affected, be sick, take sick, be"
+    },
+    "ዐነቀ": {
+        "Amharic": "አሰረ (የአንገት)",
+        "English": "lace, attach, bale,"
+    },
+    "አንጸብረቀ": {
+        "Amharic": "አንጸባረቀ፣አብረቀረቀ",
+        "English": "sparkled, reflected,"
+    },
+    "ዖቀ": {
+        "Amharic": "አወቀ",
+        "English": "acknowledge, discover, notice,"
+    },
+    "አድለቅለቀ": {
+        "Amharic": "ተነዋወጠ፣ አነዋወጠ",
+        "English": "be troubled, be"
+    },
+    "ዐጠቀ": {
+        "Amharic": "ታጠቀ",
+        "English": "be equipped"
+    },
+    "አጥመቀ": {
+        "Amharic": "አጠመቀ",
+        "English": "baptized, baptize, christen,"
+    },
+    "አጥዐቀ": {
+        "Amharic": "አጣበቀ",
+        "English": "was too tight, glued, attach,"
+    },
+    "ወሰቀ": {
+        "Amharic": "ሳበ፣ገተረ (የቀስት)",
+        "English": "tug on,lead, attracted,"
+    },
+    "ወረቀ": {
+        "Amharic": "ተፋ",
+        "English": "eject, emit, emitted, disgorge, be"
+    },
+    "ወድቀ": {
+        "Amharic": "ወደቀ",
+        "English": "was killed in battle, fell down, failed"
+    },
+    "ዘሐቀ": {
+        "Amharic": "ገፈፈ (የቆዳ)",
+        "English": "stripped off, skimmed,"
+    },
+    "ዘረቀ": {
+        "Amharic": "አቧለተ (የዋዛ)",
+        "English": "made jokes, generated"
+    },
+    "ዜርዜቀ": {
+        "Amharic": "ነፋ (የወንፊት)",
+        "English": "heave vi, cause to rise"
+    },
+    "ደመቀ": {
+        "Amharic": "ወጋ",
+        "English": "ache, jab, make war on, impinge on,"
+    },
+    "ደቀ": {
+        "Amharic": "ልጅ ሆነ",
+        "English": ""
+    },
+    "ደደቀ": {
+        "Amharic": "ተጣላ",
+        "English": "quarreled with, fought with,"
+    },
+    "ጕሕቈ": {
+        "Amharic": "ጎበጠ፣አጎበጠ፣ አጎነበሰ",
+        "English": ""
+    },
+    "ጠለቀ": {
+        "Amharic": "አደፈ፣ረከሰ",
+        "English": "wasimpfure, was defiled, was"
+    },
+    "ጠበቀ": {
+        "Amharic": "ያዘ",
+        "English": "started menager keyaze 'ayaqomm"
+    },
+    "ጠነቀቀ": {
+        "Amharic": "ጻፈ",
+        "English": "wrote, buffet, write"
+    },
+    "ጠንቀቀ": {
+        "Amharic": "ጠነቀቀ",
+        "English": "took care, (in orthography),"
+    },
+    "ጠየቀ": {
+        "Amharic": "ተረዳ",
+        "English": "understand, understood, have an"
+    },
+    "ጽሕቀ": {
+        "Amharic": "ተጋ",
+        "English": "was diligent, persevered, wake,"
+    },
+    "ጸረቀ": {
+        "Amharic": "ጋገረ",
+        "English": "baked bread, bake, cooked bread in"
+    },
+    "ጸንቀቀ": {
+        "Amharic": "ነከረ፣ዘፈቀ፣ለወሰ",
+        "English": "knead, mix, pressed and"
+    },
+    "ጸድቀ": {
+        "Amharic": "እውነተኛ ሆነ",
+        "English": "true, unfailing, rightful"
+    },
+    "ጸፈቀ": {
+        "Amharic": "ጀጎለ (የአጥር)",
+        "English": "deprive, shut in, shut off,"
+    },
+    "ፈሐቀ": {
+        "Amharic": "ፋቀ",
+        "English": "abrade, wrote off, tanned, scraped,"
+    },
+    "ፈረቀ": {
+        "Amharic": "ከፈለ",
+        "English": "underwrite, underwrote, paid out,"
+    },
+    "ሐለበ": {
+        "Amharic": "አለበ",
+        "English": "left marker, milk, owe"
+    },
+    "ሐሰበ": {
+        "Amharic": "አሰበ",
+        "English": "entertain, look after, look out,"
+    },
+    "ሐበበ": {
+        "Amharic": "ሀብ ሀብ አለ፣ ከዚያም ከዚያም ረገጠ፣ ወዳጅ ሆነ",
+        "English": ""
+    },
+    "ሐብሐበ": {
+        "Amharic": "ማለ",
+        "English": "make a vow, give a solemn promise,"
+    },
+    "ሐንበበ": {
+        "Amharic": "አፈራ",
+        "English": "bear fruit, make made, win"
+    },
+    "ሐንከበ": {
+        "Amharic": "አሰፈረ",
+        "English": "resettle, had grain measured,"
+    },
+    "ሐዘበ": {
+        "Amharic": "ጠረጠረ",
+        "English": "removed husks with the teeth (of"
+    },
+    "ሔበ": {
+        "Amharic": "ቀዳ፣ጠለቀ (የውሃ)",
+        "English": "hauled, drew water,"
+    },
+    "ሐጠበ": {
+        "Amharic": "ለቀመ (የእንጨት)",
+        "English": "reaped, picked up,"
+    },
+    "ኀፀበ": {
+        "Amharic": "አጠበ፣አጠራ፣አነጻ",
+        "English": "cleaned, clean, cleanse,"
+    },
+    "ልህበ": {
+        "Amharic": "ወዛ፣ላበ፣ሞቀ፣ተኮሰ",
+        "English": "transpired, had a lively"
+    },
+    "ለበበ": {
+        "Amharic": "ሸበበ",
+        "English": "muzzled, haltered, bridled, reined"
+    },
+    "ለገበ": {
+        "Amharic": "ሰፋ (የአቅማዳ)",
+        "English": "sewed, stitch, darned"
+    },
+    "መረበ": {
+        "Amharic": "ጣለ (የዓሣ)",
+        "English": "entrap, hearken, lure, net,"
+    },
+    "ማዕሰበ": {
+        "Amharic": "ገለሞተ",
+        "English": "became a widower, became"
+    },
+    "መገበ": {
+        "Amharic": "ሾመ (የሹመት)",
+        "English": "appoint, nominate"
+    },
+    "ሰሐበ": {
+        "Amharic": "ጎተተ፣ሳበ",
+        "English": "lead, attracted, attract, draw,"
+    },
+    "ሣህበበ": {
+        "Amharic": "ሻገተ፣ተበላሸ",
+        "English": "mildew, turned rotten,"
+    },
+    "ሰለበ": {
+        "Amharic": "ሰለበ",
+        "English": "emasculate, Castrate, cut off 's"
+    },
+    "ሠረበ": {
+        "Amharic": "ማገ፣መጠጠ፣ጠጣ",
+        "English": "sipped ate washing it"
+    },
+    "ሰበ": {
+        "Amharic": "ዞረ፣ከበበ፣ገጠመ (የሠራዊት)",
+        "English": "rhymed,"
+    },
+    "ሠብሠበ": {
+        "Amharic": "ሕግ ሠራ",
+        "English": "male the law"
+    },
+    "ሠአበ": {
+        "Amharic": "ተከተለ",
+        "English": "tread in, accompany, adhere,"
+    },
+    "ሥእበ": {
+        "Amharic": "ተዳደፈ፣ረከሰ",
+        "English": "wasimpfure, was defiled,"
+    },
+    "ሰከበ": {
+        "Amharic": "ተኛ",
+        "English": "retire for the night, slept, sleep, turn"
+    },
+    "ሤበ": {
+        "Amharic": "ሸበተ (የሰው ብቻ)",
+        "English": "turn white, be gray,"
+    },
+    "ርኅበ": {
+        "Amharic": "ተራበ",
+        "English": "was hungry, hunger, reproduce,"
+    },
+    "ረበ": {
+        "Amharic": "ረበበ (የመልአክ የደመና ክንፍ ያለው ነገር ሁሉ)",
+        "English": ""
+    },
+    "ረበበ": {
+        "Amharic": "ዘረጋ",
+        "English": "unrolled, stretched out, spread out,"
+    },
+    "ረከበ": {
+        "Amharic": "አገኘ",
+        "English": "found, earned, discovered, came"
+    },
+    "ረጥበ": {
+        "Amharic": "ረጠበ",
+        "English": "was wet, was damp, moist, got wet"
+    },
+    "ቀለበ": {
+        "Amharic": "ዋጠ",
+        "English": "absorb, engulf, drown out, damp,"
+    },
+    "ቀረበ": {
+        "Amharic": "ቆረበ",
+        "English": "took Holy Communion, partook the"
+    },
+    "ቄረበ": {
+        "Amharic": "ቆረበ",
+        "English": "took Holy Communion, partook the"
+    },
+    "ቈረበ": {
+        "Amharic": "ቆረበ",
+        "English": "took Holy Communion, partook the"
+    },
+    "ቀርበ": {
+        "Amharic": "ቀረበ",
+        "English": "came near, approached, approach,"
+    },
+    "ቀቀበ": {
+        "Amharic": "ሰፋ (የሰይፍ ማኅደር)",
+        "English": ""
+    },
+    "ቀጸበ": {
+        "Amharic": "ጠቀሰ (የጥቅሻ)",
+        "English": "winked at, referred to,"
+    },
+    "ተሐዘበ": {
+        "Amharic": "ታዘበ",
+        "English": "was disappointed in, took critical"
+    },
+    "ተመንደበ": {
+        "Amharic": "ተቸገረ፣ተጨነቀ፣ ተጠበበ",
+        "English": "showed worry,"
+    },
+    "ተማዕሰበ": {
+        "Amharic": "ገለሞተ",
+        "English": "became a widower, became"
+    },
+    "ተመገበ": {
+        "Amharic": "በላ",
+        "English": "won, sting, itched, digest,"
+    },
+    "ተዐፅበ": {
+        "Amharic": "ተጨነቀ፣ተደነቀ",
+        "English": "be amazed, be awestruck,"
+    },
+    "ተጥበበ": {
+        "Amharic": "ብልሃተኛ ሆነ",
+        "English": "cunning, rational"
+    },
+    "ነሀበ": {
+        "Amharic": "ሠራ፣አነበ (የብረታ ብረት የንብ)",
+        "English": ""
+    },
+    "ነቀበ": {
+        "Amharic": "ለየ",
+        "English": "identified, divided, distinguished,"
+    },
+    "ነበበ": {
+        "Amharic": "ተናገረ፣ነገረ",
+        "English": "apprise, mention, remark, state,"
+    },
+    "ነጥበ": {
+        "Amharic": "ነጠበ",
+        "English": "dripped, blotted, blotched, leaked,"
+    },
+    "አመክዐበ": {
+        "Amharic": "እጥፍ ድርብ አደረገ",
+        "English": "doubled"
+    },
+    "አማዕሰበ": {
+        "Amharic": "ቤተ ፈት ሆነ (የሚስት)",
+        "English": "divorced"
+    },
+    "አማዕቀበ": {
+        "Amharic": "አደራ አለ",
+        "English": "committal, introduction,"
+    },
+    "አማዕተበ": {
+        "Amharic": "አመሳቀለ፣ አማተበ",
+        "English": "make the singn of the"
+    },
+    "አስተርከበ": {
+        "Amharic": "አስተዋለ",
+        "English": "was attentive, took note of,"
+    },
+    "አስተአዘበ": {
+        "Amharic": "ሸና፣አፈሰሰ",
+        "English": "urinated, urinate, peed"
+    },
+    "አስተዐፀበ": {
+        "Amharic": "አደነቀ፣አስጨነቀ",
+        "English": "wondered, admired,"
+    },
+    "ዐሰበ": {
+        "Amharic": "ሰጠ (የደመዎዝ)",
+        "English": "payed salary"
+    },
+    "ዓሰበ": {
+        "Amharic": "ፈታ፣ለቀቀ፣ተወ (የሚስት)",
+        "English": "divorced"
+    },
+    "ዐርበ": {
+        "Amharic": "ገባ (የፀሐይ)",
+        "English": "sun sit"
+    },
+    "ዐቀበ": {
+        "Amharic": "ጠበቀ",
+        "English": "watched, waited for, preserved,"
+    },
+    "ዐተበ": {
+        "Amharic": "ባረከ",
+        "English": "cast blessings, give benedlction, bless,"
+    },
+    "ዐንሰበ": {
+        "Amharic": "አሟረተ",
+        "English": "prophesized"
+    },
+    "አንበበ": {
+        "Amharic": "አነበበ",
+        "English": "peruse, read, looked at words and"
+    },
+    "አንጠብጠበ": {
+        "Amharic": "አንጠበጠበ፣ ተንጠበጠበ",
+        "English": "still, seeped"
+    },
+    "አውሰበ": {
+        "Amharic": "አገባ",
+        "English": "marry, married"
+    },
+    "አውገበ": {
+        "Amharic": "አኮረፈ (የእንቅልፍ)",
+        "English": "grunt, make a"
+    },
+    "አውጸበ": {
+        "Amharic": "ሠራ (የቀለበት)",
+        "English": "operated,"
+    },
+    "ዐዘበ": {
+        "Amharic": "ቆነነ፣ሠራ (የጭራ)",
+        "English": "apportioned, allotted,"
+    },
+    "አጠበ": {
+        "Amharic": "ለቀመ (የእንጨት)",
+        "English": "reaped, picked up,"
+    },
+    "ዐጸበ": {
+        "Amharic": "አስጨነቀ",
+        "English": "put in a great difficulty,"
+    },
+    "አጽሐበ": {
+        "Amharic": "ዘበዘበ፣ነዘነዘ፣ ጨቀጨቀ፣ ነገር አበዛ፣ አደከመ",
+        "English": ""
+    },
+    "ከሰበ": {
+        "Amharic": "ገረዘ፣ቆረጠ",
+        "English": "pruned, grafted, circumcised,"
+    },
+    "ከረበ": {
+        "Amharic": "ለቀመ፣ሰበሰበ (የወይን)",
+        "English": "reaped, picked up,"
+    },
+    "ኬረበ": {
+        "Amharic": "አራት ዓይነት አድርጎ ጠረበ",
+        "English": "hewed, carved,"
+    },
+    "ኰረበ": {
+        "Amharic": "ሰቀለ (የባጥ እንደ ዳስ ያለ ሁሉ)",
+        "English": "strangled or"
+    },
+    "ከበበ": {
+        "Amharic": "ከበበ (የማጀብ)",
+        "English": "accompany"
+    },
+    "ከብከበ": {
+        "Amharic": "ሰርግ አደረገ",
+        "English": "wedding, wedding banquet,"
+    },
+    "ከተበ": {
+        "Amharic": "ጻፈ",
+        "English": "write , buffet"
+    },
+    "ከዐበ": {
+        "Amharic": "ሰደረ፣ካበ፣ደረደረ",
+        "English": "set in rows, enumerated,"
+    },
+    "ወሀበ": {
+        "Amharic": "ሰጠ",
+        "English": "afford, addict, administer, bestow,"
+    },
+    "ወከበ": {
+        "Amharic": "ቸኰለ",
+        "English": "be in a hurry, be in a rush, haste,"
+    },
+    "ወጸበ": {
+        "Amharic": "ሠራ (የቀለበት)",
+        "English": "operated,"
+    },
+    "ዘረበ": {
+        "Amharic": "መታ፣ቀጠቀጠ (የመዶሻ)",
+        "English": "struck"
+    },
+    "ዘገበ": {
+        "Amharic": "ሰበሰበ፣አከማቸ (የገንዘብ)",
+        "English": "heap up,"
+    },
+    "የበበ": {
+        "Amharic": "እልል እልል አለ፣ አመሰገነ፣ ዘመረ፣ ዘፈነ",
+        "English": "sang,"
+    },
+    "ደበበ": {
+        "Amharic": "ዘረጋ (የጥላ የዝንቦ)",
+        "English": "unwind, unwound,"
+    },
+    "ደብደበ": {
+        "Amharic": "ነፋ (የሆድ)",
+        "English": "blew, spraw, blow,"
+    },
+    "ደየበ": {
+        "Amharic": "ወጣ፣አረገ",
+        "English": "go up into heaven, step"
+    },
+    "ገለበ": {
+        "Amharic": "ሸሸ፣ጋለበ፣ነዳ፣ አጠመደ",
+        "English": "ride off, rode made"
+    },
+    "ገልበበ": {
+        "Amharic": "ሸፈነ፣ከደነ፣አለበሰ፣ አከናነበ",
+        "English": "enclose,"
+    },
+    "ጠቀበ": {
+        "Amharic": "ሰፋ፣ጠቀመ (የልብስ)",
+        "English": "repair"
+    },
+    "ጠበ": {
+        "Amharic": "ብልሃተኛ ሆነ",
+        "English": "cunning, rational"
+    },
+    "ጠበጠበ": {
+        "Amharic": "ጻፈ",
+        "English": "write"
+    },
+    "ጠብጠበ": {
+        "Amharic": "ገረፈ",
+        "English": "whipped lashed, flagellated,"
+    },
+    "ጤበ": {
+        "Amharic": "ኮላ ኳለ፣ቀባ",
+        "English": "made up one's eyelashes with"
+    },
+    "ጸለበ": {
+        "Amharic": "ሰቀለ",
+        "English": "crucify, crucified, string up, hanged,"
+    },
+    "ጸረበ": {
+        "Amharic": "ጠረበ",
+        "English": "hewed, carved, carve, hew, plane"
+    },
+    "ጸበ": {
+        "Amharic": "ጠበበ",
+        "English": "was tight, was narrow, fry (fried),"
+    },
+    "ጾበ": {
+        "Amharic": "ጨለጠ፣ጠጣ",
+        "English": "absorb, drink, feast, gulp"
+    },
+    "ጸግበ": {
+        "Amharic": "ጠገበ",
+        "English": "got satisfied, quenched, satiated,"
+    },
+    "ሐለተ": {
+        "Amharic": "መለመለ",
+        "English": "draft (draught), recruit, enlist"
+    },
+    "ሐመተ": {
+        "Amharic": "አከሰለ (የከሰል)",
+        "English": "sun burnt, made"
+    },
+    "ሐርበተ": {
+        "Amharic": "ተንበደበደ (የፍርሀት)",
+        "English": "was frightened, was"
+    },
+    "ሐብረተ": {
+        "Amharic": "መከተ",
+        "English": "fend of, parry, parried,"
+    },
+    "ኀቤተ": {
+        "Amharic": "አገለገለ",
+        "English": "be usable, be in use, be used, come"
+    },
+    "ሐተተ": {
+        "Amharic": "መረመረ",
+        "English": "put through an examination,",
+        "Voice": "voice_hatete.m4a",
+        "Details": {
+            "Halafi": "ሐተተ -> መረመረ -> ኃላፊ አንቀጽ",
+            "Tinbit": "የሐትት -> ይመረመራል ->ትንቢት አንቀጽ",
+            "Zend": " ይሕትት -> ይመረመር ዘንድ -> ዘንድ አንቀጽ",
+            "Tizaz": "ይሕትት - > ይመርመር -> ትእዛዝ አንቀጽ",
+            "Nues": " ሐቲት/ሐቲቶት -> መመርመር -> ንዑስ አንቀጽ",
+            "Sals":" ሐታቲ/ሐታትያን -> መርማሪ -> ሣልስ ቅጽል",
+            "Anstay": "ሐታቲት/ትያት -> የምትመረምር -> አንስታይ ቅጽል",
+            "BaIed": "መሐትት -> የሚያስመረምር -> ባዕድ ቅጽል",
+            "Boze":  "ሐቲቶ/ሙ -> መርምሮ -> ቦዝ አንቀጽ",
+            "Zemed": "ሐተታ -> ምርመራ ፣ ፍተሻ -> ዘመድ ዘር"
+        }
+    },
+    "ሐውከተ": {
+        "Amharic": "ግር ግር አለ",
+        "English": "found in a condition of"
+    },
+    "ሐዘተ": {
+        "Amharic": "መደበ (የመደብ)",
+        "English": "assign, attach, give over,"
+    },
+    "ለተ": {
+        "Amharic": "ዲዳ ሆነ",
+        "English": "aphonic, tongue-tied"
+    },
+    "ለተተ": {
+        "Amharic": "ጻፈ",
+        "English": "write, buffet"
+    },
+    "ለግነተ": {
+        "Amharic": "አገነፋ",
+        "English": "cooked porridge, made porridge in"
+    },
+    "መመተ": {
+        "Amharic": "አፈገፈገ፣ፈርቶ ሸሸ",
+        "English": "best a retreat,withdrew,"
+    },
+    "መሥረተ": {
+        "Amharic": "ጀመረ",
+        "English": "undertake, undertook"
+    },
+    "ሞተ": {
+        "Amharic": "ሞተ",
+        "English": "fall, fell, fallen, die, meet ones death,"
+    },
+    "መጽወተ": {
+        "Amharic": "መጸወተ፣ሰጠ",
+        "English": "gave alms to the poor,"
+    },
+    "ስሕተ": {
+        "Amharic": "ሳተ",
+        "English": "missed, erred, blunder, err, stray,"
+    },
+    "ሰለተ": {
+        "Amharic": "ዘበተ",
+        "English": "laughed scornfully at, derided,"
+    },
+    "ሴረተ": {
+        "Amharic": "ሸመተ",
+        "English": "buy (bought), bought commodities,"
+    },
+    "ሰንኈተ": {
+        "Amharic": "በጣ (የሰውነት)",
+        "English": "seriously, made an"
+    },
+    "ሰንበተ": {
+        "Amharic": "አከበረ (የሰንበት)",
+        "English": "esteemed, celebrated"
+    },
+    "ሰንከተ": {
+        "Amharic": "ጋገረ",
+        "English": "baked bread, bake, cooked bread in"
+    },
+    "ሠከተ": {
+        "Amharic": "ወጋ",
+        "English": "pricked, pierced, gave an injection"
+    },
+    "ሰኮተ": {
+        "Amharic": "ወለወለ፣ሰራ (የመንገድ)",
+        "English": "wiped, polished,"
+    },
+    "ሰክተተ": {
+        "Amharic": "ጣደ",
+        "English": "put a cooking pot, a pan on the"
+    },
+    "ረአተ": {
+        "Amharic": "ጋገረ (የራት)",
+        "English": "baked bread, bake, cooked"
+    },
+    "ሮተ": {
+        "Amharic": "ወለወለ፣አሸ",
+        "English": "seek, rub, rubbed massaged,"
+    },
+    "ቀብተተ": {
+        "Amharic": "ነፋ",
+        "English": "heave vi, cause to rise, blew, spraw,"
+    },
+    "ቀተ": {
+        "Amharic": "ቅትት ቅትት አለ (የመቃሰት)",
+        "English": "tried in vain,"
+    },
+    "ቀተተ": {
+        "Amharic": "ተወራረደ፣ተማማለ",
+        "English": "gamble, make a bet,"
+    },
+    "ቀነተ": {
+        "Amharic": "ታጠቀ",
+        "English": "gird on, gird oneself, gird one's"
+    },
+    "ቀፈተ": {
+        "Amharic": "ደነደነ",
+        "English": "was plump, was conceited, became"
+    },
+    "ብሕተ": {
+        "Amharic": "ሰለጠነ",
+        "English": "be proficient in"
+    },
+    "በነተ": {
+        "Amharic": "ገበረ",
+        "English": "paid tribute, levy, tax"
+    },
+    "በዐተ": {
+        "Amharic": "ገባ",
+        "English": "tumble, be turned in, understand,"
+    },
+    "በዘተ": {
+        "Amharic": "አባዘተ",
+        "English": ""
+    },
+    "ቤተ": {
+        "Amharic": "አደረ",
+        "English": "so something, all night long, lay over,"
+    },
+    "ተሠይመተ": {
+        "Amharic": "ሥልጣን ተቀበለ፣ ተሾመ",
+        "English": "be named, was"
+    },
+    "ተትሕተ": {
+        "Amharic": "ተዋረደ፣ትሑት ሆነ",
+        "English": "humble, anassuming,"
+    },
+    "ተአተተ": {
+        "Amharic": "ወገደ፣ራቀ",
+        "English": "be far, go far, deviate, be"
+    },
+    "ተከተ": {
+        "Amharic": "ደም ሆነ (የመርገም ብቻ)",
+        "English": "wearisome, was"
+    },
+    "ተዋከተ": {
+        "Amharic": "ተፍጃጀ፣ተንጫጫ",
+        "English": "was noisy, made a loud"
+    },
+    "ተጋህረተ": {
+        "Amharic": "ተጨናነቀ (የቦታ ጥበት)",
+        "English": "be crowded, be"
+    },
+    "ነሠተ": {
+        "Amharic": "አፈረሰ፣ፈነቀለ፣ነቀለ",
+        "English": "abolish, bust, Cancel,"
+    },
+    "ነቈተ": {
+        "Amharic": "ሠራ (የቤት)",
+        "English": "build"
+    },
+    "ነአተ": {
+        "Amharic": "ጋገረ",
+        "English": "baked bread, bake, cooked bread in"
+    },
+    "ዐመተ": {
+        "Amharic": "ከነዳ",
+        "English": "measured by cubits, length of arm"
+    },
+    "አመርቆተ": {
+        "Amharic": "አጎተነ (የጎፈሬ)",
+        "English": "grew bushy hair,"
+    },
+    "አምአተ": {
+        "Amharic": "መቶ አደረገ",
+        "English": ""
+    },
+    "አስተተ": {
+        "Amharic": "አቃለለ፣ናቀ",
+        "English": "retire from, contemn, defy,"
+    },
+    "አእተተ": {
+        "Amharic": "አስወገደ",
+        "English": "got rid of, eliminated, discarded,"
+    },
+    "አእኰተ": {
+        "Amharic": "አመሰገነ",
+        "English": "appreciate, approve, bive cradit"
+    },
+    "አክሞተተ": {
+        "Amharic": "አሳጠረ",
+        "English": "shortened, abridged, condense,"
+    },
+    "አካዕበተ": {
+        "Amharic": "እጽፍ ድርብ አደረገ",
+        "English": "doubled"
+    },
+    "አውከተ": {
+        "Amharic": "ግር ግር አለ",
+        "English": "shouted in a loud voice,"
+    },
+    "ዐገተ": {
+        "Amharic": "ከበበ (የክፉ፣ የበጎ)",
+        "English": "encircle, encompass,"
+    },
+    "አጻመተ": {
+        "Amharic": "ጨረሰ፣አጠፋ፣ፈጀ",
+        "English": "use up, run out of, run"
+    },
+    "ከሠተ": {
+        "Amharic": "ገለጠ",
+        "English": "unravel, unveiled, uncovered,"
+    },
+    "ከበተ": {
+        "Amharic": "ሸሸገ",
+        "English": "hid, closet, conceal, hoodwink,"
+    },
+    "ከንተተ": {
+        "Amharic": "አሳጠረ",
+        "English": "abridge, crop, cropped, cut"
+    },
+    "ኰዐተ": {
+        "Amharic": "ቆፈረ",
+        "English": "he digs, dig"
+    },
+    "ወተ": {
+        "Amharic": "ውትት ውትት አለ",
+        "English": ""
+    },
+    "ዝህተ": {
+        "Amharic": "ፈላ (የሚፈላ ሁሉ)",
+        "English": "was fermented,"
+    },
+    "ዘርቤተ": {
+        "Amharic": "ጎዘጎዘ፣አነጠፈ",
+        "English": "spread our on the floor,"
+    },
+    "ዘፈተ": {
+        "Amharic": "ደፈደፈ",
+        "English": "mixed beer must with water,"
+    },
+    "ደበተ": {
+        "Amharic": "አጎንብሶ ሄደ",
+        "English": "stoop, bend"
+    },
+    "ገብተተ": {
+        "Amharic": "አረጀ",
+        "English": "be worn, look worn, be old ma,"
+    },
+    "ገብነተ": {
+        "Amharic": "አሞቀ (የዓይብ)",
+        "English": "warmed warmed up,"
+    },
+    "ገዐተ": {
+        "Amharic": "አገነፋ (የገንፎ)",
+        "English": "cooked porridge, made"
+    },
+    "ጸለተ": {
+        "Amharic": "ጋገረ",
+        "English": "baked bread, bake, cooked bread in"
+    },
+    "ጸልመተ": {
+        "Amharic": "ጨለመ",
+        "English": "was dark, got dark, got dim,"
+    },
+    "ጸበተ": {
+        "Amharic": "ዋኘ",
+        "English": "go bathing, swim, swam, take a"
+    },
+    "ፈተተ": {
+        "Amharic": "ቆረሰ፣ፈተተ",
+        "English": "experience, have a bite, enjoy,"
+    },
+    "ፈየተ": {
+        "Amharic": "ቀማ",
+        "English": "rob, robbed, took by force, grabbed,"
+    },
+    "ሐልየነ": {
+        "Amharic": "መማለጃ ሰጠ",
+        "English": "offering to pave the way for"
+    },
+    "ኀበነ": {
+        "Amharic": "ጠመጠመ",
+        "English": "wrapped, wound, coil, lap, roll,"
+    },
+    "ሐዘነ": {
+        "Amharic": "አዘነ",
+        "English": "be unhappy, rue, was sorrowful, was"
+    },
+    "ሀይመነ": {
+        "Amharic": "አመነ፣አሳመነ፣ታመነ",
+        "English": "admit, find, found,"
+    },
+    "ሐይደነ": {
+        "Amharic": "አበደ",
+        "English": "be mad about, get mad, be crazy,"
+    },
+    "ሐፀነ": {
+        "Amharic": "አሳደገ",
+        "English": "advance, aggrandize, bring up,"
+    },
+    "ሐፈነ": {
+        "Amharic": "ዘገነ፣አፈሰ",
+        "English": "scooped, grabble, raff, ruffle,"
+    },
+    "ለሰነ": {
+        "Amharic": "ተናገረ (የልሳን)",
+        "English": "take floor, enunciate, let"
+    },
+    "ለጠነ": {
+        "Amharic": "አመሰገነ (የጌታ)",
+        "English": "appreciate, bive cradit"
+    },
+    "መሐነ": {
+        "Amharic": "እጅ ነሳ",
+        "English": "greeted"
+    },
+    "ማሰነ": {
+        "Amharic": "ጠፋ",
+        "English": "be turned off, barren, missing, went"
+    },
+    "መቀነ": {
+        "Amharic": "ጠመመ፣ክፉ ሆነ",
+        "English": "was stubborn, was"
+    },
+    "መነነ": {
+        "Amharic": "ናቀ",
+        "English": "retire from, contemn, defy, despise,"
+    },
+    "መከነ": {
+        "Amharic": "ቦታ አደረገ",
+        "English": "place"
+    },
+    "መክነ": {
+        "Amharic": "መካን ሆነ",
+        "English": "became sterile, barren, became"
+    },
+    "መዝገነ": {
+        "Amharic": "አመሰገነ",
+        "English": "appreciate, approve, bive cradit"
+    },
+    "መጠነ": {
+        "Amharic": "ለካ፣ሰፈረ",
+        "English": "gauge, take the measure"
+    },
+    "ስኅነ": {
+        "Amharic": "ሞቀ",
+        "English": "got hot, became warm, heat, came to"
+    },
+    "ሰመነ": {
+        "Amharic": "ስምንት አደረገ",
+        "English": "make eight"
+    },
+    "ሰሰነ": {
+        "Amharic": "ትርፍርፍ አለ፣ሴሰኛ ሆነ",
+        "English": "gain, return, profit,"
+    },
+    "ሰበነ": {
+        "Amharic": "ጠመጠመ",
+        "English": "wrapped, wound, coil, lap, roll,"
+    },
+    "ስእነ": {
+        "Amharic": "ደከመ",
+        "English": "was weak, strove, got tired fatigued,"
+    },
+    "ሦነ": {
+        "Amharic": "አለገገ",
+        "English": ""
+    },
+    "ሤነ": {
+        "Amharic": "ሸና",
+        "English": "urinated, urinate, peed"
+    },
+    "ሰይጠነ": {
+        "Amharic": "አጣላ፣አካሰሰ፣አሳጣ",
+        "English": "accuse, set two"
+    },
+    "ሰፈነ": {
+        "Amharic": "ገዛ",
+        "English": "purchased, bought, buy, command,"
+    },
+    "ረሐነ": {
+        "Amharic": "ጫነ",
+        "English": "loaded, charge, freight, harness,"
+    },
+    "ረስነ": {
+        "Amharic": "ጋለ",
+        "English": "became red as a result of high"
+    },
+    "ረበነ": {
+        "Amharic": "አስተማረ",
+        "English": "educate, hold class, instruct, give"
+    },
+    "ረገነ": {
+        "Amharic": "ቀዘፈ",
+        "English": "rowed, oar, paddle, steer, row,"
+    },
+    "ረጠነ": {
+        "Amharic": "መድኃኒት አደረገ",
+        "English": "made medicine"
+    },
+    "ቀነነ": {
+        "Amharic": "ቀኖና ያዘ፣ ሕግ ሠራ፣ ቀኖና ሠጠ",
+        "English": "made a law,"
+    },
+    "ቈንቈነ": {
+        "Amharic": "ነቀዘ",
+        "English": "worm-infested, got weevilly, erode,"
+    },
+    "ቀዐነ": {
+        "Amharic": "ጠመመ፣ጠበበ፣ጨነቀ",
+        "English": "stubborn, was"
+    },
+    "ቀጥነ": {
+        "Amharic": "ቀጠነ፣ረቀቀ",
+        "English": "was drafted, grew thin, was"
+    },
+    "ባህነነ": {
+        "Amharic": "ብንን ብንን አለ",
+        "English": "be turned off, drift, be"
+    },
+    "በነ": {
+        "Amharic": "በነነ",
+        "English": "blow, be powdered, raised in the air,"
+    },
+    "በየነ": {
+        "Amharic": "ፈረደ",
+        "English": "return a verdict, rendered judgment,"
+    },
+    "በደነ": {
+        "Amharic": "ወደቀ፣በድን ሆነ (የሥጋ)",
+        "English": "came to be"
+    },
+    "ተመስከነ": {
+        "Amharic": "ተቸገረ",
+        "English": "trouble oneself, go to any"
+    },
+    "ተመየነ/ተመንገነ": {
+        "Amharic": "ተንኮለኛ ሆነ፣ ተተነኳኮለ",
+        "English": "foxy,"
+    },
+    "ተስእነ/ተሠአነ": {
+        "Amharic": "ተጫማ",
+        "English": "put shoes on, put on"
+    },
+    "ተነ": {
+        "Amharic": "ወጣ፣ተነነ፣ተበተነ፣በነነ (የጉም የጢስ አጓራ)",
+        "English": ""
+    },
+    "ተንተነ": {
+        "Amharic": "ፍግምግም አለ (የመውደቅ)",
+        "English": "stumble off,"
+    },
+    "ተዐየነ": {
+        "Amharic": "ተከታተመ",
+        "English": ""
+    },
+    "ተክህነ": {
+        "Amharic": "አገለገለ (የቤተ ክርስቲያን)",
+        "English": "be usable, be in"
+    },
+    "ተኳነነ": {
+        "Amharic": "ተፈራረደ፣ተዋቀሰ",
+        "English": "reproached criticized"
+    },
+    "ቶነ": {
+        "Amharic": "ዘመነ በልግ ሆነ",
+        "English": "was autumn"
+    },
+    "ተደየነ": {
+        "Amharic": "ሞተ (የነፍስ ሞት)",
+        "English": "died, decease, die,"
+    },
+    "ቴገነ": {
+        "Amharic": "ጎለተ (የጉልቻ)",
+        "English": "positioned three stones"
+    },
+    "ተጽዕነ": {
+        "Amharic": "ተጫነ",
+        "English": "was loaded, suppressed, pressed,"
+    },
+    "ተጸወነ": {
+        "Amharic": "ተጠጋ፣አስጠጋ",
+        "English": "advance upon, draw near,"
+    },
+    "ቴፈነ": {
+        "Amharic": "ገረፈ (የወይፈን)",
+        "English": "whipped lashed,"
+    },
+    "አማሕፀነ": {
+        "Amharic": "አደራ አለ፣አማጠነ",
+        "English": ""
+    },
+    "አምነ": {
+        "Amharic": "አመነ",
+        "English": "admit, find, found, place credit,"
+    },
+    "አመስፈነ": {
+        "Amharic": "ገዛ፣አስገዛ፣ሾመ",
+        "English": "appoint, nominate,"
+    },
+    "አማእዘነ": {
+        "Amharic": "ከበበ (ክብ ሆኖ ለሚሰራ ሁሉ)",
+        "English": "encircle,"
+    },
+    "አስተንተነ": {
+        "Amharic": "አሰበ፣አሳሰበ፣አተጋ፣ አገለገለ",
+        "English": "be troubled"
+    },
+    "አስተፍከነ": {
+        "Amharic": "ደስ አሰኘ",
+        "English": "pleased, made happy,"
+    },
+    "ዐቈነ": {
+        "Amharic": "ገፋ (የወተት)",
+        "English": "roll milk"
+    },
+    "አዕበነ": {
+        "Amharic": "ደንጊያ አደረገ",
+        "English": "made stone"
+    },
+    "አውየነ": {
+        "Amharic": "የወይን ጠጅ አደረገ",
+        "English": "made wine bear"
+    },
+    "ዔነ": {
+        "Amharic": "ገመገመ",
+        "English": "assessed, appraised, appraise, treat,"
+    },
+    "አድነነ/አጽነነ": {
+        "Amharic": "አዘነበለ፣ ተደፋ፣ ደፋ፣ ተዘነበለ",
+        "English": ""
+    },
+    "ዐጠነ": {
+        "Amharic": "አጠነ",
+        "English": "smock"
+    },
+    "ከረስተነ": {
+        "Amharic": "ክርስቲያን ሆነ",
+        "English": "became christian"
+    },
+    "ኰርጎነ": {
+        "Amharic": "አከማቸ፣ሰበሰበ",
+        "English": "gathered, accumulated,"
+    },
+    "ኰነነ": {
+        "Amharic": "ገዛ (የሀገር የሰው)",
+        "English": "ruled over, dominated,"
+    },
+    "ኮነ": {
+        "Amharic": "ሆነ",
+        "English": "happened, became, become, betide,"
+    },
+    "ከደነ": {
+        "Amharic": "ገጠመ",
+        "English": "rhymed, repaired, matched, joined"
+    },
+    "ከፈነ": {
+        "Amharic": "ከፈነ፣ሸፈነ (የመግነዝ)",
+        "English": "wrapped up a"
+    },
+    "ወሰነ": {
+        "Amharic": "ደነገገ፣ወሰነ",
+        "English": "made a resolution, limited,"
+    },
+    "ወጠነ": {
+        "Amharic": "ጀመረ",
+        "English": "started, commenced, begin,"
+    },
+    "ዝኅነ": {
+        "Amharic": "ጸጥ አለ (የማዕበል ብቻ)",
+        "English": "got hushed,"
+    },
+    "ዘመነ": {
+        "Amharic": "ወረተኛ ሆነ፣ ከዚያም ከዚያም ወዳጅ ሆነ",
+        "English": "giddy,"
+    },
+    "ዘገነ": {
+        "Amharic": "አፈሰ፣ዘገነ",
+        "English": "took a handful, took a fistful"
+    },
+    "ዘፈነ": {
+        "Amharic": "ዘፈነ",
+        "English": "sang, dance, sing, utter musical"
+    },
+    "የመነ": {
+        "Amharic": "ቀና",
+        "English": "be enviouse, look down, be pretty"
+    },
+    "ድኅነ": {
+        "Amharic": "ዳነ",
+        "English": "became well again, got treated,"
+    },
+    "ደመነ": {
+        "Amharic": "ጋረደ (የደመና)",
+        "English": "veiled, screened,"
+    },
+    "ደነነ": {
+        "Amharic": "አዘነበለ፣ተዘነበለ",
+        "English": "stooped, slanted, inclined,"
+    },
+    "ደየነ": {
+        "Amharic": "ፈረደ፣ዳኘ፣ቀጣ",
+        "English": "rendered judgment,"
+    },
+    "ዴገነ": {
+        "Amharic": "ተከተለ",
+        "English": "accompany, adhere, embrace,"
+    },
+    "ደፈነ": {
+        "Amharic": "ደፈነ፣ዘጋ",
+        "English": "stopped a leak, filled up, closed,"
+    },
+    "ጕህነ": {
+        "Amharic": "ጎረና፣ ጮኽ፣ አዜመ (የድምፅ)",
+        "English": "shouted in a"
+    },
+    "ገመነ": {
+        "Amharic": "ኃጢአት ሠራ፣ በደለ",
+        "English": "misbehaved, harmed"
+    },
+    "ጠሐነ": {
+        "Amharic": "ፈጨ",
+        "English": "milled flour, ground, crushed,"
+    },
+    "ጤገነ": {
+        "Amharic": "ጣደ፣አበሰለ፣ጋገረ፣ቆላ",
+        "English": "cooked enough,"
+    },
+    "ጠነ": {
+        "Amharic": "በረታ",
+        "English": "was in good shape, succeeded through"
+    },
+    "ጸቈነ": {
+        "Amharic": "ጀጎለ፣አጠረ (የአጥር)",
+        "English": "was brief, shrank,"
+    },
+    "ጸነ": {
+        "Amharic": "ጸነነ፣አዘነበለ (የክፋት)",
+        "English": "stooped, slanted,"
+    },
+    "ጸንጸነ": {
+        "Amharic": "ነቀዘ፣ተበላሸ፣ጠነጠነ፣ አረጀ",
+        "English": "worm-infested,"
+    },
+    "ጸዐነ": {
+        "Amharic": "ጫነ",
+        "English": "loaded, charge, freight, harness,"
+    },
+    "ጸወነ": {
+        "Amharic": "አስጠጋ",
+        "English": "he causes to lean, you cause to"
+    },
+    "ጸፈነ": {
+        "Amharic": "ገፈፈ (የቆርበት)",
+        "English": "stripped off, skimmed,"
+    },
+    "ፈተነ": {
+        "Amharic": "ፈተነ",
+        "English": "tested, put to the test tempted,"
+    },
+    "ፈጠነ": {
+        "Amharic": "ፈጠነ",
+        "English": "travel faster,went fast, was quick,"
+    },
+    "ፈፀነ": {
+        "Amharic": "ወደ ታች አለ (የተቅማጥ)",
+        "English": "diarrhea,"
+    },
+    "ኀሥዐ": {
+        "Amharic": "በረደ፣ቀዘቀዘ፣ጸጥ አለ (የቁጣ የጠብ)",
+        "English": "fall, fell,"
+    },
+    "ኀብአ": {
+        "Amharic": "ሸሸገ",
+        "English": "hid, closet, conceal, hoodwink, mantle,"
+    },
+    "ሐዝአ": {
+        "Amharic": "ከለከለ (የክልክል ብቻ)",
+        "English": "hid, closet, conceal,"
+    },
+    "ሀድአ": {
+        "Amharic": "ጸጥ አለ",
+        "English": "keep silent"
+    },
+    "ኀጥአ": {
+        "Amharic": "አጣ",
+        "English": "forfeit, be lacking, be lacking in, poor,"
+    },
+    "ለምአ": {
+        "Amharic": "ለማ፣ቦግ አለ፣በራ",
+        "English": "fructify, fructified, was"
+    },
+    "ላዕልዐ": {
+        "Amharic": "ለንባዳ ሆነ (የልሳን)",
+        "English": ""
+    },
+    "ለክአ": {
+        "Amharic": "ጻፈ",
+        "English": "write, buffet"
+    },
+    "መልአ": {
+        "Amharic": "መላ",
+        "English": "entire, store with, proposal, design,"
+    },
+    "መልዐ": {
+        "Amharic": "እግር መንገድ ሄደ",
+        "English": "walked by foot"
+    },
+    "መምዐ": {
+        "Amharic": "አፈገፈገ",
+        "English": "best a retreat, withdrew,"
+    },
+    "መርዐ": {
+        "Amharic": "ተዳራ (የዝሙት)",
+        "English": ""
+    },
+    "ሞአ": {
+        "Amharic": "አሸነፈ፣ ድል ነሣ",
+        "English": "get the upper hand, have"
+    },
+    "መጽአ": {
+        "Amharic": "መጣ",
+        "English": "hail from, be right down, be right"
+    },
+    "ሰምዐ": {
+        "Amharic": "ሰማ",
+        "English": "understood, listened, heard, became"
+    },
+    "ሠሥዐ": {
+        "Amharic": "ሣሣ (የንፍገት የሥሥት)",
+        "English": "thin, thinned"
+    },
+    "ሠርዐ": {
+        "Amharic": "ሠራ፣አዘጋጀ (የማዕድ የሕግ)",
+        "English": "operated,"
+    },
+    "ሰብዐ": {
+        "Amharic": "ሰባት አደረገ",
+        "English": "made seven"
+    },
+    "ሰንአ": {
+        "Amharic": "ተስማማ",
+        "English": "was consonant with, reached an"
+    },
+    "ሣዕሥዐ": {
+        "Amharic": "ቅልጥፍጥፍ አለ (ለመናገር)",
+        "English": "become"
+    },
+    "ሰክአ": {
+        "Amharic": "ደረደረ",
+        "English": "set in rows, enumerated, arranged"
+    },
+    "ሰኵዐ": {
+        "Amharic": "አጓዘ (የጉንዳን)",
+        "English": ""
+    },
+    "ሦዐ": {
+        "Amharic": "ሠዋ፣አረደ",
+        "English": "give in sacrifice"
+    },
+    "ሰጕዐ": {
+        "Amharic": "ነደለ፣በሳ",
+        "English": "poke a hole in, bore, perforate,"
+    },
+    "ረሥአ": {
+        "Amharic": "ረሳ፣ዘነጋ",
+        "English": "forget, forgot, get over, be"
+    },
+    "ረብዐ": {
+        "Amharic": "አራት አደረገ",
+        "English": "made four"
+    },
+    "ረትዐ": {
+        "Amharic": "ቀና",
+        "English": "be enviouse, look down, be pretty"
+    },
+    "ረድአ": {
+        "Amharic": "ረዳ",
+        "English": "helped, assisted, aid, assist, deliver,"
+    },
+    "ረግዐ": {
+        "Amharic": "ረጋ",
+        "English": "quite, became peaceful, became"
+    },
+    "ረፍአ": {
+        "Amharic": "ደረተ",
+        "English": "patched, mended with pieces of"
+    },
+    "ቀልዐ": {
+        "Amharic": "ገለጠ",
+        "English": "unveiled, uncovered, opened,"
+    },
+    "ቀርዐ": {
+        "Amharic": "መታ፣ደበደበ (የዱላ)",
+        "English": "inflict a blow, attack,"
+    },
+    "ቈቍዐ": {
+        "Amharic": "አጎበጎበ፣አጎረበ፣ተላጠ",
+        "English": "peeled, bark, peel,"
+    },
+    "ቀብዐ": {
+        "Amharic": "ቀባ",
+        "English": "smeared, painted, anointed, anoint,"
+    },
+    "ቀንአ": {
+        "Amharic": "ቀና (የቅናት)",
+        "English": "jeslous, begrudge, look"
+    },
+    "ቆዐ": {
+        "Amharic": "ጨረቋ፣በለገ",
+        "English": "became like the weather of the"
+    },
+    "ቄዐ": {
+        "Amharic": "መለሰ፣ተፋ (የሁከት)",
+        "English": "translated, returned"
+    },
+    "ቀጽዐ": {
+        "Amharic": "ቀጣ",
+        "English": "took disciplinary action, chastised,"
+    },
+    "በልዐ": {
+        "Amharic": "በላ",
+        "English": "ate, devoured, munched through, be"
+    },
+    "በቍዐ": {
+        "Amharic": "ጠቀመ",
+        "English": "was useful, v.i. was beneficial,"
+    },
+    "ቦአ": {
+        "Amharic": "ገባ",
+        "English": "tumble, be turned in, understand,"
+    },
+    "ተማልዐ": {
+        "Amharic": "እግር መንገድ ሄደ፣ አናዳ፣ ወሰደ",
+        "English": "took,"
+    },
+    "ተምዐ": {
+        "Amharic": "ተቆጣ",
+        "English": "you be angry, be angry"
+    },
+    "ተምዕዐ": {
+        "Amharic": "ተበሳጨ",
+        "English": "you be angry, be angry"
+    },
+    "ተስዐ": {
+        "Amharic": "ዘጠኝ አደረገ",
+        "English": "made nine"
+    },
+    "ተሰብአ": {
+        "Amharic": "ሰው ሆነ",
+        "English": "become human"
+    },
+    "ተሥዕዐ": {
+        "Amharic": "ተገፈፈ፣ገፈፈ፣በነነ፣ ተበተነ (የዓይን ብሌን)",
+        "English": ""
+    },
+    "ተቈጥዐ": {
+        "Amharic": "ተቆጣ",
+        "English": "was removed (hide, fur, covering"
+    },
+    "ተብዐ": {
+        "Amharic": "ጨከነ፣በረታ",
+        "English": "was in good shape,"
+    },
+    "ተታብዐ": {
+        "Amharic": "ወንዳ ወንድ ሆነ፣በረታ፣ ጀገነ",
+        "English": "was"
+    },
+    "ተንሥአ": {
+        "Amharic": "ተነሳ",
+        "English": "stood up, got up, arise, originate,"
+    },
+    "ተወጽአ": {
+        "Amharic": "ድል ተነሳ፣ተሸነፈ",
+        "English": "suffer a defeat, lose the"
+    },
+    "ተዛውዐ": {
+        "Amharic": "ተጫወተ",
+        "English": "played, chatted, sing, twinddle,"
+    },
+    "ተጋብዐ": {
+        "Amharic": "ተሰበሰበ",
+        "English": "gathered, assembled,"
+    },
+    "ተጻብአ": {
+        "Amharic": "ተጣላ",
+        "English": "quarreled with, fought with,"
+    },
+    "ተፈግዐ": {
+        "Amharic": "ደስ ተሰኘ",
+        "English": "be excited, be glad, feel lively,"
+    },
+    "ነሥአ": {
+        "Amharic": "ያዘ",
+        "English": "come true, lay one's hands on, have,"
+    },
+    "ነቅዐ": {
+        "Amharic": "መነጨ",
+        "English": "sprang out, sprang from the mind,"
+    },
+    "ነትዐ": {
+        "Amharic": "ሸሸ፣ሮጠ፣ኮበለለ",
+        "English": "glide, glide past, gain time,"
+    },
+    "ነዝዐ": {
+        "Amharic": "ነቀለ",
+        "English": "uprooted pulled out, evicted,"
+    },
+    "ነድአ": {
+        "Amharic": "ነዳ",
+        "English": "drove, drive, go, jog, joggle, ride"
+    },
+    "አመልዐ": {
+        "Amharic": "ጭልጥ ብሎ ሄደ",
+        "English": ""
+    },
+    "አመስብዐ": {
+        "Amharic": "ሰባት አደረገ",
+        "English": "made seven"
+    },
+    "አመስኵዐ": {
+        "Amharic": "አመሰኳ፣አመነዛ",
+        "English": "chewed, ruminate"
+    },
+    "አመግዝአ": {
+        "Amharic": "ገዛ፣ፍሪዳ አደረገ",
+        "English": "fattened, fatten, beefed"
+    },
+    "አመፅጕዐ": {
+        "Amharic": "ታመመ፣አሳመመ",
+        "English": "be affected, be sick,"
+    },
+    "አስምዐ": {
+        "Amharic": "አዳኘ፣አሰማ",
+        "English": "voiced, uttered made oneself"
+    },
+    "አስተብቍዐ": {
+        "Amharic": "ማለደ፣አማለደ",
+        "English": "pleaded, acted as"
+    },
+    "አስተብፅዐ": {
+        "Amharic": "አደነቀ፣አስደነቀ",
+        "English": "surprised, astonished,"
+    },
+    "አስተጋብአ": {
+        "Amharic": "ሰበሰበ",
+        "English": "harvested, gathered, assembled,"
+    },
+    "አስትዐ": {
+        "Amharic": "ገበረ፣እጅ መንሻ ሰጠ",
+        "English": "paid tribute, levy, tax"
+    },
+    "አቅያዕይዐ": {
+        "Amharic": "ተፋ፣ተፋፋ",
+        "English": "eject, emit, emitted,"
+    },
+    "አብሕአ": {
+        "Amharic": "አቦካ፣አሖመጠጠ",
+        "English": "knead, squeezed,"
+    },
+    "አንብዐ": {
+        "Amharic": "አለቀሰ",
+        "English": "cry, cried, bewail, weep, yelp, cry"
+    },
+    "አንጕዐ": {
+        "Amharic": "ቀለጠመ፣ሰበረ (የአጥንት ብቻ)",
+        "English": "snapped in"
+    },
+    "አንጦልዐ": {
+        "Amharic": "ጋረደ፣ሸፈነ፣ዘረጋ፣ ተጋረደ፣ተሸፈነ",
+        "English": "enclose,"
+    },
+    "አውሥአ": {
+        "Amharic": "መለሰ (የመልስ የነገር)",
+        "English": "translated,"
+    },
+    "አውክዐ": {
+        "Amharic": "አስቸገረ፣አደከመ፣ አታከተ፣ አሰለቸ",
+        "English": ""
+    },
+    "አይኅዐ": {
+        "Amharic": "ወረደ",
+        "English": "fall down, go down, drain off, be"
+    },
+    "አይድዐ": {
+        "Amharic": "ነገረ",
+        "English": "give the idea, impart, inform,"
+    },
+    "አድምዐ": {
+        "Amharic": "አገኘ (የክብር የተስፋ)",
+        "English": ""
+    },
+    "አጣእጥአ": {
+        "Amharic": "አከናወነ፣ አበጀ፣ አሳመረ፣ አስጌጠ",
+        "English": ""
+    },
+    "አጥብዐ": {
+        "Amharic": "ወደደ",
+        "English": "was in love with, loved, liked,"
+    },
+    "አፀንግዐ": {
+        "Amharic": "በረት ሠራ",
+        "English": "he causes to lean, you cause"
+    },
+    "አጽምዐ": {
+        "Amharic": "አደመጠ",
+        "English": "DICTIONARY"
+    },
+    "ከልአ": {
+        "Amharic": "ሁለት አደረገ",
+        "English": "made two"
+    },
+    "ኰርዐ": {
+        "Amharic": "መታ (የዱላ)",
+        "English": "inflict a blow, attack,"
+    },
+    "ከፍአ": {
+        "Amharic": "ከፋ",
+        "English": "be unhappy, be in a bad humor,"
+    },
+    "ወርአ": {
+        "Amharic": "ጋረደ፣ሸፈነ (የልብስ)",
+        "English": "veiled, screened,"
+    },
+    "ወቅዐ": {
+        "Amharic": "ወቃ፣ደበደበ",
+        "English": "threshed, beat, thresh, bang,"
+    },
+    "ወውዐ": {
+        "Amharic": "ደነፋ፣ጮኽ",
+        "English": "boasted, showed off, talked"
+    },
+    "ወድአ": {
+        "Amharic": "ጨረሰ፣ፈጀ",
+        "English": "used up, finished completed,"
+    },
+    "ወግአ": {
+        "Amharic": "ወጋ",
+        "English": "pricked, pierced, gave an injection to,"
+    },
+    "ወፅአ": {
+        "Amharic": "ወጣ",
+        "English": "went up, climbed, ascended, climb,"
+    },
+    "ወጽአ": {
+        "Amharic": "ድል ነሣ፣አሸነፈ",
+        "English": "won, was victorious,"
+    },
+    "ዘርዐ": {
+        "Amharic": "ዘራ (የእህል የሰው)",
+        "English": "sowed, seeded, grew,"
+    },
+    "ዘንግዐ": {
+        "Amharic": "ዘነጋ፣ረሳ",
+        "English": "rget, forgot, lose sight of, became"
+    },
+    "ዘግዐ": {
+        "Amharic": "ዘጋ",
+        "English": "obstructed, closed, blocked up,"
+    },
+    "ደርዐ": {
+        "Amharic": "ቻለ፣ታገሠ፣ጨከነ",
+        "English": "was able, capable, defray,"
+    },
+    "ደርፍዐ": {
+        "Amharic": "ደረተ፣ሰፋ",
+        "English": "patched, mended with pieces"
+    },
+    "ደፍዐ": {
+        "Amharic": "ደፋ",
+        "English": "spilt, raped, made fall flat on his face,"
+    },
+    "ጎሥዐ": {
+        "Amharic": "ገሣ (የትኩሳት የሰው የከብት)",
+        "English": "belch"
+    },
+    "ገብአ": {
+        "Amharic": "ገባ",
+        "English": "went in, got in, came in, enter, incur,"
+    },
+    "ገዝአ": {
+        "Amharic": "ገዛ",
+        "English": "purchased, bought, buy, command,"
+    },
+    "ጎድዐ": {
+        "Amharic": "መታ (የደረት ብቻ)",
+        "English": "inflict a blow, attack,"
+    },
+    "ጎጕዐ": {
+        "Amharic": "ቸኮለ",
+        "English": "haste, hasten, rush, was in a hurry,"
+    },
+    "ገፍትዐ": {
+        "Amharic": "ገለበጠ",
+        "English": "turned upside-down, turned"
+    },
+    "ገፍዐ": {
+        "Amharic": "ገፋ",
+        "English": "shoved, pushed, mistreated, lug,"
+    },
+    "ጠልዐ": {
+        "Amharic": "ወጣ፣በቀለ፣አደገ፣ ረዘመ",
+        "English": "lengthened out,"
+    },
+    "ጠምዐ": {
+        "Amharic": "ነከረ፣ዘፈቀ",
+        "English": "dipped soaked, immersed,"
+    },
+    "ጠርዐ": {
+        "Amharic": "ጮኽ፣ተማጠነ፣አቤቱ አለ፣ይግባኝ አለ",
+        "English": "shouted"
+    },
+    "ጠቅዐ": {
+        "Amharic": "መታ (የመጥቅዕ)",
+        "English": "heave vi, cause to rise,"
+    },
+    "ጠብዐ": {
+        "Amharic": "ጨከነ፣ደፈረ",
+        "English": "harden one's heart, be"
+    },
+    "ጦዐ": {
+        "Amharic": "ሸሸ",
+        "English": "ran away, flee (fled), avoid, desert,"
+    },
+    "ጤዐ": {
+        "Amharic": "አነሰ",
+        "English": "get low, decrease, be less, be short"
+    },
+    "ጠግዐ": {
+        "Amharic": "ተጠጋ፣ተገደፈ፣ ተጣበቀ",
+        "English": "advance upon, draw"
+    },
+    "ጠፍአ": {
+        "Amharic": "ጠፋ",
+        "English": "went astray, was spoilt, was"
+    },
+    "ጸልአ": {
+        "Amharic": "ጠላ",
+        "English": "abhor, abominate, hav it in for,"
+    },
+    "ጸምአ": {
+        "Amharic": "ተጠማ",
+        "English": "was thirsty, had a fervent desire"
+    },
+    "ፀርዐ": {
+        "Amharic": "ታጎለ፣ቦዘነ",
+        "English": "became idle, loaf, neglect,"
+    },
+    "ጸብአ": {
+        "Amharic": "አሸነፈ፣ተጣላ",
+        "English": "quarreled with, fought"
+    },
+    "ጸብዐ": {
+        "Amharic": "ታጎለ፣ጠፋ",
+        "English": "astray, was spoilt, was"
+    },
+    "ጸንዐ": {
+        "Amharic": "አረጋጋ፣አይዞህ አይዞህ አለ",
+        "English": "endure, insist,"
+    },
+    "ፃእፅአ": {
+        "Amharic": "ጭንጋፍ ሆነ",
+        "English": ""
+    },
+    "ጸውዐ": {
+        "Amharic": "ጠራ",
+        "English": "named, mentioned, was clean, pure"
+    },
+    "ጼአ": {
+        "Amharic": "ተላ፣ዛገ",
+        "English": "became full of maggots, gotten"
+    },
+    "ፀግዐ": {
+        "Amharic": "ተጠጋ",
+        "English": "advance upon, draw near, drive"
+    },
+    "ጸፍዐ": {
+        "Amharic": "መታ (የጥፊ ብቻ)",
+        "English": "slapped"
+    },
+    "ፈቅዐ": {
+        "Amharic": "ገመሰ፣ሰነጠቀ",
+        "English": "dissect, Cleave (cleft or"
+    },
+    "ፈግዐ": {
+        "Amharic": "ተደሰተ",
+        "English": "be excited, be glad, feel lively,"
+    },
+    "ሐነከ": {
+        "Amharic": "ሰጠ፣አደቀቀ፣ፈጨ",
+        "English": "milled flour, ground,"
+    },
+    "ሐከከ": {
+        "Amharic": "ተከራከረ",
+        "English": "debated contended, contested,"
+    },
+    "ሆከ": {
+        "Amharic": "አወከ",
+        "English": "abuse, disturb, mar, marred, make"
+    },
+    "ሔከ": {
+        "Amharic": "አላመጠ",
+        "English": "Chew, munch, masticate"
+    },
+    "ለሐኰ": {
+        "Amharic": "ሠራ",
+        "English": ""
+    },
+    "ለአከ": {
+        "Amharic": "ላከ፣ሰደደ",
+        "English": "delegate, deliver, send word, send,"
+    },
+    "ለከከ": {
+        "Amharic": "ጻፈ፣ለከከ፣ቀባ",
+        "English": "smeared, painted, anointed,"
+    },
+    "መሐከ": {
+        "Amharic": "ራራ",
+        "English": "feel for, ones heart aches, yearn,"
+    },
+    "ማሕረከ": {
+        "Amharic": "ማረከ",
+        "English": "took the attention of, took captive,"
+    },
+    "መለከ": {
+        "Amharic": "ገዛ",
+        "English": "purchased, bought, buy, command,"
+    },
+    "መሰከ": {
+        "Amharic": "አቀጠነ",
+        "English": "adulterate, dilute, With water,"
+    },
+    "ምዕከ": {
+        "Amharic": "ከፋ",
+        "English": "be unhappy, be in a bad humor,"
+    },
+    "ስሕከ": {
+        "Amharic": "ሻከረ",
+        "English": "turn sour, be strained, rough rough,"
+    },
+    "ሠረከ": {
+        "Amharic": "መሸ",
+        "English": "get evening, night fell, got dark,"
+    },
+    "ሤረከ": {
+        "Amharic": "ብልሃተኛ ሆነ",
+        "English": ""
+    },
+    "ሰበከ": {
+        "Amharic": "ጣዖት ሠራ",
+        "English": "sharpened, sculpture, carve, coin,"
+    },
+    "ሮከ": {
+        "Amharic": "ሾመ (የሰው)",
+        "English": "appoint, nominate,"
+    },
+    "ረጕነኰ": {
+        "Amharic": "ጎዘጎዘ (የምንጣፍ)",
+        "English": "spread our on the"
+    },
+    "በረከ": {
+        "Amharic": "ተንበረከከ",
+        "English": "he kneels, kneel"
+    },
+    "ባረከ": {
+        "Amharic": "ባረከ",
+        "English": "accurse, anathematize, curse,"
+    },
+    "በተከ": {
+        "Amharic": "ቆረጠ (የገመድ)",
+        "English": "ripped out, pulled out,"
+    },
+    "በከ": {
+        "Amharic": "ብላሽ ሆነ",
+        "English": "abuse, worthless, of no value,"
+    },
+    "ተመልአከ": {
+        "Amharic": "አለቃ ሆነ",
+        "English": "a person in command, boss,"
+    },
+    "ተዐረከ": {
+        "Amharic": "ወዳጅ ሆነ",
+        "English": "fraternize, go together,"
+    },
+    "ንህከ": {
+        "Amharic": "አዘነ፣ተወዘወዘ፣ተከዘ፣ አሰበ",
+        "English": "was sad, was"
+    },
+    "ነሰከ": {
+        "Amharic": "ነከሰ",
+        "English": "hitch on, grit (gritted), bite, clench,"
+    },
+    "ንእከ": {
+        "Amharic": "ቀላቀለ",
+        "English": "add, blend together, blend,"
+    },
+    "ነክነከ": {
+        "Amharic": "ወዘወዘ፣ነቀነቀ",
+        "English": "waggle, shake at, waved,"
+    },
+    "አምለከ": {
+        "Amharic": "አመለከ",
+        "English": "adore, look up to, deify, deified,"
+    },
+    "አስመከ": {
+        "Amharic": "ተጠጋ",
+        "English": "advance upon, draw near, drive"
+    },
+    "አስተብረከ": {
+        "Amharic": "ሰገደ፣አሰገደ",
+        "English": "genuflect, bow down,"
+    },
+    "አውከከ": {
+        "Amharic": "አጎደለ",
+        "English": "misappropriate, abate, deprive,"
+    },
+    "ወሐከ": {
+        "Amharic": "አነሳሳ",
+        "English": "agitate, foment, fan enthusiasm,"
+    },
+    "ወሰከ": {
+        "Amharic": "ጨመረ",
+        "English": "help one to more, rise, rose, run"
+    },
+    "ዘረከ": {
+        "Amharic": "ሰደበ",
+        "English": "abuse, Call (one) names, call"
+    },
+    "ደሐከ": {
+        "Amharic": "ተንቧቸ",
+        "English": "go bathing, swim, swam, take a"
+    },
+    "ደረከ": {
+        "Amharic": "ጸና",
+        "English": "abide, hold to, endure, insist,"
+    },
+    "ጎነኰ": {
+        "Amharic": "ከመረ",
+        "English": "piled up stacked, amass, deposit,"
+    },
+    "ጽሕከ": {
+        "Amharic": "ጨኽኘ",
+        "English": ""
+    },
+    "ጸኰ": {
+        "Amharic": "ሹልዳ አወጣ (የሥጋ)",
+        "English": "disected meat"
+    },
+    "ፈለከ": {
+        "Amharic": "ፈጠረ፣ከፈለ",
+        "English": "underwrite, underwrote, give"
+    },
+    "ሀለወ": {
+        "Amharic": "ኖረ",
+        "English": "abide, make one's home, be resident,"
+    },
+    "ኀለወ": {
+        "Amharic": "ቀራ፣ጠበቀ",
+        "English": "watched, waited for, preserved,"
+    },
+    "ሐሰወ": {
+        "Amharic": "ዋሸ",
+        "English": "falsify, falsified, fib, filbbed, lie, lied,"
+    },
+    "ኀረወ": {
+        "Amharic": "በሳ፣ነደለ፣ቆፈረ",
+        "English": "made a hole drilled, bored,"
+    },
+    "ኄረወ": {
+        "Amharic": "ቸር ሆነ",
+        "English": "open-handed, generous, amicable,"
+    },
+    "ኀተወ": {
+        "Amharic": "በራ፣ቦግ አለ",
+        "English": "lit, brighten, turn on"
+    },
+    "ሐይወ": {
+        "Amharic": "ዳነ",
+        "English": "was saved, was healed, was cured,"
+    },
+    "ኀጸወ": {
+        "Amharic": "ሰለበ",
+        "English": "emasculate, Castrate, cut off 's"
+    },
+    "ሀፈወ": {
+        "Amharic": "ወዛ፣ደከመ",
+        "English": "transpired, had a lively look,"
+    },
+    "ለሐወ": {
+        "Amharic": "አለቀሰ",
+        "English": "cry, cried, bewail, weep, yelp, cry"
+    },
+    "ሎለወ": {
+        "Amharic": "ጠበሰ፣አቃጠለ፣ለበለበ",
+        "English": "scroched, roasted,"
+    },
+    "ለቀወ": {
+        "Amharic": "ከፈተ፣አላቀቀ",
+        "English": "made free from, caused to be"
+    },
+    "ለበወ": {
+        "Amharic": "ልብ አደረገ፣አስተዋለ",
+        "English": "was attentive, took"
+    },
+    "ለከወ": {
+        "Amharic": "ፈዘዘ፣ቦዘ፣ደነገዘ",
+        "English": "got dark, became weak-"
+    },
+    "ለወወ": {
+        "Amharic": "ተኮረ፣ደፈረ (የማየት)",
+        "English": "look, stare"
+    },
+    "ሌወወ": {
+        "Amharic": "ጠመጠመ",
+        "English": "wrapped, wound, coil, lap, roll,"
+    },
+    "ለውለወ": {
+        "Amharic": "ተውለበለበ፣ አውለበለበ (የምላስ)",
+        "English": "unfurl, in"
+    },
+    "መሐወ": {
+        "Amharic": "አሸ (የእሸት)",
+        "English": "rubbed massaged, rubbed"
+    },
+    "ምህወ": {
+        "Amharic": "ቀለጠ፣ሟሟ፣ውሃ ሆነ",
+        "English": "made bankrupt,"
+    },
+    "ማህከወ": {
+        "Amharic": "አስፈራ፣አስደነገጠ",
+        "English": "dishearten, intimidate,"
+    },
+    "ማለወ": {
+        "Amharic": "ሸፈነ፣ጨለመ",
+        "English": "covered, concealed,"
+    },
+    "መስወ": {
+        "Amharic": "አቀለጠ፣አሟሟ፣ ውሃ አደረገ",
+        "English": "made"
+    },
+    "መረወ": {
+        "Amharic": "ማገረ",
+        "English": "fitted reinforcing beams"
+    },
+    "መንተወ": {
+        "Amharic": "መንታ አደረገ፣ መንታ ወለደ",
+        "English": "made twin"
+    },
+    "መጠወ": {
+        "Amharic": "ሰጠ",
+        "English": "afford, addict, administer, bestow,"
+    },
+    "መጽለወ": {
+        "Amharic": "ጠወለገ",
+        "English": "became paler, grew fainter,"
+    },
+    "መጽወ": {
+        "Amharic": "ዘመነ በልግ ሆነ",
+        "English": "months from April to"
+    },
+    "ስሕወ": {
+        "Amharic": "ተሳበ፣ተጎተተ",
+        "English": "lead, attracted, attract,"
+    },
+    "ሰለወ": {
+        "Amharic": "ሰላ",
+        "English": "become sharp  (probably of a table"
+    },
+    "ሠረወ": {
+        "Amharic": "ነቀለ",
+        "English": "uprooted pulled out, evicted,"
+    },
+    "ሰንቀወ": {
+        "Amharic": "መታ (የመሰንቆ፣ የበገና)",
+        "English": "played begena"
+    },
+    "ሰንተወ": {
+        "Amharic": "ገበረ",
+        "English": "paid tribute, levy, tax"
+    },
+    "ሰካዕለወ": {
+        "Amharic": "ቆጠቆጠ፣መነጠረ",
+        "English": "uprooted completely,"
+    },
+    "ረሰወ": {
+        "Amharic": "መልሕቅ ጣለ፣ገታ፣ አቆመ",
+        "English": "repressed, reined"
+    },
+    "ረበወ": {
+        "Amharic": "አስተማረ",
+        "English": "teach ,"
+    },
+    "ቈለወ": {
+        "Amharic": "ቆላ",
+        "English": "wag, roast"
+    },
+    "ቀልጰወ": {
+        "Amharic": "ዋጠ",
+        "English": "swallowed, gulped, absorb,"
+    },
+    "ቀስተወ": {
+        "Amharic": "ሳበ፣ገተረ፣ ለጠጠ",
+        "English": "expanded stretched,"
+    },
+    "ቀበወ": {
+        "Amharic": "ታመመ፣ሆድን ነፋ",
+        "English": "abdominal boating"
+    },
+    "ቀተወ": {
+        "Amharic": "ተወራረደ (የውርርድ)",
+        "English": "gamble, make a bet"
+    },
+    "ቀነወ": {
+        "Amharic": "ቸነከረ",
+        "English": "clinch, cloy, nail"
+    },
+    "ቀንተወ": {
+        "Amharic": "ገበረ",
+        "English": "paid tribute, levy, tax"
+    },
+    "ቀንጸወ": {
+        "Amharic": "ቀነጣ",
+        "English": ""
+    },
+    "ቀድወ": {
+        "Amharic": "አማረ፣ አሸበረቀ፣ ጠራ",
+        "English": "look good, bloom,"
+    },
+    "ባረወ": {
+        "Amharic": "ቆፈረ",
+        "English": "he digs, dig"
+    },
+    "ባሕተወ": {
+        "Amharic": "ብቸኛ ሆነ",
+        "English": "becime alone"
+    },
+    "ቤዘወ": {
+        "Amharic": "አዳነ",
+        "English": "saved, rescued, healed, deliver, heal,"
+    },
+    "በድወ": {
+        "Amharic": "ምድረ በዳ ሆነ",
+        "English": "rough country, barren"
+    },
+    "በፅወ": {
+        "Amharic": "አንቀላፋ",
+        "English": "doze, fall asleep"
+    },
+    "ተሐመወ": {
+        "Amharic": "አማች ሆነ",
+        "English": "son-in, father-in- law, brother"
+    },
+    "ተኄረወ": {
+        "Amharic": "ቸር ሆነ",
+        "English": "open-handed, generous,"
+    },
+    "ተለወ": {
+        "Amharic": "ተከተለ",
+        "English": "accompany, adhere, embrace,"
+    },
+    "ተመርዐወ": {
+        "Amharic": "ተሞሸረ፣ተዳረ",
+        "English": "was married, got wedded"
+    },
+    "ተሰርገወ": {
+        "Amharic": "ተሸለመ",
+        "English": "get a trophy, was given a"
+    },
+    "ተሰነአወ": {
+        "Amharic": "ተስማማ",
+        "English": "agree, agreed, reach an"
+    },
+    "ተሠገወ": {
+        "Amharic": "ሰው ሆነ",
+        "English": "become human"
+    },
+    "ተስጥወ": {
+        "Amharic": "ተቀበለ፣መለሰ",
+        "English": "absorb, accede, endure,"
+    },
+    "ተሰፈወ": {
+        "Amharic": "ታመነ፣አመነ፣ተስፋ አደረገ",
+        "English": "was"
+    },
+    "ተቀሐወ": {
+        "Amharic": "ተከራከረ፣ተሟገተ፣ ተፈካከረ",
+        "English": "debated"
+    },
+    "ተባሕተወ": {
+        "Amharic": "ብቸኛ ሆነ",
+        "English": "lone, recluse, uniqe, unique"
+    },
+    "ተአኀወ": {
+        "Amharic": "ወንድም አማች ሆነ",
+        "English": "son-in, father-in- law,"
+    },
+    "ተአበወ": {
+        "Amharic": "አባት ሆነ",
+        "English": "be father"
+    },
+    "ተአደወ": {
+        "Amharic": "ተደፋፈረ",
+        "English": "became rather brave, or"
+    },
+    "ተዐፅወ": {
+        "Amharic": "ዕጣ ተጣጣለ",
+        "English": "Chance"
+    },
+    "ተኬነወ": {
+        "Amharic": "ብልሃተኘ ሆነ",
+        "English": "cunning, rational"
+    },
+    "ተደለወ": {
+        "Amharic": "ተዘጋጀ፣ተሰናዳ",
+        "English": "was ready, was put in"
+    },
+    "ኖለወ": {
+        "Amharic": "ጠበቀ (የእንስሳ)",
+        "English": "watched, waited for,"
+    },
+    "ነቀወ": {
+        "Amharic": "ጮኽ (የአራዊት የአዕዋፍ)",
+        "English": "shouted,"
+    },
+    "ነበወ": {
+        "Amharic": "ተናገረ",
+        "English": "declare, express, intimate, presume,"
+    },
+    "ኖተወ": {
+        "Amharic": "ዋኘ",
+        "English": "go bathing, swim, swam, take a swim"
+    },
+    "ነዐወ": {
+        "Amharic": "አደነ",
+        "English": "hunted, search, cure, hunt"
+    },
+    "ዐለወ": {
+        "Amharic": "ወነጀለ፣ከዳ፣ዐመፀ፣ ሸፈተ",
+        "English": "denied, betrayed,"
+    },
+    "አመርዐወ": {
+        "Amharic": "ሙሽራ አደረገ፣ ሞሸረ",
+        "English": "maintained the"
+    },
+    "አመንሰወ": {
+        "Amharic": "አጠፋ",
+        "English": "turned off, extinguished,"
+    },
+    "አመንተወ": {
+        "Amharic": "መንታ አደረገ",
+        "English": "twin"
+    },
+    "አመድለወ": {
+        "Amharic": "ግብዝ አደረገ",
+        "English": "hypocrite, counterfeit,"
+    },
+    "አስሐወ": {
+        "Amharic": "አወለቀ",
+        "English": "took off, pulled out, dismantled,"
+    },
+    "አስቆቀወ": {
+        "Amharic": "አለቀሰ፣አስለቀሰ",
+        "English": "cry, cried, bewail,"
+    },
+    "አስተሰነአወ": {
+        "Amharic": "አስማማ",
+        "English": "reconciled, harmonized,"
+    },
+    "አሰውሰው": {
+        "Amharic": "ሠራ (የመሠላል)",
+        "English": ""
+    },
+    "አስተዳለወ": {
+        "Amharic": "አዘጋጀ",
+        "English": "prepared, dit, concoct, fit,"
+    },
+    "አስፈድለወ": {
+        "Amharic": "መነጠረ",
+        "English": "uprooted completely, swept,"
+    },
+    "አርኀወ": {
+        "Amharic": "ከፈተ",
+        "English": "opened, got brighter, chap,"
+    },
+    "አቀምጠወ": {
+        "Amharic": "ተለመ (የእርሻ)",
+        "English": "channeled, rut,"
+    },
+    "አብቀወ": {
+        "Amharic": "ከፈተ (የአፍ)",
+        "English": "opened, got brighter,"
+    },
+    "አተወ": {
+        "Amharic": "ገባ",
+        "English": "went in, got in, came in, enter, incur,"
+    },
+    "አንሶሰወ": {
+        "Amharic": "ተመላለሰ፣አመላለሰ",
+        "English": "went to and fro,"
+    },
+    "አንቃዕደወ": {
+        "Amharic": "አንጋጠጠ፣ ተንጋጠጠ",
+        "English": "looked upwards,"
+    },
+    "አንባሕቀወ": {
+        "Amharic": "አፋሸከ፣አዛጋ፣ አላቀቀ",
+        "English": "yawned, yawn,"
+    },
+    "አንፀወ": {
+        "Amharic": "ደረቀ",
+        "English": "was stubborn, was stiffened, was"
+    },
+    "አንጾጸወ": {
+        "Amharic": "አረጋገፈ",
+        "English": "shook out, undusted,"
+    },
+    "ዐውየወ": {
+        "Amharic": "ተፍጃጀ፣ጮኽ",
+        "English": "shouted in a loud voice,"
+    },
+    "ዐደወ": {
+        "Amharic": "ተሻገረ፣አለፈ",
+        "English": "went across, crossed, passed"
+    },
+    "አድለወ": {
+        "Amharic": "አደላ",
+        "English": "discriminate, be biased, be partial"
+    },
+    "አጥዐወ": {
+        "Amharic": "አመለከ (የጣዖት)",
+        "English": "adore, look up to, deify,"
+    },
+    "ዐፀወ": {
+        "Amharic": "ዘጋ",
+        "English": "obstructed, closed, blocked up,"
+    },
+    "አጸንጰወ": {
+        "Amharic": "ጠመዘዘ (የሚጠመዘዝ ነገር)",
+        "English": "wrung,"
+    },
+    "ከዐወ": {
+        "Amharic": "አፈሰሰ",
+        "English": "empty, emptied, lay down, splurge"
+    },
+    "ከወወ": {
+        "Amharic": "ቅልጥፍጥፍ አለ",
+        "English": ""
+    },
+    "ወልተወ": {
+        "Amharic": "መከተ (የጋሻ)",
+        "English": "defended oneself,"
+    },
+    "ወረወ": {
+        "Amharic": "ወረወረ",
+        "English": "tossed or gulped down a drink,"
+    },
+    "ወርዘወ": {
+        "Amharic": "ጎለመሰ",
+        "English": "matured, developed, fully-"
+    },
+    "ወይለወ": {
+        "Amharic": "አለቀሰ",
+        "English": "cry, cried, bewail, weep, yelp, cry"
+    },
+    "ዘመወ": {
+        "Amharic": "በደለ፣ሴሰኛ ሆነ",
+        "English": "committed adultery, had"
+    },
+    "ዘረወ": {
+        "Amharic": "በተነ",
+        "English": "adjourn, fritter-away, dispel,"
+    },
+    "ዜነወ": {
+        "Amharic": "ነገረ፣አወራ",
+        "English": "apprise, mention, remark, state,"
+    },
+    "ደለወ": {
+        "Amharic": "ተገባ",
+        "English": "agreed, reach an understanding, be"
+    },
+    "ደመወ": {
+        "Amharic": "ደም ሆነ",
+        "English": "bled, pick,lost blood"
+    },
+    "ደንቀወ": {
+        "Amharic": "ደነቆረ",
+        "English": "became deaf, hearing-impaired,"
+    },
+    "ደንጸወ": {
+        "Amharic": "ነፈገ",
+        "English": "deny, denied,*was miserly, stingy,"
+    },
+    "ጓሕለወ": {
+        "Amharic": "ሸነገለ",
+        "English": "pacified by giving, deceived with"
+    },
+    "ጓሕነወ": {
+        "Amharic": "ጮኽ፣አመሰገነ (የዜማ የምስጋና)",
+        "English": "sing a"
+    },
+    "ገለወ": {
+        "Amharic": "ሸፈነ",
+        "English": "covered, concealed, enshround, case,"
+    },
+    "ገነወ": {
+        "Amharic": "አመለከ",
+        "English": "adore, look up to, deify, deified,"
+    },
+    "ገጸወ": {
+        "Amharic": "ለየ፣አየ፣ገለጠ",
+        "English": "betoken, betray, declare,"
+    },
+    "ጠወወ": {
+        "Amharic": "አጣመመ",
+        "English": "distorted, twist, bend,"
+    },
+    "ጠበወ": {
+        "Amharic": "ጠባ (የጡት)",
+        "English": "dawn, sucked, suckled"
+    },
+    "ጽሕወ": {
+        "Amharic": "ተግ አለ፣በራ (የዝናም)",
+        "English": ""
+    },
+    "ጸለወ": {
+        "Amharic": "ቀቀረ (የማድመጥ)",
+        "English": "devour, cooked,"
+    },
+    "ጸልሐወ": {
+        "Amharic": "ሽነገለ፣ አሞኘ",
+        "English": "pacified by giving,"
+    },
+    "ጸመወ": {
+        "Amharic": "ጨመተ፣ደነቆረ",
+        "English": "became deaf, hearing-"
+    },
+    "ጻመወ": {
+        "Amharic": "ደከመ",
+        "English": "was weak, strove, got tired"
+    },
+    "ጸቀወ": {
+        "Amharic": "ወጋ (የካስማ)",
+        "English": "pricked, pierced, gave an"
+    },
+    "ፆተወ": {
+        "Amharic": "ወገን ሆነ",
+        "English": "belonging to the same camp,"
+    },
+    "ጼነወ": {
+        "Amharic": "ሸተተ",
+        "English": "smelt bad, exhale, putrefy, smell,"
+    },
+    "ጻዕደወ": {
+        "Amharic": "ነጭ ሆነ",
+        "English": "freeborn, autonomous,"
+    },
+    "ፄወወ": {
+        "Amharic": "ማረከ፣ቀማ",
+        "English": "took the attention of, took"
+    },
+    "ጸገወ": {
+        "Amharic": "ሰጠ",
+        "English": "afford, addict, administer, bestow,"
+    },
+    "ፈተወ": {
+        "Amharic": "ወደደ",
+        "English": "was in love with, loved, liked,"
+    },
+    "ፈነወ": {
+        "Amharic": "ላከ",
+        "English": "delegate, deliver, send word, send,"
+    },
+    "ሐልዘዘ": {
+        "Amharic": "አፈራ (የዛጎል ልብሱ)",
+        "English": "bear fruit, make"
+    },
+    "ሐመዘ": {
+        "Amharic": "መርዝ አደረገ",
+        "English": "envenom, infect, poisoned,"
+    },
+    "ኀበዘ": {
+        "Amharic": "ጋገረ",
+        "English": "baked bread, bake, cooked bread in"
+    },
+    "ሐንዘዘ": {
+        "Amharic": "አናዘዘ",
+        "English": "took will, had someone make his"
+    },
+    "ሖዘ": {
+        "Amharic": "አማረ",
+        "English": "look good, bloom, look well, be"
+    },
+    "ሎዘ": {
+        "Amharic": "ጠመዘዘ",
+        "English": "wrung, distort, strain, wrest, wring,"
+    },
+    "ለዝለዘ": {
+        "Amharic": "ታመመ",
+        "English": "gotten unwell, was in poor health,"
+    },
+    "መሐዘ": {
+        "Amharic": "ጎለመሰ",
+        "English": "matured, developed"
+    },
+    "ምዕዘ": {
+        "Amharic": "ሸተተ (የጥሩ)",
+        "English": "putrefy, putrefied,"
+    },
+    "መዝመዘ": {
+        "Amharic": "አሸ፣ወለወለ",
+        "English": "wiped, polished, mopped up,"
+    },
+    "ሰመዘ": {
+        "Amharic": "ነቀለ (የሚነቀል ተክል ዓይነት)",
+        "English": "uprooted"
+    },
+    "ሰረዘ": {
+        "Amharic": "ለየ፣ከፈለ",
+        "English": "alienated, estranged, separated,"
+    },
+    "ሰከዘ": {
+        "Amharic": "ወጋ",
+        "English": "pricked, pierced, gave an injection to,"
+    },
+    "ሮዘ": {
+        "Amharic": "ወለወለ",
+        "English": "wiped, polished, mopped up, dry"
+    },
+    "ረዘዘ": {
+        "Amharic": "አፈራ",
+        "English": "produced fruit, bore fruit, form, turn"
+    },
+    "ረገዘ": {
+        "Amharic": "ወጋ",
+        "English": "pricked, pierced, gave an injection to,"
+    },
+    "ቈለዘ": {
+        "Amharic": "ቆጠቆጠ",
+        "English": "smart"
+    },
+    "ቀንፈዘ": {
+        "Amharic": "ደነበ፣ጨመረ",
+        "English": "put, gave, added, spurt,"
+    },
+    "ቀዘ": {
+        "Amharic": "ቅዝዝ ቅዝዝ አለ",
+        "English": "reduced, lessened, was"
+    },
+    "ቀፈዘ": {
+        "Amharic": "አሰረ",
+        "English": "fasten, lock in, bundle, lace together,"
+    },
+    "በለዘ": {
+        "Amharic": "ደገፈ",
+        "English": "supported, favoured, backed, side"
+    },
+    "ብዕዘ": {
+        "Amharic": "ነፋ (የዋሽንት)",
+        "English": "blew, spraw, blow,"
+    },
+    "በዝበዘ": {
+        "Amharic": "አማ፣ነቀፈ",
+        "English": "run someone down behind his"
+    },
+    "ቤዘ": {
+        "Amharic": "በራ፣አበራ",
+        "English": "lit, flash, elucidate, enlighten,"
+    },
+    "ተሐገዘ": {
+        "Amharic": "ተጋገዘ፣ተረዳዳ",
+        "English": "helped each other,"
+    },
+    "ተመርጎዘ": {
+        "Amharic": "ተመረኮዘ፣ተደገፈ",
+        "English": "rest against, propped"
+    },
+    "ተዐርዘ": {
+        "Amharic": "ተራቆተ፣ታረዘ",
+        "English": "was raggedly dressed,"
+    },
+    "ተዐረዘ": {
+        "Amharic": "ለበሰ",
+        "English": "have on, rig oneself up in, be"
+    },
+    "ተከዘ": {
+        "Amharic": "አዘነ፣ተወዘወዘ",
+        "English": "be unhappy, rue, was"
+    },
+    "ተገአዘ": {
+        "Amharic": "ተከራከረ",
+        "English": "haggle, debated contended,"
+    },
+    "ተፋወዘ": {
+        "Amharic": "ተጫወተ",
+        "English": "bo-peep, play, play tricks,"
+    },
+    "ነቅዘ": {
+        "Amharic": "ነቀዘ",
+        "English": "worm-infested, got weevilly, erode,"
+    },
+    "ነዝነዘ": {
+        "Amharic": "ነዘነዘ",
+        "English": "harass, rained constantly, ached"
+    },
+    "ናዘዘ": {
+        "Amharic": "አረጋጋ",
+        "English": "soothe, pacify pacified, soothed,"
+    },
+    "አኀዘ": {
+        "Amharic": "ያዘ",
+        "English": "come true, lay one's hands on, have,"
+    },
+    "አሕዘዘ": {
+        "Amharic": "ስርግርግ አደረገ፣ዋጠ",
+        "English": "absorb, engulf,"
+    },
+    "አመንዘዘ": {
+        "Amharic": "አጽንቶ ያዘ፣ አመነቸከ፣ አስጨነቀ፣ አስቸገረ",
+        "English": ""
+    },
+    "አስዖዘዘ": {
+        "Amharic": "ስቅጥጥ ስቅጥጥ አለ፣ስቅጥጥ ስቅጥት አደረገ",
+        "English": ""
+    },
+    "ዐረዘ": {
+        "Amharic": "ለበሰ",
+        "English": "wrap around on, settle on, put on,"
+    },
+    "አንበዘ": {
+        "Amharic": "ልብ አሳጣ",
+        "English": "be in a hurry, be in a rush, run"
+    },
+    "አውገዘ": {
+        "Amharic": "ለየ",
+        "English": "identified, divided, distinguished,"
+    },
+    "አዘዘ": {
+        "Amharic": "አዘዘ",
+        "English": "ordered, commanded, call out,"
+    },
+    "አግዐዘ": {
+        "Amharic": "ነጻ አወጣ",
+        "English": "freeborn, autonomous,"
+    },
+    "አግዘዘ": {
+        "Amharic": "ጀጎለ፣አጠረ",
+        "English": ""
+    },
+    "አፈርዘዘ": {
+        "Amharic": "በተነ፣አጠፋ፣አበነነ",
+        "English": "adjourn, fritter-away,"
+    },
+    "ከረዘ": {
+        "Amharic": "ሰቀለ",
+        "English": "crucify, crucified, string up, hanged,"
+    },
+    "ኰበዘ": {
+        "Amharic": "ጋገረ",
+        "English": "baked bread, bake,cooked bread in"
+    },
+    "ውሕዘ": {
+        "Amharic": "ፈሰሰ፣አጎረፈ",
+        "English": "spilled over, poured out,"
+    },
+    "ደረዘ": {
+        "Amharic": "ወጋ",
+        "English": "ache, jab, make war on, impinge on,"
+    },
+    "ደንበዘ": {
+        "Amharic": "ደገፈ",
+        "English": "uphold, upheld, supported, favoured,"
+    },
+    "ደንዘዘ": {
+        "Amharic": "ደነዘዘ፣ፈዘዘ",
+        "English": "was dull, grew numb, numb,"
+    },
+    "ደንገዘ": {
+        "Amharic": "ደነገዘ (የመደነቅ)",
+        "English": "got dark, became"
+    },
+    "ደንጎዘ": {
+        "Amharic": "ሠራ (የጭራ የጸጕር)",
+        "English": ""
+    },
+    "ገበዘ": {
+        "Amharic": "ሸመ",
+        "English": "appoint, nominate, promoted, gave"
+    },
+    "ገነዘ": {
+        "Amharic": "አሰረ፣ገነዘ",
+        "English": "shrouded, wrapped, covered, hid"
+    },
+    "ግዕዘ": {
+        "Amharic": "ነቀፈ",
+        "English": "disapprove, be criticla of, criticize,"
+    },
+    "ጠረዘ": {
+        "Amharic": "ጠረዘ",
+        "English": "bound, scratch out, fastened or"
+    },
+    "ፎዘ": {
+        "Amharic": "ወለወለ",
+        "English": "wipe, wiped, polished, mopped up,"
+    },
+    "ኀለየ": {
+        "Amharic": "አሰበ፣አወጣ፣አወረደ",
+        "English": "entertain, look after, look"
+    },
+    "ሐለየ": {
+        "Amharic": "ዘፈነ፣ዘመረ፣አመሰገነ",
+        "English": "sing a hymn, sang a"
+    },
+    "ሐመየ": {
+        "Amharic": "አማ",
+        "English": "gossiped against, engaged in"
+    },
+    "ኀመየ": {
+        "Amharic": "አሰረ፣ቀፈደ",
+        "English": "fasten, lock in, bundle, lace"
+    },
+    "ሐሰየ": {
+        "Amharic": "አሸ፣አበራየ",
+        "English": ""
+    },
+    "ኀረየ": {
+        "Amharic": "መረጠ",
+        "English": "elect, have a disposition for, decide"
+    },
+    "ሐቀየ": {
+        "Amharic": "አፋጨ",
+        "English": "gnash, Chafe, grind, ground,"
+    },
+    "ሐብለየ": {
+        "Amharic": "በዘበዘ",
+        "English": "despoil, make an incursion, make a"
+    },
+    "ሀከየ": {
+        "Amharic": "ሰነፈ",
+        "English": "be dominant, be lazy"
+    },
+    "ሀውለየ": {
+        "Amharic": "አላገጠ፣አፌዘ፣አቃለለ፣ ናቀ፣ሰደበ",
+        "English": "called by"
+    },
+    "ሐወየ": {
+        "Amharic": "ድንግዝግዝ አለ፣መሸ፣ ጨለመ",
+        "English": "got dim, dark,"
+    },
+    "ሐይደነየ": {
+        "Amharic": "አበደ",
+        "English": "pixelate"
+    },
+    "ሀደየ": {
+        "Amharic": "አበሰለ፣አሞከከ",
+        "English": "cooked enough, convinced a"
+    },
+    "ሐገየ": {
+        "Amharic": "ባጀ",
+        "English": "spent the year, spent the rainy season,"
+    },
+    "ሐፀየ": {
+        "Amharic": "አጨ",
+        "English": "recruit, design, was engaged,"
+    },
+    "ልሕየ": {
+        "Amharic": "ወዛ፣ተቅለጠለጠ",
+        "English": "transpired, had a lively"
+    },
+    "ሌለየ": {
+        "Amharic": "ለየ",
+        "English": "identified, divided, distinguished,"
+    },
+    "ለቀየ": {
+        "Amharic": "ከፈተ",
+        "English": "opened, got brighter, chap, open,"
+    },
+    "ለበየ": {
+        "Amharic": "ተሳሳተ፣ ልበ ቢስ ሆነ፣ ተደናገረ",
+        "English": "was"
+    },
+    "ላኰየ": {
+        "Amharic": "ተጣላ፣ተከራከረ፣ ተሟገተ",
+        "English": "made a case"
+    },
+    "ሎየ": {
+        "Amharic": "ጠመጠመ፣ጠቀለለ፣ ፈትሉን በእንዝርት አከረረ",
+        "English": ""
+    },
+    "ላጸየ": {
+        "Amharic": "ላጨ",
+        "English": "shaved off, shaved, fooled, barb,"
+    },
+    "ለፈየ": {
+        "Amharic": "ከፈለ፣ሁለት አደረገ",
+        "English": "identified, divided,"
+    },
+    "መለየ": {
+        "Amharic": "አቀለጠ",
+        "English": "thawed, melted, liquefied, made"
+    },
+    "ሜመየ": {
+        "Amharic": "ለየ",
+        "English": "identified, divided, distinguished,"
+    },
+    "መስየ": {
+        "Amharic": "መሸ",
+        "English": "night fell, got dark, became evening"
+    },
+    "መረየ": {
+        "Amharic": "ጠነቆለ",
+        "English": "was a soothsayer, pricked"
+    },
+    "ማረየ": {
+        "Amharic": "ጠነቆለ",
+        "English": "was a soothsayer, pricked"
+    },
+    "መኰየ": {
+        "Amharic": "ተወራረደ፣ተከራከረ",
+        "English": "debated contended,"
+    },
+    "ሰሐየ": {
+        "Amharic": "አጠፋ",
+        "English": "pollard, do harm, be linjured, be"
+    },
+    "ሰመየ": {
+        "Amharic": "ስም አወጣ",
+        "English": "named (usually, for a child)"
+    },
+    "ሴሰየ": {
+        "Amharic": "መገበ",
+        "English": "gave food to, feed, maintain,"
+    },
+    "ሰረየ": {
+        "Amharic": "አቃለለ (የኃጢአት)",
+        "English": "over-simplified, made"
+    },
+    "ሠረየ": {
+        "Amharic": "መድኃኒት አደረገ (የክፉ የበጎ)",
+        "English": "saved,"
+    },
+    "ሤረየ": {
+        "Amharic": "በደም አለለ",
+        "English": "profaned, devaluated, defiled,"
+    },
+    "ሰቀየ": {
+        "Amharic": "አጠጣ (የተክል ብቻ)",
+        "English": "watered, gave to"
+    },
+    "ሣቀየ": {
+        "Amharic": "ሥቃይ አሳየ፣አሠቃየ፣ አስጨነቀ",
+        "English": "put in a great"
+    },
+    "ሰትየ": {
+        "Amharic": "ጠጣ",
+        "English": "absorb, smoked, drink, feast, gulp,"
+    },
+    "ሠነየ": {
+        "Amharic": "አማረ",
+        "English": "look good, bloom, look well, be"
+    },
+    "ሰነየ": {
+        "Amharic": "ሁለት አደረገ",
+        "English": "made two"
+    },
+    "ሥዕየ": {
+        "Amharic": "መነሻ፣ በተነ፣ አዘራ",
+        "English": "dispersed, cast about,"
+    },
+    "ሰከየ": {
+        "Amharic": "ከሰሰ",
+        "English": "sued, brought a law suite, brought a"
+    },
+    "ሳኰየ": {
+        "Amharic": "ተቅበዘበዘ፣ዞረ፣ባከነ፣ ተንከረተተ",
+        "English": "drift, be"
+    },
+    "ሦየ": {
+        "Amharic": "ሸተ፣በሰለ",
+        "English": "was ripe, was mature, was cooked"
+    },
+    "ሠዘየ": {
+        "Amharic": "ለየ፣ነጠለ",
+        "English": "cut off, split up a double sheet,"
+    },
+    "ሰድየ": {
+        "Amharic": "አማረ",
+        "English": "look good, bloom, look well, be"
+    },
+    "ሰፈየ": {
+        "Amharic": "ሰፋ፣ጠቀመ፣ሸለለ",
+        "English": "was useful, v.i. was"
+    },
+    "ርሕየ": {
+        "Amharic": "ሸተተ",
+        "English": "putrefy, putrefied, stagnate, stink,"
+    },
+    "ረመየ": {
+        "Amharic": "ወጋ",
+        "English": "pricked, pierced, gave an injection"
+    },
+    "ረሰየ": {
+        "Amharic": "አደረገ",
+        "English": "has done, act, appoint, assimilate,"
+    },
+    "ረቀየ": {
+        "Amharic": "ረጨ፣ አሞቀ",
+        "English": "sprinkled, spray, splash,"
+    },
+    "ርእየ": {
+        "Amharic": "አየ፣ተመለከተ",
+        "English": "behold, experience, eye,"
+    },
+    "ረዐየ": {
+        "Amharic": "ጠበቀ",
+        "English": "watched, waited for, preserved,"
+    },
+    "ረወየ": {
+        "Amharic": "ረካ",
+        "English": "be satiable, be satisfied, (be) satiable,"
+    },
+    "ረድየ": {
+        "Amharic": "ከፈለ፣አበደረ (የአራጣ)",
+        "English": "paid out, divided,"
+    },
+    "ቀረየ": {
+        "Amharic": "አሟረተ",
+        "English": "foretold disaster, prophesized"
+    },
+    "ቀልየ": {
+        "Amharic": "ጥልቅ ሆነ",
+        "English": "steep, bottomless, deep, grave,"
+    },
+    "ቄቀየ": {
+        "Amharic": "ነፈገ",
+        "English": "deny, denied, was miserly, stingy,"
+    },
+    "ቀበየ": {
+        "Amharic": "አዘጋጀ",
+        "English": "arrange, formulate, get, got, equip,"
+    },
+    "ቀነየ": {
+        "Amharic": "ገዛ (የሰው)",
+        "English": "ruled over, dominated, hired"
+    },
+    "ቃነየ": {
+        "Amharic": "ቃኘ፣ደረደረ",
+        "English": "tuned up, surveyed, looked"
+    },
+    "በልየ": {
+        "Amharic": "አረጀ",
+        "English": "be worn, look worn, be old ma,"
+    },
+    "ቤበየ": {
+        "Amharic": "ለየ",
+        "English": "identified, divided, distinguished,"
+    },
+    "በከየ": {
+        "Amharic": "አለቀሰ",
+        "English": "cry, cried, bewail, weep, yelp, cry"
+    },
+    "በድየ": {
+        "Amharic": "ምድረ በዳ ሆነ",
+        "English": "rough country, barren"
+    },
+    "ተሐሥየ": {
+        "Amharic": "ተደሰተ",
+        "English": "be excited, be glad, feel lively,"
+    },
+    "ተሐበየ": {
+        "Amharic": "ዋስ ሆነ",
+        "English": "became careless, slack,"
+    },
+    "ተሀየየ": {
+        "Amharic": "ቸል ቸል አለ",
+        "English": "became careless, slack"
+    },
+    "ተለሀየ": {
+        "Amharic": "ተጫወተ",
+        "English": "played, chatted, sing, twinddle,"
+    },
+    "ተመነየ": {
+        "Amharic": "ተመኘ",
+        "English": "was deceived, cheated, hoodwinked"
+    },
+    "ተመኵሰየ": {
+        "Amharic": "ሞክሼ ሆነ፣በስም ተባበረ",
+        "English": "possessing the"
+    },
+    "ተሰካተየ": {
+        "Amharic": "ተማማለ",
+        "English": ""
+    },
+    "ተሰጥየ": {
+        "Amharic": "ተሰጣ፣ተዘረጋ",
+        "English": "extend, sprawl, was spread,"
+    },
+    "ተረሰየ": {
+        "Amharic": "ተሸለመ፣አጌጠ",
+        "English": "well-dressed, was"
+    },
+    "ተርዕየ": {
+        "Amharic": "ተሰማራ",
+        "English": "angage, graze"
+    },
+    "ተቈናደየ": {
+        "Amharic": "ተጓደደ፣ተኳደደ",
+        "English": "was unhurried, slow or"
+    },
+    "ተነሀየ": {
+        "Amharic": "አቃለለ (የኃጢአት)",
+        "English": "over-simplified,"
+    },
+    "ተነበየ": {
+        "Amharic": "ተናገረ (የትንቢት)",
+        "English": "forestell, foretold,"
+    },
+    "ተዐበየ": {
+        "Amharic": "ኮራ (የልብ ትዕቢት)",
+        "English": "boast, be proud, be"
+    },
+    "ተአርወየ": {
+        "Amharic": "አውሬ ሆነ",
+        "English": "brute, beast, wild beast,"
+    },
+    "ተዋንየ": {
+        "Amharic": "ተጫወተ",
+        "English": "played, chatted, sing, twinddle,"
+    },
+    "ተዘጋደየ": {
+        "Amharic": "ተዘጋጀ",
+        "English": "was ready, was put in order,"
+    },
+    "ተጋነየ": {
+        "Amharic": "እጅ ተነሳሳ",
+        "English": "returned, came back, echo,"
+    },
+    "ተፈየ": {
+        "Amharic": "ገረፈ",
+        "English": "whipped lashed, flagellated, batter,"
+    },
+    "ተፋጸየ": {
+        "Amharic": "አዳነቀ",
+        "English": "praised greatly, greatly,"
+    },
+    "ንህየ": {
+        "Amharic": "አረፈ",
+        "English": "light, perch, rest, settle, was housed,"
+    },
+    "ነሰየ": {
+        "Amharic": "ረሳ፣ዘነጋ",
+        "English": "forget, forgot, get over, be"
+    },
+    "ነከየ": {
+        "Amharic": "ነካ",
+        "English": "infringe upon, impress, reach, relate,"
+    },
+    "ነድየ": {
+        "Amharic": "ተቸገረ",
+        "English": "clinch, cloy, nail, nailed"
+    },
+    "ነጸየ": {
+        "Amharic": "ነጨ፣ነቀለ፣መለጠ",
+        "English": "plucked out by the roots,"
+    },
+    "ነፈየ": {
+        "Amharic": "ነፋ (የወንፊት)",
+        "English": "heave vi, cause to rise,"
+    },
+    "ዐለየ": {
+        "Amharic": "መለሰ፣ቀለሰ፣ለገመ",
+        "English": "stooped, bent down,"
+    },
+    "አሌለየ": {
+        "Amharic": "ማለደ (የመገሥገሥ)",
+        "English": "went out was early,"
+    },
+    "አመስከየ": {
+        "Amharic": "ተጠጋ፣አስጠጋ",
+        "English": "advance upon, draw near,"
+    },
+    "አመክነየ": {
+        "Amharic": "አመካኘ",
+        "English": "used as an excuse or pretext,"
+    },
+    "አማዕለየ": {
+        "Amharic": "ወነጀለ",
+        "English": "commit acrime, impeach,"
+    },
+    "አማዕረየ": {
+        "Amharic": "አበጀ፣አዘጋጀ፣ አስተካከለ",
+        "English": "arrange,"
+    },
+    "አሜረየ": {
+        "Amharic": "አሠገረ",
+        "English": "made to trot, had a mule walked"
+    },
+    "ዐሰየ": {
+        "Amharic": "ሰጠ",
+        "English": "afford, addict, administer, bestow,"
+    },
+    "አስተርአየ": {
+        "Amharic": "ታየ፣አሳየ",
+        "English": "was visible, was shown, was"
+    },
+    "አስተባረየ": {
+        "Amharic": "አፈራረቀ፣አስተጋገዘ",
+        "English": "stagger, alternate"
+    },
+    "አስተዋደየ": {
+        "Amharic": "አጣላ",
+        "English": "accuse, set two people at"
+    },
+    "ዐረየ": {
+        "Amharic": "ተካከለ",
+        "English": "be equal, was equalized, had the"
+    },
+    "አርሰየ": {
+        "Amharic": "አስጠጋ",
+        "English": "he causes to lean, you cause to"
+    },
+    "አቃረየ": {
+        "Amharic": "ሠዋ",
+        "English": "give in sacrifice"
+    },
+    "አቅሌለየ": {
+        "Amharic": "አቅላላ",
+        "English": "put through an examination,"
+    },
+    "አቅዜዘየ": {
+        "Amharic": "ቅዝዝ ቅዝዝ አለ",
+        "English": "was low-spirited, became"
+    },
+    "አበየ": {
+        "Amharic": "እንቢ አለ",
+        "English": "say no, decline, became unable to"
+    },
+    "ዐብየ": {
+        "Amharic": "ከፍ ከፍ አለ",
+        "English": "became lifted up, lofty, moved"
+    },
+    "አናሕሰየ": {
+        "Amharic": "አቃለለ፣ይቅር አለ",
+        "English": "over-simplified, made"
+    },
+    "አንቤበየ": {
+        "Amharic": "ለየ",
+        "English": "identified, divided, distinguished,"
+    },
+    "አንከየ": {
+        "Amharic": "ሰጠ",
+        "English": "afford, addict, administer, bestow,"
+    },
+    "አንጌገየ": {
+        "Amharic": "ተቅበዘበዘ፣ ዞረ፣ አቅበዘበዘ፣ ባከነ",
+        "English": "drift, be"
+    },
+    "አንጠየ": {
+        "Amharic": "ዘበዘበ፣ጨቀጨቀ፣ ነዘነዘ",
+        "English": "rained constantly,"
+    },
+    "አአየ": {
+        "Amharic": "ዞረ፣ተመለሰ",
+        "English": "went around, turned around,"
+    },
+    "አከየ": {
+        "Amharic": "ከፋ",
+        "English": "be unhappy, be in a bad humor,"
+    },
+    "አውቀየ": {
+        "Amharic": "ቆረጠ",
+        "English": "abbreviate, appoint, bite,"
+    },
+    "አወፈየ": {
+        "Amharic": "ሰጠ",
+        "English": "afford, addict, administer, bestow,"
+    },
+    "ዐየየ": {
+        "Amharic": "ዞረ፣ባከነ",
+        "English": "turn about, make a turn, hover,"
+    },
+    "ዐደየ": {
+        "Amharic": "ከፈለ፣ብድር መለሰ (የበጎ የክፉ)",
+        "English": "paid out,"
+    },
+    "አጥረየ": {
+        "Amharic": "ገዛ",
+        "English": "purchased, bought, buy, command,"
+    },
+    "ዐፀየ": {
+        "Amharic": "ተላ",
+        "English": "became full of maggots, gotten"
+    },
+    "አፈየ": {
+        "Amharic": "ጋገረ፣አበሰለ",
+        "English": "baked bread, bake, cooked"
+    },
+    "ኰሰየ": {
+        "Amharic": "ለየ፣ነጠለ፣ከፈለ",
+        "English": "cut off, split up a double"
+    },
+    "ከረየ": {
+        "Amharic": "ቆፈረ፣ማሰ",
+        "English": "he digs, dig"
+    },
+    "ወሐየ": {
+        "Amharic": "ጎበኘ",
+        "English": "pry, scout, visit, reviw"
+    },
+    "ወቀየ": {
+        "Amharic": "ጠበቀ፣ተጠባበቀ",
+        "English": "gave solace, gave"
+    },
+    "ውዕየ": {
+        "Amharic": "ተቃጠለ",
+        "English": "be on fire, be destroyed, burn"
+    },
+    "ዋከየ": {
+        "Amharic": "በራ",
+        "English": "got beamed, brigtened, became"
+    },
+    "ወደየ": {
+        "Amharic": "ጨመረ፣ዶለ",
+        "English": "put, gave, added, spurt,"
+    },
+    "ዘረየ": {
+        "Amharic": "በተነ፣ለየ",
+        "English": "sowed, seeded, grew, broadcast,"
+    },
+    "ዘርከየ": {
+        "Amharic": "ሰደበ፣አዋረደ",
+        "English": "abuse, Call (one) names,"
+    },
+    "ዘበየ": {
+        "Amharic": "ገዛ",
+        "English": "purchased, bought, buy, command,"
+    },
+    "ዘነየ": {
+        "Amharic": "ሳተ (የፍትወት)",
+        "English": "missed, erred, blunder,"
+    },
+    "ደኀየ": {
+        "Amharic": "ቆፈረ",
+        "English": "he digs, dig, excavate, dig up, dig,"
+    },
+    "ደርበየ": {
+        "Amharic": "መታ፣ወጋ",
+        "English": "inflict a blow, attack, bang,"
+    },
+    "ደበየ": {
+        "Amharic": "ጎተተ",
+        "English": "pull, drag, drawl, haul, lug, slow,"
+    },
+    "ዳነየ": {
+        "Amharic": "ዳኘ፣ፈረደ",
+        "English": "adjudicated, passed judgment"
+    },
+    "ደወየ": {
+        "Amharic": "ታመመ",
+        "English": "be affected, be sick, take sick, be"
+    },
+    "ጎሐየ": {
+        "Amharic": "አረመ",
+        "English": "retrieve, put someone right,"
+    },
+    "ገለየ": {
+        "Amharic": "ለየ፣ቆጠቆጠ፣ቆረጠ",
+        "English": "abbreviate, appoint,"
+    },
+    "ጎርዐየ": {
+        "Amharic": "አነቀ፣ ፈጠረቀ",
+        "English": "suffocated, strangled,"
+    },
+    "ገነየ": {
+        "Amharic": "ተገዛ",
+        "English": "was, subjugated, cowed, ruled,"
+    },
+    "ጎንደየ": {
+        "Amharic": "ዘገየ",
+        "English": "be delayed, be late, be behind, be"
+    },
+    "ጎዕተየ": {
+        "Amharic": "ጣረ፣ጋረ፣ለፋ",
+        "English": "strived, worked hard, did"
+    },
+    "ጎየ": {
+        "Amharic": "ሸሸ",
+        "English": "ran away, flee (fled), avoid, desert,"
+    },
+    "ጌገየ": {
+        "Amharic": "በደለ",
+        "English": "treated ill, mistreated, did wrong,"
+    },
+    "ጎጠየ": {
+        "Amharic": "ቸነከረ",
+        "English": "clinch, cloy, nail, nailed"
+    },
+    "ጠለየ": {
+        "Amharic": "ለመለመ",
+        "English": "send forth leaves, be green,"
+    },
+    "ጠሰየ": {
+        "Amharic": "አጠፋ፣ ደመሰሰ",
+        "English": "stamped out, exterminated,"
+    },
+    "ጠነየ": {
+        "Amharic": "ፈለገ",
+        "English": "wished, was interested in, wanted,"
+    },
+    "ጥዕየ": {
+        "Amharic": "ዳነ",
+        "English": "became well again, got treated,"
+    },
+    "ጠወየ": {
+        "Amharic": "ጠመመ",
+        "English": "became crooked, perverse,"
+    },
+    "ጻሕየየ": {
+        "Amharic": "አረመ",
+        "English": "retrieve, put someone right,"
+    },
+    "ጸለየ": {
+        "Amharic": "ለመነ፣ጸለየ",
+        "English": "recited prayers, pray, prayed,"
+    },
+    "ጸምሐየ": {
+        "Amharic": "ጠወለገ",
+        "English": "became paler, grew fainter,"
+    },
+    "ጸማሕየየ": {
+        "Amharic": "ጠወለገ፣ደረቀ",
+        "English": "became paler, grew"
+    },
+    "ጸረየ": {
+        "Amharic": "ጠራ",
+        "English": "was pure, was clear, cleared up,"
+    },
+    "ጸበየ": {
+        "Amharic": "ወረደ፣ፈሰሰ",
+        "English": "spilled over, poured out,"
+    },
+    "ጸብለየ": {
+        "Amharic": "ትቢያ ሆነ",
+        "English": "be soil, dust, grime, soot,"
+    },
+    "ጸደየ": {
+        "Amharic": "ዘመነ በልግ ሆነ",
+        "English": ""
+    },
+    "ጸገየ": {
+        "Amharic": "አበበ",
+        "English": "blossomed flowered, bloomed,"
+    },
+    "ፈለየ": {
+        "Amharic": "ለየ፣መረጠ",
+        "English": "elect, have a disposition for,"
+    },
+    "ፈረየ": {
+        "Amharic": "አፈራ",
+        "English": "bear fruit, make made, win,"
+    },
+    "ፈደየ": {
+        "Amharic": "ከፈለ (የክፉ የበጎ)",
+        "English": "paid out, divided,"
+    },
+    "ፋጸየ": {
+        "Amharic": "አፏጨ",
+        "English": "hiss, howl, pipe, whistle, howl,"
+    },
+    "ኀለደ": {
+        "Amharic": "ጨረሰ፣ፈጀ፣ከተተ",
+        "English": "used up, finished"
+    },
+    "ሐመደ": {
+        "Amharic": "አከሰለ፣አመድ አደረገ",
+        "English": "sun burnt, made"
+    },
+    "ሐረደ": {
+        "Amharic": "አረደ",
+        "English": "cut the amimal's throat, butcher,"
+    },
+    "ሐርበደ": {
+        "Amharic": "ተስበደበደ፣ተንበደበደ (የፍርሀት)",
+        "English": "was"
+    },
+    "ሀየደ": {
+        "Amharic": "አንጸባረቀ፣በዘበዘ",
+        "English": "shine, glitter, despoil, make"
+    },
+    "ሄደ": {
+        "Amharic": "ቀመ፣ነጠቀ",
+        "English": "revoke, bereave, denude, ravish,"
+    },
+    "ሐደደ": {
+        "Amharic": "ፈጨ",
+        "English": "milled flour, ground, crushed, grind,"
+    },
+    "ልሕደ": {
+        "Amharic": "ተደላደለ፣ተቀማጠለ",
+        "English": "got firmly established in"
+    },
+    "ለመደ": {
+        "Amharic": "ለመደ",
+        "English": "got used to, became accustomed to,"
+    },
+    "መለደ": {
+        "Amharic": "ሰበሰበ",
+        "English": "harvested, gathered, assembled,"
+    },
+    "መሰደ": {
+        "Amharic": "ሸመተ",
+        "English": "purchased, bought, procured"
+    },
+    "መረደ": {
+        "Amharic": "ጠበጠበ፣ተራመደ",
+        "English": "proceed, walked, stepped"
+    },
+    "መርደደ": {
+        "Amharic": "ጨከነ፣ደፈረ፣ተጋ፣ ፈጠነ",
+        "English": "went fast, was"
+    },
+    "ምዕደ": {
+        "Amharic": "መከረ (ጎበኘ)",
+        "English": ""
+    },
+    "መደደ": {
+        "Amharic": "ቆረጠ",
+        "English": "abbreviate, appoint, bite, calculate,"
+    },
+    "ሞገደ": {
+        "Amharic": "ማዕበል አደረገ፣አነሳሳ፣ አወከ (የማዕበል)",
+        "English": ""
+    },
+    "ሞፈደ": {
+        "Amharic": "ጫረ",
+        "English": "stuck, scribbled, scratched, scraped,"
+    },
+    "ሶደ": {
+        "Amharic": "ጫረ",
+        "English": "stuck, scribbled, scratched, scraped,"
+    },
+    "ሰደደ": {
+        "Amharic": "አባረረ፣አሳደደ",
+        "English": "dispense with, drive away,"
+    },
+    "ሰገደ": {
+        "Amharic": "ሰገደ",
+        "English": "prostrated, genuflected, bowed, adore,"
+    },
+    "ርዕደ": {
+        "Amharic": "ተንቀጠቀጠ፣ራደ፣ ተንበደበደ",
+        "English": "trembled, shook"
+    },
+    "ሮደ": {
+        "Amharic": "ከበበ (የክፉ)",
+        "English": "encircle, encompass,"
+    },
+    "ረፈደ": {
+        "Amharic": "ረፈደ",
+        "English": "dealyed (v), got late"
+    },
+    "ቀለደ": {
+        "Amharic": "ቀዳ",
+        "English": "hauled, drew water, copied from,"
+    },
+    "ቀልደደ": {
+        "Amharic": "ቀነደበ",
+        "English": "stunk, drank off, drank down,"
+    },
+    "በረደ": {
+        "Amharic": "በረደ፣ቀዘቀዘ",
+        "English": "became air-conditioned,"
+    },
+    "በርደደ": {
+        "Amharic": "ደበደበ፣ቀጠቀጠ፣ ሞረደ",
+        "English": "sharpener, device"
+    },
+    "በዐደ": {
+        "Amharic": "ለየ፣ነጠለ",
+        "English": "separated, divided the one item"
+    },
+    "በየደ": {
+        "Amharic": "ረጋ",
+        "English": "quite, became peaceful, became"
+    },
+    "በድበደ": {
+        "Amharic": "ታመመ",
+        "English": "be affected, be sick, take sick, be"
+    },
+    "ተማኅፈደ": {
+        "Amharic": "ሠራ",
+        "English": ""
+    },
+    "ተአንገደ": {
+        "Amharic": "እንግዳ ሆነ",
+        "English": "unfamiliar person, alien,"
+    },
+    "ተካየደ": {
+        "Amharic": "ተማማለ፣ ቃል ኪዳን ገባ",
+        "English": "covenant, vow,"
+    },
+    "ተዋሐደ": {
+        "Amharic": "አንድ ሆነ",
+        "English": "combimed"
+    },
+    "ተዋረደ": {
+        "Amharic": "ተዋረደ",
+        "English": "was humiliated, debased"
+    },
+    "ተዘምደ": {
+        "Amharic": "ዘመድ ሆነ",
+        "English": "was related to, friendly with,"
+    },
+    "ተይህደ": {
+        "Amharic": "አመነ",
+        "English": "admit, find, found, place credit,"
+    },
+    "ተጋየደ": {
+        "Amharic": "ተቀዳደመ፣ተሯሯጠ",
+        "English": "competed in running,"
+    },
+    "ተፀምደ": {
+        "Amharic": "አገለገለ",
+        "English": "was valid, was in use, served,"
+    },
+    "ንእደ": {
+        "Amharic": "አማረ",
+        "English": "look good, bloom, look well, be"
+    },
+    "ነደ": {
+        "Amharic": "ነደደ፣ተቃጠለ",
+        "English": "burned, burn, ignite, kindle"
+    },
+    "ነገደ": {
+        "Amharic": "ሄደ",
+        "English": "went, comport, creep, depart,"
+    },
+    "አሐደ": {
+        "Amharic": "አንድ አደረገ",
+        "English": "combine, united,"
+    },
+    "አለደ": {
+        "Amharic": "ሰበሰበ፣ለቀመ፣ከመረ፣ አከማቸ",
+        "English": "convene,"
+    },
+    "ዐመደ": {
+        "Amharic": "ቆረጠ",
+        "English": "abbreviate, appoint, bite, calculate,"
+    },
+    "አስተዋደደ": {
+        "Amharic": "አስማማ፣አጓደደ",
+        "English": "reconciled,"
+    },
+    "አስተጋየደ": {
+        "Amharic": "አቀዳደመ",
+        "English": ""
+    },
+    "አብደ": {
+        "Amharic": "ሰነፈ",
+        "English": "be dominant, be lazy, indolent,"
+    },
+    "አብረደ": {
+        "Amharic": "አበረደ፣አቀዘቀዘ",
+        "English": "appease, disarm, smooth"
+    },
+    "አንጎድጎደ": {
+        "Amharic": "ተነዋወጠ፣አነዋወጠ፣ተንጎደጎደ፣አንጎደጎደ",
+        "English": ""
+    },
+    "አኬደ": {
+        "Amharic": "አበራየ",
+        "English": "had kicked, drilled, beaten, assured"
+    },
+    "አውደደ": {
+        "Amharic": "አስማማ፣አዋደደ፣ አንድ አደረገ",
+        "English": "went"
+    },
+    "ዖደ": {
+        "Amharic": "ዞረ",
+        "English": "went around, turned around, rotated,"
+    },
+    "ዐደደ": {
+        "Amharic": "አባረረ",
+        "English": "drove away, chase, discountenance,"
+    },
+    "ዐጸደ": {
+        "Amharic": "አጨደ",
+        "English": "mowed, ejaculate, mow, reap"
+    },
+    "አጽዐድዐደ": {
+        "Amharic": "ነጭ አደረገ፣አነጣ",
+        "English": "made sth. white,"
+    },
+    "ክሕደ": {
+        "Amharic": "ካደ",
+        "English": "repudiated, renounced, forsook,"
+    },
+    "ከብደ": {
+        "Amharic": "ከበደ",
+        "English": "was severe, was pregnant, was"
+    },
+    "ኬደ": {
+        "Amharic": "ረገጠ",
+        "English": "went over 's complaint, trod,"
+    },
+    "ውኅደ": {
+        "Amharic": "ጎደለ",
+        "English": "fail, miss, want, was short in,"
+    },
+    "ወለደ": {
+        "Amharic": "ወለደ",
+        "English": "gave birth to, delivered, bear,"
+    },
+    "ወሰደ": {
+        "Amharic": "ወሰደ",
+        "English": "took, assume, bereave, carry,"
+    },
+    "ወረደ": {
+        "Amharic": "ወረደ",
+        "English": "fall down, go down, drain off, be"
+    },
+    "ግህደ": {
+        "Amharic": "ገለጠ",
+        "English": "unveiled, uncovered, opened,"
+    },
+    "ገለደ": {
+        "Amharic": "ጋረደ፣ሸፈነ፣አስጌጠ፣ ጎዘጎዘ፣ አነጠፈ",
+        "English": "spread"
+    },
+    "ገመደ": {
+        "Amharic": "ቆረጠ፣አጨደ",
+        "English": "ejaculate, mow, cut, he"
+    },
+    "ጎነደ": {
+        "Amharic": "ደነደነ",
+        "English": "became fleshy, plump, fat, was"
+    },
+    "ገደ": {
+        "Amharic": "አስገደደ",
+        "English": "forced, compelled, brought"
+    },
+    "ገድገደ": {
+        "Amharic": "ገደገደ",
+        "English": "streched a hide to have it dried,"
+    },
+    "ጎድጎደ": {
+        "Amharic": "መታ፣ቀፈቀፈ፣እጁን ጸፋ",
+        "English": "gave forth, hatched,"
+    },
+    "ጰሰደ": {
+        "Amharic": "ጠነሰሰ፣ጠጀ",
+        "English": "mixed hop and yeast for"
+    },
+    "ጽሕደ": {
+        "Amharic": "ለዘበ፣ለሰለሰ",
+        "English": "was or became tender,"
+    },
+    "ፀመደ": {
+        "Amharic": "ጠመደ",
+        "English": "yoked, looked at with hatred,"
+    },
+    "ፈረደ": {
+        "Amharic": "ፈረደ",
+        "English": "rendered judgment, pronounced"
+    },
+    "ፈቀደ": {
+        "Amharic": "ወደደ",
+        "English": "was in love with, loved, liked,"
+    },
+    "ፈድፈደ": {
+        "Amharic": "በዛ",
+        "English": "was too much, multiplied,"
+    },
+    "ሐመገ": {
+        "Amharic": "አደፈረሰ",
+        "English": "violate, stirred up, agitated,"
+    },
+    "ኀደገ": {
+        "Amharic": "ተወ",
+        "English": "abandon, abstain, retire from, stopped,"
+    },
+    "ሐገገ": {
+        "Amharic": "ሕግ ሠራ፣ወሰነ፣ደነገገ",
+        "English": ""
+    },
+    "ሎገ": {
+        "Amharic": "ጠመዘዘ፣ሠራ",
+        "English": "wrung, distort, strain, wrest,"
+    },
+    "ለግለገ": {
+        "Amharic": "ታመመ",
+        "English": "be affected, be sick, take sick, be"
+    },
+    "መለገ": {
+        "Amharic": "ቻለ፣ታገሠ",
+        "English": "was patient, experience, undergo,"
+    },
+    "መረገ": {
+        "Amharic": "መረገ፣ለሰነ",
+        "English": "plastered, daubed, cement, daub,"
+    },
+    "መዘገ": {
+        "Amharic": "ነጠቀ፣አወጣ",
+        "English": "bereave, denude, ravish, reave,"
+    },
+    "ሰረገ": {
+        "Amharic": "ሰርግ አደረገ",
+        "English": "wedding, wedding banquet,"
+    },
+    "ሰነገ": {
+        "Amharic": "አሰረ፣ሰነገ፣አነቀ",
+        "English": "suffocated, strangled, killed by"
+    },
+    "ሰብጎጎ": {
+        "Amharic": "አጠራ፣ሠራ (የብረት)",
+        "English": "purify, purified"
+    },
+    "ሰፍነገ": {
+        "Amharic": "አጠጣ",
+        "English": "watered, gave to drink, irrigate,"
+    },
+    "በግበገ": {
+        "Amharic": "ታመመ",
+        "English": "be affected, be sick, take sick, be"
+    },
+    "ተንተገ": {
+        "Amharic": "ተነተገ፣ተረኮሰ",
+        "English": "singed, was on fire, burned"
+    },
+    "ተዛወገ": {
+        "Amharic": "ጎረቤት ሆነ",
+        "English": ""
+    },
+    "ተዳረገ": {
+        "Amharic": "አንድ ሆነ",
+        "English": "united* combined"
+    },
+    "ተፀወገ": {
+        "Amharic": "ተከፋ፣አስከፋ",
+        "English": "was hurt, sad, became"
+    },
+    "ነሠገ": {
+        "Amharic": "ቆለፈ፣ዘጋ",
+        "English": "be locked, lock up, lock, hook,"
+    },
+    "ነትገ": {
+        "Amharic": "ጎደለ",
+        "English": "fail, miss, want, was short in,"
+    },
+    "ዐለገ": {
+        "Amharic": "ሰለበ",
+        "English": "emasculate, Castrate, cut off 's"
+    },
+    "አረገ": {
+        "Amharic": "ሸመገለ፣አረጀ",
+        "English": "be worn, look worn, be old"
+    },
+    "ዐርገ": {
+        "Amharic": "ወጣ",
+        "English": "went up, climbed, ascended, climb,"
+    },
+    "ዐነገ": {
+        "Amharic": "አሰረ (የጉትቻ)",
+        "English": "tied up, tied, bind, , tie"
+    },
+    "ዖገ": {
+        "Amharic": "አላገጠ",
+        "English": "make fun of, loaf, mock"
+    },
+    "ዔገ": {
+        "Amharic": "መነጨ",
+        "English": "sprang out, sprang from the mind,"
+    },
+    "ወተገ": {
+        "Amharic": "ሳበ፣ቀማ",
+        "English": "took by force, grabbed, bereave,"
+    },
+    "ዘንጎጎ": {
+        "Amharic": "አሽሟጠጠ፣አማ",
+        "English": "run someone down"
+    },
+    "ደለገ": {
+        "Amharic": "ከረፋ",
+        "English": "have an objectionable smell, stank,"
+    },
+    "ዳረገ/ደረገ": {
+        "Amharic": "ሰጠ",
+        "English": "afford, addict, administer, bestow,"
+    },
+    "ደንገገ": {
+        "Amharic": "ወሰነ፣ደነገገ (የድንበር የባሕር)",
+        "English": "determined,"
+    },
+    "ደግደገ": {
+        "Amharic": "ከሳ፣ቀጠነ",
+        "English": "thin down, get thin, became"
+    },
+    "ጸጎ": {
+        "Amharic": "ዳር ድንበር አወጣ",
+        "English": "made boundary"
+    },
+    "ፈለገ": {
+        "Amharic": "መነጨ",
+        "English": "sprang out, sprang from the mind,"
+    },
+    "ፈርገገ": {
+        "Amharic": "ሻረ፣ደረቀ፣አተረ",
+        "English": "got desiccated, shriveled,"
+    },
+    "ፈገ": {
+        "Amharic": "ፍግግ ፍግግ አለ",
+        "English": "jeer, laugh, taunt, laughed,"
+    },
+    "ፈገገ": {
+        "Amharic": "ከረፋ፣ሸተተ",
+        "English": "putrefied, stagnate, stink, or"
+    },
+    "ሐብጠ": {
+        "Amharic": "አበጠ",
+        "English": "be swollen, be swollen shut,bloat,"
+    },
+    "ሐንፈጠ": {
+        "Amharic": "አጓለበ፣ጠረጠረ (የማንፈስ)",
+        "English": "engrave,"
+    },
+    "ኄጠ": {
+        "Amharic": "ሸነገለ፣አታለለ፣ደለለ",
+        "English": "pacified by giving,"
+    },
+    "ኀፈጠ": {
+        "Amharic": "መታ፣ደሰቀ፣ደበደበ",
+        "English": "inflict a blow, attack,"
+    },
+    "ለበጠ": {
+        "Amharic": "ለበጠ፣ሸለመ",
+        "English": "covered with cloth, case, daub,"
+    },
+    "ሎጠ": {
+        "Amharic": "ለወጠ",
+        "English": "alter, turn downwards, turn one into,"
+    },
+    "ለጥለጠ": {
+        "Amharic": "መዘነ",
+        "English": "measure out, criticize, weigh ou"
+    },
+    "መለጠ": {
+        "Amharic": "መለጠ፣ላጠ",
+        "English": "removed all the hair"
+    },
+    "መሠጠ": {
+        "Amharic": "ነጠቀ፣ቀማ",
+        "English": "took by force, grabbed,"
+    },
+    "ሜጠ": {
+        "Amharic": "መለሰ፣ቀለሰ",
+        "English": "stooped, bent down, arched,"
+    },
+    "ሰሐጠ": {
+        "Amharic": "ነካ፣ቆነጠጠ",
+        "English": "sting, pinch"
+    },
+    "ሰለጠ": {
+        "Amharic": "ጨረሰ፣ፈጸመ",
+        "English": "finished, ended, complete,"
+    },
+    "ሠበጠ": {
+        "Amharic": "አደረጎተ",
+        "English": "ate, devoured, munched through,"
+    },
+    "ሶጠ": {
+        "Amharic": "ጨመረ፣ደባለቀ፣ቀላቀለ",
+        "English": "add, blend together,"
+    },
+    "ሦጠ": {
+        "Amharic": "ገረፈ",
+        "English": "whipped lashed, flagellated, batter,"
+    },
+    "ሤጠ": {
+        "Amharic": "ሸጠ",
+        "English": "dispose, market, deal in, Carry"
+    },
+    "ሠጠጠ": {
+        "Amharic": "ቀደደ",
+        "English": "rip, ripped, tore, cut out, lacerate,"
+    },
+    "ቀሠጠ": {
+        "Amharic": "ቀሠጠ",
+        "English": "steal"
+    },
+    "ቀበያውበጠ": {
+        "Amharic": "ቀላወጠ",
+        "English": "sponged, cadged, whistled"
+    },
+    "ቀንጦሰጠ": {
+        "Amharic": "ተሰለፈ፣አሰለፈ",
+        "English": "align oneself, fall in line,"
+    },
+    "ቀጥቀጠ": {
+        "Amharic": "መታ፣ቀጠቀጠ",
+        "English": "struck repeatedly,"
+    },
+    "ተሠልጠ": {
+        "Amharic": "ሰለጠነ",
+        "English": "be proficient in"
+    },
+    "ተሣየጠ": {
+        "Amharic": "ተወዳጀ",
+        "English": "fraternize, go together, endear,"
+    },
+    "ነሐጠ": {
+        "Amharic": "ሠራ (የቤት)",
+        "English": "build"
+    },
+    "ነቈጠ": {
+        "Amharic": "ጫረ (የነቍጥ)",
+        "English": "stuck, scribbled,"
+    },
+    "አምሠጠ": {
+        "Amharic": "አመለጠ",
+        "English": "evade, go by, break loose, get"
+    },
+    "አስዖጠጠ": {
+        "Amharic": "ስቅጥጥ ስቅጥጥ አደረገ",
+        "English": ""
+    },
+    "አስፈጠ": {
+        "Amharic": "አሳተ፣አታለለ",
+        "English": "deceived, cheated, begulie,"
+    },
+    "አቍጠጠ": {
+        "Amharic": "አቀጠነ፣አመነመነ",
+        "English": "undermine, make a"
+    },
+    "ዐበጠ": {
+        "Amharic": "መለሰ",
+        "English": "hand back, requite, retort ,"
+    },
+    "አንሦጠጠ": {
+        "Amharic": "ስቅጥጥ ስቅጥጥ አለ፣ስቅጥጥ ስቅጥጥ አደረገ",
+        "English": ""
+    },
+    "አከጠ": {
+        "Amharic": "መገበ",
+        "English": "nourish, gave food to, feed,"
+    },
+    "አጸዐጥዐጠ": {
+        "Amharic": "አጣፈጠ፣ጣፈጠ",
+        "English": "sweetened, flavoured,"
+    },
+    "ውኅጠ": {
+        "Amharic": "ዋጠ",
+        "English": "absorb, engulf, drown out, damp,"
+    },
+    "ወለጠ": {
+        "Amharic": "ለወጠ",
+        "English": "shifted, exchanged, changed,"
+    },
+    "ወፈጠ": {
+        "Amharic": "ተኮሰ (የሸክላ የብረት የልብስ)",
+        "English": ""
+    },
+    "ዘበጠ": {
+        "Amharic": "መታ",
+        "English": "inflict a blow, attack, bang, blow,"
+    },
+    "ገበጠ": {
+        "Amharic": "ታመመ",
+        "English": "be affected, be sick, take sick, be"
+    },
+    "ፀበጠ": {
+        "Amharic": "ያዘ፣ጨበጠ",
+        "English": "squeezed, clutched, clenched,"
+    },
+    "ጽዕጠ": {
+        "Amharic": "ጣፈጠ",
+        "English": "was tasty, was sweet, was savoury,"
+    },
+    "ፈለጠ": {
+        "Amharic": "ለየ",
+        "English": "identified, divided, distinguished,"
+    },
+    "ሐርጰጰ": {
+        "Amharic": "ፈጨ",
+        "English": "milled flour, ground, crushed, grind,"
+    },
+    "ሀንጰጰ": {
+        "Amharic": "ታመመ",
+        "English": "was sick, ill, ache, sicken, gotten"
+    },
+    "ሄጰ": {
+        "Amharic": "ነደፈ",
+        "English": "hurl, draw up, Cirumscribe, tossed or"
+    },
+    "ሰሐጰ": {
+        "Amharic": "ነካ",
+        "English": "lay a hand on, happen, had sexual"
+    },
+    "ሰለጰ": {
+        "Amharic": "ዋጠ",
+        "English": "absorb, engulf, drown out, damp,"
+    },
+    "ሠረጰ": {
+        "Amharic": "ቀደሰ",
+        "English": "light, perch, rest, settle, sipped ate"
+    },
+    "ቀለጰ": {
+        "Amharic": "ዋጠ",
+        "English": "absorb, engulf, drown out, damp,"
+    },
+    "ቀልጰጰ": {
+        "Amharic": "ከመረ፣አሰረ",
+        "English": "piled up stacked, amass,"
+    },
+    "ቈርጰጰ": {
+        "Amharic": "ቆረጠመ",
+        "English": "munch, on, crunch, munch"
+    },
+    "ዐንጰጰ": {
+        "Amharic": "ታመ",
+        "English": "was sick, ill, ache, sicken, gotten"
+    },
+    "አክረጰ": {
+        "Amharic": "አነጣ",
+        "English": "whitened, lighten, whiten, made"
+    },
+    "ኰረጰ": {
+        "Amharic": "ሠራ (የብረት)",
+        "English": ""
+    },
+    "ዘረጰ": {
+        "Amharic": "ሰደበ",
+        "English": "abuse, Call (one) names, call"
+    },
+    "ጎሐጰ": {
+        "Amharic": "ጎሸመጠ",
+        "English": "stimulate"
+    },
+    "ገነጰ": {
+        "Amharic": "ሰገበ",
+        "English": "harvested, gathered, assembled,"
+    },
+    "ጌጰ": {
+        "Amharic": "በረረ",
+        "English": "wing way, take wing,piloted, flew, fleet,"
+    },
+    "ሐረጸ": {
+        "Amharic": "ፈጨ",
+        "English": "milled flour, ground, crushed, grind,"
+    },
+    "ሐነጸ": {
+        "Amharic": "ሠራ (የቤት)",
+        "English": "operated, manufactured,"
+    },
+    "ኀንጸጸ": {
+        "Amharic": "ጠረጠረ",
+        "English": "removed husks with the teeth (of"
+    },
+    "ሐንፈጸ": {
+        "Amharic": "አንጓለበ፣አንጓለለ",
+        "English": "raked, paid no attention"
+    },
+    "ሐወጸ": {
+        "Amharic": "ጎበኘ",
+        "English": "pry, scout, visit, reviw, toured,"
+    },
+    "ሐጸ": {
+        "Amharic": "ጎደለ",
+        "English": "fail, miss, want, was short in, subsided,"
+    },
+    "ለሐጸ": {
+        "Amharic": "ላጠ",
+        "English": "abrade, take off the bark, pare, pick"
+    },
+    "ለምጸ": {
+        "Amharic": "ታመመ",
+        "English": "be affected, be sick, take sick, be"
+    },
+    "ለጽለጸ": {
+        "Amharic": "መዘነ",
+        "English": "measure out, criticize, weigh out,"
+    },
+    "ለፈጸ": {
+        "Amharic": "ለወሰ፣አሸ፣አበቀ",
+        "English": "knead, mix, pressed and"
+    },
+    "መሐጸ": {
+        "Amharic": "ቆረጠ",
+        "English": "truncate, hew, hew down, make a"
+    },
+    "ምኅፀ": {
+        "Amharic": "አማጠ",
+        "English": "was in labour, travail, was in birth-"
+    },
+    "ሞርየጸ": {
+        "Amharic": "አሟጨ",
+        "English": ""
+    },
+    "መፀ": {
+        "Amharic": "ቦካ፣ኾመጠጠ",
+        "English": "be rancid, became fermented,"
+    },
+    "ሥሕጸ": {
+        "Amharic": "ጥልቅ ጥልቅ አለ (የነገር)",
+        "English": "become talkative,"
+    },
+    "ሠረጸ": {
+        "Amharic": "በቀለ",
+        "English": "be up to, pouted, grows, germinate,"
+    },
+    "ሰርወጸ": {
+        "Amharic": "ጋረጠ",
+        "English": "pricked, pierce"
+    },
+    "ሰነጸ": {
+        "Amharic": "አለዘበ፣ሠራ፣አስጌጠ",
+        "English": "smoothed, rehearsed,"
+    },
+    "ርሕፀ": {
+        "Amharic": "ወዛ",
+        "English": "transpired, had a lively look,"
+    },
+    "ረምፀ": {
+        "Amharic": "ጋለ",
+        "English": "was red from heating, was heated,"
+    },
+    "ሮጸ": {
+        "Amharic": "ሮጠ",
+        "English": "glide, glide past, gain time, ran, race,"
+    },
+    "ረየፀ": {
+        "Amharic": "ገራ",
+        "English": "trained a beast, tamed, domesticated"
+    },
+    "ረገፀ": {
+        "Amharic": "ረገጠ",
+        "English": "set foot on, jump on, step on,"
+    },
+    "ቀረፀ": {
+        "Amharic": "ሸለተ፣ቆረጠ፣ላጨ",
+        "English": "shear, shaved, trimmed,"
+    },
+    "ቀብጸ": {
+        "Amharic": "ተስፋ አጣ",
+        "English": "could see no hope"
+    },
+    "ቀነጸ": {
+        "Amharic": "ዘለለ",
+        "English": "skipped over left aside, leaped,"
+    },
+    "ቀፈጸ": {
+        "Amharic": "ገለጠ፣ገፈፈ",
+        "English": "stripped off, skimmed,"
+    },
+    "በረጸ": {
+        "Amharic": "ብልጭ አለ",
+        "English": "gleamed, sparkled, shone"
+    },
+    "በቈጸ": {
+        "Amharic": "ጫረ፣ተረኮሰ",
+        "English": "extinguish, trimmed the wick,"
+    },
+    "ቤጸ": {
+        "Amharic": "ለየ",
+        "English": "identified, divided, distinguished,"
+    },
+    "ተማወጸ": {
+        "Amharic": "ተከካሰ",
+        "English": ""
+    },
+    "ተባየጸ": {
+        "Amharic": "ባለ እንጀራ ሆነ",
+        "English": "fraternize, go together,"
+    },
+    "ተጋህረጸ": {
+        "Amharic": "ተጣላ",
+        "English": "tussle, quarreled with, fought"
+    },
+    "ተጋየጸ": {
+        "Amharic": "ተጌጊያጠ",
+        "English": "enliven, decorate, well-dressed,"
+    },
+    "ንሕጸ": {
+        "Amharic": "አረፈ",
+        "English": "be housed, come to rest,light,"
+    },
+    "ነቅጸ": {
+        "Amharic": "ደረቀ",
+        "English": "was stubborn, was stiffened, was"
+    },
+    "ነፍጸ": {
+        "Amharic": "ሸሸ",
+        "English": "ran away, flee (fled), avoid, desert,"
+    },
+    "ዐመፀ": {
+        "Amharic": "በደለ",
+        "English": "trespass against, treated ill,"
+    },
+    "አመጎፀ": {
+        "Amharic": "አጣላ",
+        "English": "accuse, set two people at variance"
+    },
+    "አስተሐየጸ": {
+        "Amharic": "ተመለከተ፣ አመላከተ",
+        "English": "add up to, give"
+    },
+    "አንፈርዐጸ": {
+        "Amharic": "ዘለለ",
+        "English": "hop, skipped over left aside,"
+    },
+    "አንፈጸ": {
+        "Amharic": "አዘራ፣አነፈሰ",
+        "English": "winnow, had seed sown"
+    },
+    "አዕቀጸ": {
+        "Amharic": "አሰነካከለ",
+        "English": "threw everything into"
+    },
+    "ዐፀ": {
+        "Amharic": "ዱር ሆነ",
+        "English": "moor, wilds, forest, wilderness"
+    },
+    "ድኅፀ": {
+        "Amharic": "ዳጥ ሆነ",
+        "English": "slipperiness, wet surface"
+    },
+    "ደምፀ": {
+        "Amharic": "ተሰማ",
+        "English": "was obeyed, was heard, venerated,"
+    },
+    "ደረጸ": {
+        "Amharic": "ወጋ",
+        "English": "ache, jab, make war on, impinge on,"
+    },
+    "ደነጸ": {
+        "Amharic": "ነፈገ",
+        "English": "deny, denied, was miserly, stingy,"
+    },
+    "ደንገፀ": {
+        "Amharic": "ደነገጠ",
+        "English": "have a rude shock, was taken"
+    },
+    "ደጎጸ": {
+        "Amharic": "መታ",
+        "English": "inflict a blow, attack, bang, blow,"
+    },
+    "ገመጸ": {
+        "Amharic": "በደለ",
+        "English": "trespass against, treated ill,"
+    },
+    "ገለጸ": {
+        "Amharic": "ገለጠ",
+        "English": "unravel, unveiled, uncovered, opened,"
+    },
+    "ገሠጸ": {
+        "Amharic": "ተቆጣ",
+        "English": "you be angry, be angry"
+    },
+    "ገገጸ": {
+        "Amharic": "አፈገፈገ፣ወደኋላ አለ",
+        "English": "best a retreat, withdrew,"
+    },
+    "ጎየጸ": {
+        "Amharic": "ተናጻ",
+        "English": "went to the lavatory, cleaned up,"
+    },
+    "ፈለጸ": {
+        "Amharic": "ፈለጠ፣ሰነጠቀ",
+        "English": "split, quarry, cleave, split"
+    },
+    "ኀለፈ": {
+        "Amharic": "ሄደ",
+        "English": "went, comport, creep, depart,"
+    },
+    "ኀሠፈ": {
+        "Amharic": "አከከ",
+        "English": "scratched with the nails, itch, scratch"
+    },
+    "ሐቀፈ": {
+        "Amharic": "አቀፈ",
+        "English": "embrace, enfold in ones arms, cary"
+    },
+    "ኀደፈ": {
+        "Amharic": "አስተማረ",
+        "English": "educate, hold class, instruct, give"
+    },
+    "ሐፈ": {
+        "Amharic": "ወዛ",
+        "English": "transpired, had a lively look, brightened,"
+    },
+    "ለአፈ": {
+        "Amharic": "ጎረሰ",
+        "English": "was loaded, took a mouthful, was"
+    },
+    "ለፈፈ": {
+        "Amharic": "ጻፈ",
+        "English": "write, buffet"
+    },
+    "መንተፈ": {
+        "Amharic": "አባዘተ",
+        "English": "fluffed up cotton for carding,"
+    },
+    "ሰረፈ": {
+        "Amharic": "አጠነ፣አጤሰ",
+        "English": "he perfumes, perfume"
+    },
+    "ሰየፈ": {
+        "Amharic": "ቆረጠ",
+        "English": "cut, amputated"
+    },
+    "ሰደፈ": {
+        "Amharic": "መታ",
+        "English": "inflict a blow, attack, bang, blow,"
+    },
+    "ሰፈፈ": {
+        "Amharic": "ተንኳፈፈ፣ ሰፈፈ",
+        "English": "scum, floated, soar"
+    },
+    "ረጕነፈ": {
+        "Amharic": "ጎዘጎዘ",
+        "English": "spread out something on the floor"
+    },
+    "ቈለፈ": {
+        "Amharic": "ቆላፍ ሆነ፣ቆለፈ",
+        "English": "lock, hook"
+    },
+    "ቀሠፈ": {
+        "Amharic": "ገረፈ",
+        "English": "whipped lashed, flagellated, batter,"
+    },
+    "ቀረፈ": {
+        "Amharic": "ላጠ",
+        "English": "unsheathed, peeled, bark, excoriate,"
+    },
+    "ቀደፈ": {
+        "Amharic": "ቀዘፈ (የታንኳ)",
+        "English": "rowed, oar, paddle, steer,"
+    },
+    "ቀጠፈ": {
+        "Amharic": "ቀጠፈ፣ሰረቀ",
+        "English": "cut off, detached (as fruits or"
+    },
+    "ተኀለፈ": {
+        "Amharic": "ተናገረ",
+        "English": "speak, spoke, speak out, speak up,"
+    },
+    "ተለሐፈ": {
+        "Amharic": "ተጫወተ",
+        "English": "played, chatted, sing, twinddle,"
+    },
+    "ተሳተፈ": {
+        "Amharic": "አንድ ሆነ፣ተሳተፈ",
+        "English": "participated, chipped"
+    },
+    "ተርፈ": {
+        "Amharic": "ቀረ",
+        "English": "remained, absented oneself, be"
+    },
+    "ተዐጽፈ": {
+        "Amharic": "ለበሰ",
+        "English": "put on clothes, dressed, clad, don,"
+    },
+    "ተወክፈ": {
+        "Amharic": "ተቀበለ",
+        "English": "absorb, accede, endure, enjoy,"
+    },
+    "ተወዝፈ": {
+        "Amharic": "አጌጠ",
+        "English": "well-dressed, was decorated,"
+    },
+    "ተዛወፈ": {
+        "Amharic": "ተጫወተ",
+        "English": "played, chatted, sing, twinddle,"
+    },
+    "ነተፈ": {
+        "Amharic": "ቆረጠ፣በጨቀ፣በጠሰ",
+        "English": "truncate, hew, hew"
+    },
+    "ነዘፈ": {
+        "Amharic": "ለበሰ",
+        "English": "put on clothes, dressed, clad, don,"
+    },
+    "ነደፈ": {
+        "Amharic": "ወጋ",
+        "English": "pricked, pierced, gave an injection to,"
+    },
+    "ነገፈ": {
+        "Amharic": "አራገፈ",
+        "English": "unloaded, shook out, remove, blow,"
+    },
+    "ነጠፈ": {
+        "Amharic": "ኮላ፣አጠራ፣አቀለጠ፣ አነጠረ",
+        "English": "purify, purified"
+    },
+    "ነጸፈ": {
+        "Amharic": "አነጠፈ",
+        "English": "spread carpet, mowed the enemy"
+    },
+    "ነፅፈ": {
+        "Amharic": "ደረቀ፣ነጠፈ",
+        "English": "was stubborn, was stiffened,"
+    },
+    "ነፍነፈ": {
+        "Amharic": "አካፋ (የዝናም)",
+        "English": "rained slightly"
+    },
+    "አለፈ": {
+        "Amharic": "ቆጠረ",
+        "English": "consider, count, employ,"
+    },
+    "አስተኀለፈ": {
+        "Amharic": "አዋጅ ነገረ",
+        "English": "assize-court"
+    },
+    "አስተናደፈ": {
+        "Amharic": "በገረ፣አስበገረ፣ ሠራ (የቤት)",
+        "English": ""
+    },
+    "አንዘፍዘፈ": {
+        "Amharic": "አንዘፈዘፈ፣ ተንዘፈዘፈ",
+        "English": "shiver with fear,"
+    },
+    "አንገፈ": {
+        "Amharic": "አዳነ",
+        "English": "saved, rescued, healed, deliver, heal,"
+    },
+    "አንጸፍጸፈ": {
+        "Amharic": "አንጠፈጠፈ",
+        "English": "squeezed out, squeezed"
+    },
+    "አዕረፈ": {
+        "Amharic": "አረፈ፣አሳረፈ",
+        "English": "light, perch, rest, settle, was"
+    },
+    "አዕቀፈ": {
+        "Amharic": "አሰነካከለ፣አናቀፈ",
+        "English": "threw everything into"
+    },
+    "አኰፈ": {
+        "Amharic": "አቋተ፣አቆመ",
+        "English": "halted, erected made to"
+    },
+    "አውቀፈ": {
+        "Amharic": "ሠራ (የአንባር)",
+        "English": "bangle, armlet,"
+    },
+    "አዝለፈ": {
+        "Amharic": "አዘወተረ",
+        "English": "frequented, did regularly,"
+    },
+    "አጥነፈ": {
+        "Amharic": "አያያዘ፣አዋደደ",
+        "English": "united, kindled, joined"
+    },
+    "ዐጠፈ": {
+        "Amharic": "ሠራ፣ጠቀለለ፣አከረረ",
+        "English": "wrapped up, wrapped,"
+    },
+    "ዐጸፈ": {
+        "Amharic": "ለበሰ",
+        "English": "put on clothes, dressed, clad, don,"
+    },
+    "ከልተፈ": {
+        "Amharic": "አሰረ (የሰው)",
+        "English": "fasten, lock in, bundle,"
+    },
+    "ኰተፈ": {
+        "Amharic": "አሰረ (የሰው)",
+        "English": "fasten, lock in, bundle, lace"
+    },
+    "ከነፈ": {
+        "Amharic": "በረረ",
+        "English": "wing way, take wing, piloted, flew,"
+    },
+    "ወፀፈ": {
+        "Amharic": "ወነጨፈ",
+        "English": "slung, sling, lob, hurl"
+    },
+    "ዘለፈ": {
+        "Amharic": "ሰደበ",
+        "English": "called by insulting names, brand,"
+    },
+    "ደሐፈ": {
+        "Amharic": "ደፋ፣ገፋ",
+        "English": "spilt, raped, made fall flat on his"
+    },
+    "ገሐፈ": {
+        "Amharic": "ጠረገ፣ጋፈ",
+        "English": "adjourn, fritter-away, dispel,"
+    },
+    "ገለፈ": {
+        "Amharic": "ጣዖት ሠራ",
+        "English": "engrave, enshrine, inscribe,"
+    },
+    "ገረፈ": {
+        "Amharic": "አጠመደ",
+        "English": "ensnare, entrap, entrapped, Catch"
+    },
+    "ጎረፈ": {
+        "Amharic": "ኀጢአት ሠራ",
+        "English": "crime, evil, immorality,"
+    },
+    "ገዝፈ": {
+        "Amharic": "ደነደነ",
+        "English": "was plump, was conceited, became"
+    },
+    "ገደፈ": {
+        "Amharic": "ጣለ",
+        "English": "abandon, threw out, threw down,"
+    },
+    "ጸሐፈ": {
+        "Amharic": "ጻፈ",
+        "English": "write, buffet"
+    },
+    "ፀረፈ": {
+        "Amharic": "ሰደበ",
+        "English": "abuse, Call (one) names, call"
+    },
+    "ጸነፈ": {
+        "Amharic": "ዳርቻ ሆነ",
+        "English": "rim, border, periphery, edge,"
+    },
+    "ጸንገፈ": {
+        "Amharic": "ከበደ (የሸክም)",
+        "English": "be over one's head, be"
+    },
+    "ጸየፈ": {
+        "Amharic": "ጸያፍ ሆነ",
+        "English": "revolting, repulsive, sickening,"
+    },
+    "ጸድፈ": {
+        "Amharic": "ወደቀ",
+        "English": "tumble down, declining, was killed"
+    },
+    "ጸፍጸፈ": {
+        "Amharic": "ሠራ",
+        "English": ""
+    },
+    "ፈልሰፈ": {
+        "Amharic": "ብልሃተኛ ሆነ",
+        "English": "cunning, rational"
+    },
+    "ሐስቀፐ": {
+        "Amharic": "አረሰ፣አለሰለሰ",
+        "English": "he ploughs, plough, till,"
+    },
+    "ሰለፐ": {
+        "Amharic": "ሠራ፣ቀባ",
+        "English": "smeared, painted, anointed, anoint,"
+    },
+    "ሴለፐ": {
+        "Amharic": "ወገን ሆነ",
+        "English": "be kin to, be related, be relative"
+    },
+    "ሰረፐ": {
+        "Amharic": "ቀደሰ",
+        "English": "sanctified, said the mass, sing mass,"
+    },
+    "ሮፐ": {
+        "Amharic": "ጸና",
+        "English": "abide, hold to, endure, insist, maintain,"
+    },
+    "ተረፐ": {
+        "Amharic": "አጠመደ",
+        "English": "entrap, hearken, lure, net, snare,"
+    },
+    "ቴረፐ": {
+        "Amharic": "በዛ፣በረከተ",
+        "English": "be durable, stand up, was"
+    },
+    "ቴፐ": {
+        "Amharic": "ደበበ፣ሠራ",
+        "English": "overhung, extended beyond, hung"
+    },
+    "አስኮተፐ": {
+        "Amharic": "አረሰ",
+        "English": "he ploughs, plough, till, culture,"
+    },
+    "ኤፐፐ": {
+        "Amharic": "ወደደ",
+        "English": ""
+    },
+    "ከተፐ": {
+        "Amharic": "ጻፈ",
+        "English": "write , buffet"
+    },
+    "ዴፐ": {
+        "Amharic": "ሸመቀ",
+        "English": "resentment, plotted, ill will, had"
+    }
+}
